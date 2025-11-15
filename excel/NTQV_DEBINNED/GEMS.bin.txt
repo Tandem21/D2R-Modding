@@ -1,0 +1,76 @@
+INDEX	name	letter	transform	code	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max	weaponmod1code__STR	weaponmod2code__STR	weaponmod3code__STR	helmmod1code__STR	helmmod2code__STR	helmmod3code__STR	shieldmod1code__STR	shieldmod2code__STR	shieldmod3code__STR	
+gmm	Amethyst		17	gmm	15	0	150	150	-1	0	0	0	-1	0	0	0	7	0	10	10	-1	0	0	0	-1	0	0	0	0	0	30	30	-1	0	0	0	-1	0	0	0	att			str			ac			
+gms	Sapphire		6	gms	17	0	10	10	18	0	14	14	19	0	75	75	11	0	38	38	-1	0	0	0	-1	0	0	0	35	0	40	40	-1	0	0	0	-1	0	0	0	cold-min	cold-max	cold-len	mana			res-cold			
+gme	Emerald		12	gme	24	0	143	143	25	0	143	143	26	0	179	179	8	0	10	10	-1	0	0	0	-1	0	0	0	39	0	40	40	-1	0	0	0	-1	0	0	0	pois-min	pois-max	pois-len	dex			res-pois			
+gmr	Ruby		9	gmr	20	0	15	15	21	0	20	20	-1	0	0	0	13	0	38	38	-1	0	0	0	-1	0	0	0	31	0	40	40	-1	0	0	0	-1	0	0	0	fire-min	fire-max		hp			res-fire			
+gmd	Diamond		0	gmd	99	0	68	68	-1	0	0	0	-1	0	0	0	15	0	100	100	-1	0	0	0	-1	0	0	0	41	0	19	19	-1	0	0	0	-1	0	0	0	dmg-undead			att			res-all			
+gmt	Topaz		13	gmt	22	0	1	1	23	0	40	40	-1	0	0	0	59	0	24	24	-1	0	0	0	-1	0	0	0	33	0	40	40	-1	0	0	0	-1	0	0	0	ltng-min	ltng-max		mag%			res-ltng			
+gmk	Skull		3	gmk	65	0	3	3	66	0	4	4	-1	0	0	0	53	0	5	5	62	0	19	19	-1	0	0	0	54	0	20	20	-1	0	0	0	-1	0	0	0	manasteal	lifesteal		regen	regen-mana		thorns			
+gcv	Chipped Amethyst		18	gcv	15	0	40	40	-1	0	0	0	-1	0	0	0	7	0	3	3	-1	0	0	0	-1	0	0	0	0	0	8	8	-1	0	0	0	-1	0	0	0	att			str			ac			
+gfv	Flawed Amethyst		18	gfv	15	0	60	60	-1	0	0	0	-1	0	0	0	7	0	4	4	-1	0	0	0	-1	0	0	0	0	0	12	12	-1	0	0	0	-1	0	0	0	att			str			ac			
+gsv	Normal Amethyst		18	gsv	15	0	80	80	-1	0	0	0	-1	0	0	0	7	0	6	6	-1	0	0	0	-1	0	0	0	0	0	18	18	-1	0	0	0	-1	0	0	0	att			str			ac			
+gzv	Flawless Amethyst		18	gzv	15	0	100	100	-1	0	0	0	-1	0	0	0	7	0	8	8	-1	0	0	0	-1	0	0	0	0	0	24	24	-1	0	0	0	-1	0	0	0	att			str			ac			
+gpv	Perfect Amethyst		17	gpv	15	0	150	150	-1	0	0	0	-1	0	0	0	7	0	10	10	-1	0	0	0	-1	0	0	0	0	0	30	30	-1	0	0	0	-1	0	0	0	att			str			ac			
+gcb	Chipped Sapphire		5	gcb	17	0	1	1	18	0	3	3	19	0	25	25	11	0	10	10	-1	0	0	0	-1	0	0	0	35	0	12	12	-1	0	0	0	-1	0	0	0	cold-min	cold-max	cold-len	mana			res-cold			
+gfb	Flawed Sapphire		5	gfb	17	0	3	3	18	0	5	5	19	0	35	35	11	0	17	17	-1	0	0	0	-1	0	0	0	35	0	16	16	-1	0	0	0	-1	0	0	0	cold-min	cold-max	cold-len	mana			res-cold			
+gsb	Normal Sapphire		5	gsb	17	0	4	4	18	0	7	7	19	0	50	50	11	0	24	24	-1	0	0	0	-1	0	0	0	35	0	22	22	-1	0	0	0	-1	0	0	0	cold-min	cold-max	cold-len	mana			res-cold			
+glb	Flawless Sapphire		5	glb	17	0	6	6	18	0	10	10	19	0	60	60	11	0	31	31	-1	0	0	0	-1	0	0	0	35	0	28	28	-1	0	0	0	-1	0	0	0	cold-min	cold-max	cold-len	mana			res-cold			
+gpb	Perfect Sapphire		6	gpb	17	0	10	10	18	0	14	14	19	0	75	75	11	0	38	38	-1	0	0	0	-1	0	0	0	35	0	40	40	-1	0	0	0	-1	0	0	0	cold-min	cold-max	cold-len	mana			res-cold			
+gcg	Chipped Emerald		11	gcg	24	0	34	34	25	0	34	34	26	0	75	75	8	0	3	3	-1	0	0	0	-1	0	0	0	39	0	12	12	-1	0	0	0	-1	0	0	0	pois-min	pois-max	pois-len	dex			res-pois			
+gfg	Flawed Emerald		11	gfg	24	0	51	51	25	0	51	51	26	0	100	100	8	0	4	4	-1	0	0	0	-1	0	0	0	39	0	16	16	-1	0	0	0	-1	0	0	0	pois-min	pois-max	pois-len	dex			res-pois			
+gsg	Normal Emerald		11	gsg	24	0	82	82	25	0	82	82	26	0	125	125	8	0	6	6	-1	0	0	0	-1	0	0	0	39	0	22	22	-1	0	0	0	-1	0	0	0	pois-min	pois-max	pois-len	dex			res-pois			
+glg	Flawless Emerald		11	glg	24	0	101	101	25	0	101	101	26	0	152	152	8	0	8	8	-1	0	0	0	-1	0	0	0	39	0	28	28	-1	0	0	0	-1	0	0	0	pois-min	pois-max	pois-len	dex			res-pois			
+gpg	Perfect Emerald		12	gpg	24	0	143	143	25	0	143	143	26	0	179	179	8	0	10	10	-1	0	0	0	-1	0	0	0	39	0	40	40	-1	0	0	0	-1	0	0	0	pois-min	pois-max	pois-len	dex			res-pois			
+gcr	Chipped Ruby		8	gcr	20	0	3	3	21	0	4	4	-1	0	0	0	13	0	10	10	-1	0	0	0	-1	0	0	0	31	0	12	12	-1	0	0	0	-1	0	0	0	fire-min	fire-max		hp			res-fire			
+gfr	Flawed Ruby		8	gfr	20	0	5	5	21	0	8	8	-1	0	0	0	13	0	17	17	-1	0	0	0	-1	0	0	0	31	0	16	16	-1	0	0	0	-1	0	0	0	fire-min	fire-max		hp			res-fire			
+gsr	Normal Ruby		8	gsr	20	0	8	8	21	0	12	12	-1	0	0	0	13	0	24	24	-1	0	0	0	-1	0	0	0	31	0	22	22	-1	0	0	0	-1	0	0	0	fire-min	fire-max		hp			res-fire			
+glr	Flawless Ruby		8	glr	20	0	10	10	21	0	16	16	-1	0	0	0	13	0	31	31	-1	0	0	0	-1	0	0	0	31	0	28	28	-1	0	0	0	-1	0	0	0	fire-min	fire-max		hp			res-fire			
+gpr	Perfect Ruby		9	gpr	20	0	15	15	21	0	20	20	-1	0	0	0	13	0	38	38	-1	0	0	0	-1	0	0	0	31	0	40	40	-1	0	0	0	-1	0	0	0	fire-min	fire-max		hp			res-fire			
+gcw	Chipped Diamond		1	gcw	99	0	28	28	-1	0	0	0	-1	0	0	0	15	0	20	20	-1	0	0	0	-1	0	0	0	41	0	6	6	-1	0	0	0	-1	0	0	0	dmg-undead			att			res-all			
+gfw	Flawed Diamond		1	gfw	99	0	34	34	-1	0	0	0	-1	0	0	0	15	0	40	40	-1	0	0	0	-1	0	0	0	41	0	8	8	-1	0	0	0	-1	0	0	0	dmg-undead			att			res-all			
+gsw	Normal Diamond		1	gsw	99	0	44	44	-1	0	0	0	-1	0	0	0	15	0	60	60	-1	0	0	0	-1	0	0	0	41	0	11	11	-1	0	0	0	-1	0	0	0	dmg-undead			att			res-all			
+glw	Flawless Diamond		1	glw	99	0	54	54	-1	0	0	0	-1	0	0	0	15	0	80	80	-1	0	0	0	-1	0	0	0	41	0	14	14	-1	0	0	0	-1	0	0	0	dmg-undead			att			res-all			
+gpw	Perfect Diamond		0	gpw	99	0	68	68	-1	0	0	0	-1	0	0	0	15	0	100	100	-1	0	0	0	-1	0	0	0	41	0	19	19	-1	0	0	0	-1	0	0	0	dmg-undead			att			res-all			
+gcy	Chipped Topaz		14	gcy	22	0	1	1	23	0	8	8	-1	0	0	0	59	0	9	9	-1	0	0	0	-1	0	0	0	33	0	12	12	-1	0	0	0	-1	0	0	0	ltng-min	ltng-max		mag%			res-ltng			
+gfy	Flawed Topaz		14	gfy	22	0	1	1	23	0	14	14	-1	0	0	0	59	0	13	13	-1	0	0	0	-1	0	0	0	33	0	16	16	-1	0	0	0	-1	0	0	0	ltng-min	ltng-max		mag%			res-ltng			
+gsy	Normal Topaz		14	gsy	22	0	1	1	23	0	22	22	-1	0	0	0	59	0	16	16	-1	0	0	0	-1	0	0	0	33	0	22	22	-1	0	0	0	-1	0	0	0	ltng-min	ltng-max		mag%			res-ltng			
+gly	Flawless Topaz		14	gly	22	0	1	1	23	0	30	30	-1	0	0	0	59	0	20	20	-1	0	0	0	-1	0	0	0	33	0	28	28	-1	0	0	0	-1	0	0	0	ltng-min	ltng-max		mag%			res-ltng			
+gpy	Perfect Topaz		13	gpy	22	0	1	1	23	0	40	40	-1	0	0	0	59	0	24	24	-1	0	0	0	-1	0	0	0	33	0	40	40	-1	0	0	0	-1	0	0	0	ltng-min	ltng-max		mag%			res-ltng			
+skc	Chipped Skull		2	skc	65	0	1	1	66	0	2	2	-1	0	0	0	53	0	2	2	62	0	8	8	-1	0	0	0	54	0	4	4	-1	0	0	0	-1	0	0	0	manasteal	lifesteal		regen	regen-mana		thorns			
+skf	Flawed Skull		2	skf	65	0	2	2	66	0	2	2	-1	0	0	0	53	0	3	3	62	0	8	8	-1	0	0	0	54	0	8	8	-1	0	0	0	-1	0	0	0	manasteal	lifesteal		regen	regen-mana		thorns			
+sku	Normal Skull		2	sku	65	0	2	2	66	0	3	3	-1	0	0	0	53	0	3	3	62	0	12	12	-1	0	0	0	54	0	12	12	-1	0	0	0	-1	0	0	0	manasteal	lifesteal		regen	regen-mana		thorns			
+skl	Flawless Skull		2	skl	65	0	3	3	66	0	3	3	-1	0	0	0	53	0	4	4	62	0	12	12	-1	0	0	0	54	0	16	16	-1	0	0	0	-1	0	0	0	manasteal	lifesteal		regen	regen-mana		thorns			
+skz	Perfect Skull		3	skz	65	0	3	3	66	0	4	4	-1	0	0	0	53	0	5	5	62	0	19	19	-1	0	0	0	54	0	20	20	-1	0	0	0	-1	0	0	0	manasteal	lifesteal		regen	regen-mana		thorns			
+r01	El Rune	r01L	18	r01	73	0	1	1	15	0	50	50	-1	0	0	0	73	0	1	1	0	0	15	15	-1	0	0	0	73	0	1	1	0	0	15	15	-1	0	0	0	light	att		light	ac		light	ac		
+r02	Eld Rune	r02L	18	r02	101	0	50	50	99	0	75	75	-1	0	0	0	228	0	5	5	-1	0	0	0	-1	0	0	0	16	0	7	7	-1	0	0	0	-1	0	0	0	att-undead	dmg-undead		heal-kill			block			
+r03	Tir Rune	r03L	18	r03	110	0	2	2	-1	0	0	0	-1	0	0	0	110	0	2	2	-1	0	0	0	-1	0	0	0	110	0	2	2	-1	0	0	0	-1	0	0	0	mana-kill			mana-kill			mana-kill			
+r04	Nef Rune	r04L	18	r04	60	0	1	1	-1	0	0	0	-1	0	0	0	1	0	30	30	-1	0	0	0	-1	0	0	0	1	0	30	30	-1	0	0	0	-1	0	0	0	knock			ac-miss			ac-miss			
+r05	Eth Rune	r05L	18	r05	93	0	25	25	-1	0	0	0	-1	0	0	0	62	0	15	15	-1	0	0	0	-1	0	0	0	62	0	15	15	-1	0	0	0	-1	0	0	0	reduce-ac			regen-mana			regen-mana			
+r06	Ith Rune	r06L	18	r06	28	0	9	9	-1	0	0	0	-1	0	0	0	30	0	15	15	-1	0	0	0	-1	0	0	0	30	0	15	15	-1	0	0	0	-1	0	0	0	dmg-max			dmg-to-mana			dmg-to-mana			
+r07	Tal Rune	r07L	18	r07	134	125	154	154	-1	0	0	0	-1	0	0	0	39	0	30	30	-1	0	0	0	-1	0	0	0	39	0	35	35	-1	0	0	0	-1	0	0	0	dmg-pois			res-pois			res-pois			
+r08	Ral Rune	r08L	18	r08	130	0	5	30	-1	0	0	0	-1	0	0	0	31	0	30	30	-1	0	0	0	-1	0	0	0	31	0	35	35	-1	0	0	0	-1	0	0	0	dmg-fire			res-fire			res-fire			
+r09	Ort Rune	r09L	18	r09	131	0	1	50	-1	0	0	0	-1	0	0	0	33	0	30	30	-1	0	0	0	-1	0	0	0	33	0	35	35	-1	0	0	0	-1	0	0	0	dmg-ltng			res-ltng			res-ltng			
+r10	Thul Rune	r10L	18	r10	133	75	3	14	-1	0	0	0	-1	0	0	0	35	0	30	30	-1	0	0	0	-1	0	0	0	35	0	35	35	-1	0	0	0	-1	0	0	0	dmg-cold			res-cold			res-cold			
+r11	Amn Rune	r11L	18	r11	66	0	7	7	-1	0	0	0	-1	0	0	0	54	0	14	14	-1	0	0	0	-1	0	0	0	54	0	14	14	-1	0	0	0	-1	0	0	0	lifesteal			thorns			thorns			
+r12	Sol Rune	r12L	18	r12	27	0	9	9	-1	0	0	0	-1	0	0	0	3	0	7	7	-1	0	0	0	-1	0	0	0	3	0	7	7	-1	0	0	0	-1	0	0	0	dmg-min			red-dmg			red-dmg			
+r13	Shael Rune	r13L	18	r13	56	0	20	20	-1	0	0	0	-1	0	0	0	80	0	20	20	-1	0	0	0	-1	0	0	0	83	0	20	20	-1	0	0	0	-1	0	0	0	swing2			balance2			block2			
+r14	Dol Rune	r14L	18	r14	90	0	32	32	-1	0	0	0	-1	0	0	0	53	0	7	7	-1	0	0	0	-1	0	0	0	53	0	7	7	-1	0	0	0	-1	0	0	0	howl			regen			regen			
+r15	Hel Rune	r15L	18	r15	75	0	-20	-20	-1	0	0	0	-1	0	0	0	75	0	-15	-15	-1	0	0	0	-1	0	0	0	75	0	-15	-15	-1	0	0	0	-1	0	0	0	ease			ease			ease			
+r16	Io Rune	r16L	18	r16	9	0	10	10	-1	0	0	0	-1	0	0	0	9	0	10	10	-1	0	0	0	-1	0	0	0	9	0	10	10	-1	0	0	0	-1	0	0	0	vit			vit			vit			
+r17	Lum Rune	r17L	18	r17	10	0	10	10	-1	0	0	0	-1	0	0	0	10	0	10	10	-1	0	0	0	-1	0	0	0	10	0	10	10	-1	0	0	0	-1	0	0	0	enr			enr			enr			
+r18	Ko Rune	r18L	18	r18	8	0	10	10	-1	0	0	0	-1	0	0	0	8	0	10	10	-1	0	0	0	-1	0	0	0	8	0	10	10	-1	0	0	0	-1	0	0	0	dex			dex			dex			
+r19	Fal Rune	r19L	18	r19	7	0	10	10	-1	0	0	0	-1	0	0	0	7	0	10	10	-1	0	0	0	-1	0	0	0	7	0	10	10	-1	0	0	0	-1	0	0	0	str			str			str			
+r20	Lem Rune	r20L	18	r20	58	0	75	75	-1	0	0	0	-1	0	0	0	58	0	50	50	-1	0	0	0	-1	0	0	0	58	0	50	50	-1	0	0	0	-1	0	0	0	gold%			gold%			gold%			
+r21	Pul Rune	r21L	18	r21	100	0	100	100	98	0	75	75	-1	0	0	0	5	0	30	30	-1	0	0	0	-1	0	0	0	5	0	30	30	-1	0	0	0	-1	0	0	0	att-demon	dmg-demon		ac%			ac%			
+r22	Um Rune	r22L	18	r22	107	0	25	25	-1	0	0	0	-1	0	0	0	41	0	15	15	-1	0	0	0	-1	0	0	0	41	0	22	22	-1	0	0	0	-1	0	0	0	openwounds			res-all			res-all			
+r23	Mal Rune	r23L	18	r23	94	0	1	1	-1	0	0	0	-1	0	0	0	6	0	7	7	-1	0	0	0	-1	0	0	0	6	0	7	7	-1	0	0	0	-1	0	0	0	noheal			red-mag			red-mag			
+r24	Ist Rune	r24L	18	r24	59	0	30	30	-1	0	0	0	-1	0	0	0	59	0	25	25	-1	0	0	0	-1	0	0	0	59	0	25	25	-1	0	0	0	-1	0	0	0	mag%			mag%			mag%			
+r25	Gul Rune	r25L	18	r25	96	0	20	20	-1	0	0	0	-1	0	0	0	40	0	5	5	-1	0	0	0	-1	0	0	0	40	0	5	5	-1	0	0	0	-1	0	0	0	att%			res-pois-max			res-pois-max			
+r26	Vex Rune	r26L	18	r26	65	0	7	7	-1	0	0	0	-1	0	0	0	32	0	5	5	-1	0	0	0	-1	0	0	0	32	0	5	5	-1	0	0	0	-1	0	0	0	manasteal			res-fire-max			res-fire-max			
+r27	Ohm Rune	r27L	18	r27	29	0	50	50	-1	0	0	0	-1	0	0	0	36	0	5	5	-1	0	0	0	-1	0	0	0	36	0	5	5	-1	0	0	0	-1	0	0	0	dmg%			res-cold-max			res-cold-max			
+r28	Lo Rune	r28L	18	r28	113	0	20	20	-1	0	0	0	-1	0	0	0	34	0	5	5	-1	0	0	0	-1	0	0	0	34	0	5	5	-1	0	0	0	-1	0	0	0	deadly			res-ltng-max			res-ltng-max			
+r29	Sur Rune	r29L	18	r29	91	0	1	1	-1	0	0	0	-1	0	0	0	12	0	5	5	-1	0	0	0	-1	0	0	0	11	0	50	50	-1	0	0	0	-1	0	0	0	stupidity			mana%			mana			
+r30	Ber Rune	r30L	18	r30	108	0	20	20	-1	0	0	0	-1	0	0	0	4	0	8	8	-1	0	0	0	-1	0	0	0	4	0	8	8	-1	0	0	0	-1	0	0	0	crush			red-dmg%			red-dmg%			
+r31	Jah Rune	r31L	18	r31	92	0	1	1	-1	0	0	0	-1	0	0	0	14	0	5	5	-1	0	0	0	-1	0	0	0	13	0	50	50	-1	0	0	0	-1	0	0	0	ignore-ac			hp%			hp			
+r32	Cham Rune	r32L	18	r32	106	0	3	3	-1	0	0	0	-1	0	0	0	115	0	1	1	-1	0	0	0	-1	0	0	0	115	0	1	1	-1	0	0	0	-1	0	0	0	freeze			nofreeze			nofreeze			
+r33	Zod Rune	r33L	18	r33	217	0	1	1	-1	0	0	0	-1	0	0	0	217	0	1	1	-1	0	0	0	-1	0	0	0	217	0	1	1	-1	0	0	0	-1	0	0	0	indestruct			indestruct			indestruct			

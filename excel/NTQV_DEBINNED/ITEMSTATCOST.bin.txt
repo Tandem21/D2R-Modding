@@ -1,0 +1,419 @@
+INDEX	Stat	___ID	Send Other	Signed	Send Bits	Send Param Bits	UpdateAnimRate	Saved	CSvSigned	CSvBits	CSvParam	fCallback	fMin	MinAccr	Encode	Add	Multiply	ValShift	1.09-Save Bits	1.09-Save Add	Save Bits	Save Add	Save Param Bits	keepzero	op	op param	op base	op stat1	op stat2	op stat3	direct	maxstat	damagerelated	itemevent1	itemeventfunc1	itemevent2	itemeventfunc2	descpriority	descfunc	descval	descstrpos	descstrneg	descstr2	dgrp	dgrpfunc	dgrpval	dgrpstrpos	dgrpstrneg	dgrpstr2	stuff	advdisplay	___eol	1.09 - Save Bits	1.09 - Save Add	op stat1__STR	op stat2__STR	op stat3__STR	descstrpos__STR	descstrneg__STR	descstr2__STR	
+0	strength	0	1		11			1	0	10			1	1		125	55		7	32	8	32	0		0	0	65535	0	0	0								67	19	0	3473	3473	5382	1	19		Moditem2allattrib	Moditem2allattrib		6		0	0	0	65535	65535	65535	ModStr1a	ModStr1a		
+1	energy	1			11			1	0	10			1	1		100	55		7	32	7	32	0		8	0	65535	0	0	0								61	19	0	3476	3476	5382	1	19		Moditem2allattrib	Moditem2allattrib				0	0	0	maxmana	65535	65535	ModStr1d	ModStr1d		
+2	dexterity	2	1		11			1	0	10			1	1		125	55		7	32	7	32	0		0	0	65535	0	0	0								65	19	0	3474	3474	5382	1	19		Moditem2allattrib	Moditem2allattrib				0	0	0	65535	65535	65535	ModStr1b	ModStr1b		
+3	vitality	3			11			1	0	10			1	1		100	55		7	32	7	32	0		9	0	65535	0	0	0								63	19	0	3475	3475	5382	1	19		Moditem2allattrib	Moditem2allattrib				0	0	0	maxhp	maxstamina	65535	ModStr1c	ModStr1c		
+4	statpts	4			9			1	0	10											0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+5	newskills	5			9			1	0	8											0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+6	hitpoints	6			32			1	0	21								8			0	0	0		0	0	65535	0	0	0	1	maxhp						0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+7	maxhp	7			32			1	0	21		1	1	1		56	20	8	8	32	9	32	0		0	0	65535	0	0	0								59	19	0	3493	3493	5382									0	0	0	65535	65535	65535	ModStr1u	ModStr1u		
+8	mana	8			32			1	0	21								8			0	0	0	1	0	0	65535	0	0	0	1	maxmana						0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+9	maxmana	9			32			1	0	21		1	1	0		81	20	8	8	32	8	32	0		0	0	65535	0	0	0								55	19	0	3477	3477	5382									0	0	0	65535	65535	65535	ModStr1e	ModStr1e		
+10	stamina	10			32			1	0	21								8			0	0	0	1	0	0	65535	0	0	0	1	maxstamina						0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+11	maxstamina	11			32			1	0	21		1	1	0		75	20	8	8	32	8	32	0		0	0	65535	0	0	0								51	19	0	10001	10001	5382									0	0	0	65535	65535	65535	ModStr5d	ModStr5d		
+12	level	12			9			1	0	7											0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+13	experience	13			32			1	0	32											0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+14	gold	14			32			1	0	25											0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+15	goldbank	15			32			1	0	25											0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+16	item_armor_percent	16		1	11											47	20		9	0	9	0	0		13	0	65535	0	0	0								74	19	0	3520	3520	5382									0	0	0	armorclass	65535	65535	Modstr2v	Modstr2v		
+17	item_maxdamage_percent	17		1	11											45	20		9	0	9	0	0		13	0	65535	0	0	0			1					129	19	0	3508	3508	5382									0	0	0	maxdamage	secondary_maxdamage	item_throw_maxdamage	ModStr2j	ModStr2j		
+18	item_mindamage_percent	18		1	11											45	20		9	0	9	0	0		13	0	65535	0	0	0			1					130	19	0	3509	3509	5382									0	0	0	mindamage	secondary_mindamage	item_throw_mindamage	ModStr2k	ModStr2k		
+19	tohit	19		1	16											15	10		10		10	0	0		0	0	65535	0	0	0			1					115	19	0	3480	3480	5382									0	0	0	65535	65535	65535	ModStr1h	ModStr1h		
+20	toblock	20		1	10											89	204		7	0	7	0	0		0	0	65535	0	0	0								134	19	0	3531	3531	5382									0	0	0	65535	65535	65535	ModStr3g	ModStr3g		
+21	mindamage	21		1	16											122	25		6	0	8	0	0		0	0	65535	0	0	0			1					127	19	0	3479	3479	5382									0	0	0	65535	65535	65535	ModStr1g	ModStr1g		
+22	maxdamage	22		1	16											94	16		7	0	9	0	0		0	0	65535	0	0	0			1					126	19	0	3478	3478	5382									0	0	0	65535	65535	65535	ModStr1f	ModStr1f		
+23	secondary_mindamage	23		1	16											97	15		6	0	8	0	0		0	0	65535	0	0	0			1					124	19	0	3479	3479	5382									0	0	0	65535	65535	65535	ModStr1g	ModStr1g		
+24	secondary_maxdamage	24		1	16											85	11		7	0	9	0	0		0	0	65535	0	0	0			1					123	19	0	3478	3478	5382									0	0	0	65535	65535	65535	ModStr1f	ModStr1f		
+25	damagepercent	25		1	12											45	40		8	0	8	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+26	manarecovery	26																	8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+27	manarecoverybonus	27		1	16														8	0	8	0	0		0	0	65535	0	0	0								52	19	0	3555	3555	5382								2	0	0	0	65535	65535	65535	ModStr4g	ModStr4g		
+28	staminarecoverybonus	28		1	16														8	0	8	0	0		0	0	65535	0	0	0								48	19	0	3544	3544	5382								2	0	0	0	65535	65535	65535	ModStr3v	ModStr3v		
+29	lastexp	29			32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+30	nextexp	30			32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+31	armorclass	31		1	16											17	10		10	10	11	10	0		0	0	65535	0	0	0								71	19	0	3481	3481	5382									0	0	0	65535	65535	65535	ModStr1i	ModStr1i		
+32	armorclass_vs_missile	32		1	16											11	5		8	0	9	0	0		0	0	65535	0	0	0								69	19	0	3601	3601	5382									0	0	0	65535	65535	65535	ModStr6a	ModStr6a		
+33	armorclass_vs_hth	33		1	16											13	7		8	0	8	0	0		0	0	65535	0	0	0								70	19	0	3602	3602	5382									0	0	0	65535	65535	65535	ModStr6b	ModStr6b		
+34	normal_damage_reduction	34		1	10											188	200		6	0	6	0	0		0	0	65535	0	0	0								22	19	0	3519	3519	5382								2	0	0	0	65535	65535	65535	ModStr2u	ModStr2u		
+35	magic_damage_reduction	35		1	10											397	340		6	0	6	0	0		0	0	65535	0	0	0								21	19	0	3518	3518	5382								2	0	0	0	65535	65535	65535	ModStr2t	ModStr2t		
+36	damageresist	36		1	9											152	68		8	0	9	200	0		0	0	65535	0	0	0								22	19	0	23001	23001	5382								2	0	0	0	65535	65535	65535	ModStr2uPercent	ModStr2uPercent		
+37	magicresist	37		1	9											164	68		8	0	9	200	0		0	0	65535	0	0	0								41	19	0	3485	3485	5382								2	0	0	0	65535	65535	65535	ModStr1m	ModStr1m		
+38	maxmagicresist	38		1	9											1091	409		5	0	5	0	0		0	0	65535	0	0	0								46	19	0	3598	3598	5382								2	0	0	0	65535	65535	65535	ModStr5x	ModStr5x		
+39	fireresist	39		1	9											43	20		8	0	9	200	0		0	0	65535	0	0	0								36	19	0	3482	3482	5382	2	19		strModAllResistances	strModAllResistances				0	0	0	65535	65535	65535	ModStr1j	ModStr1j		
+40	maxfireresist	40		1	9											584	256		5	0	5	0	0		0	0	65535	0	0	0								42	19	0	3595	3595	5382	5	19		ModStrAllMaxRes	ModStrAllMaxRes				0	0	0	65535	65535	65535	ModStr5u	ModStr5u		
+41	lightresist	41		1	9											43	20		8	0	9	200	0		0	0	65535	0	0	0								38	19	0	3484	3484	5382	2	19		strModAllResistances	strModAllResistances				0	0	0	65535	65535	65535	ModStr1l	ModStr1l		
+42	maxlightresist	42		1	9											584	256		5	0	5	0	0		0	0	65535	0	0	0								43	19	0	3597	3597	5382	5	19		ModStrAllMaxRes	ModStrAllMaxRes				0	0	0	65535	65535	65535	ModStr5w	ModStr5w		
+43	coldresist	43		1	9											43	20		8	0	9	200	0		0	0	65535	0	0	0								40	19	0	3483	3483	5382	2	19		strModAllResistances	strModAllResistances				0	0	0	65535	65535	65535	ModStr1k	ModStr1k		
+44	maxcoldresist	44		1	9											584	256		5	0	5	0	0		0	0	65535	0	0	0								44	19	0	3596	3596	5382	5	19		ModStrAllMaxRes	ModStrAllMaxRes				0	0	0	65535	65535	65535	ModStr5v	ModStr5v		
+45	poisonresist	45		1	9											43	20		8	0	9	200	0		0	0	65535	0	0	0								34	19	0	3486	3486	5382	2	19		strModAllResistances	strModAllResistances				0	0	0	65535	65535	65535	ModStr1n	ModStr1n		
+46	maxpoisonresist	46		1	9											526	256		5	0	5	0	0		0	0	65535	0	0	0								45	19	0	3599	3599	5382	5	19		ModStrAllMaxRes	ModStrAllMaxRes				0	0	0	65535	65535	65535	ModStr5y	ModStr5y		
+47	damageaura	47		1	16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+48	firemindam	48		1	16											11	10		8	0	8	0	0		0	0	65535	0	0	0			1					102	19	0	3488	3488	5382									0	0	0	65535	65535	65535	ModStr1p	ModStr1p		
+49	firemaxdam	49		1	16											19	10		8	0	9	0	0		0	0	65535	0	0	0			1					101	19	0	3487	3487	5382									0	0	0	65535	65535	65535	ModStr1o	ModStr1o		
+50	lightmindam	50		1	16											12	10		6	0	6	0	0		0	0	65535	0	0	0			1					99	19	0	3490	3490	5382									0	0	0	65535	65535	65535	ModStr1r	ModStr1r		
+51	lightmaxdam	51		1	16											17	10		9	0	10	0	0		0	0	65535	0	0	0			1					98	19	0	3489	3489	5382									0	0	0	65535	65535	65535	ModStr1q	ModStr1q		
+52	magicmindam	52		1	16											196	20		6	0	8	0	0		0	0	65535	0	0	0			1					104	19	0	10032	10032	5382									0	0	0	65535	65535	65535	strModMagicDamage	strModMagicDamage		
+53	magicmaxdam	53		1	16											183	20		7	0	9	0	0		0	0	65535	0	0	0			1					103	19	0	10032	10032	5382									0	0	0	65535	65535	65535	strModMagicDamage	strModMagicDamage		
+54	coldmindam	54		1	16											451	512		6	0	8	0	0		0	0	65535	0	0	0			1					96	19	0	3492	3492	5382									0	0	0	65535	65535	65535	ModStr1t	ModStr1t		
+55	coldmaxdam	55		1	16											128	340		8	0	9	0	0		0	0	65535	0	0	0			1					95	19	0	3491	3491	5382									0	0	0	65535	65535	65535	ModStr1s	ModStr1s		
+56	coldlength	56		1	16											77	4		8	0	8	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+57	poisonmindam	57		1	19											12	28		9	0	10	0	0		0	0	65535	0	0	0			1					92	19	0	3557	3557	5382									0	0	0	65535	65535	65535	ModStr4i	ModStr4i		
+58	poisonmaxdam	58		1	19											11	34		9	0	10	0	0		0	0	65535	0	0	0			1					91	19	0	3556	3556	5382									0	0	0	65535	65535	65535	ModStr4h	ModStr4h		
+59	poisonlength	59		1	16											0	4		8	0	9	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+60	lifedrainmindam	60		1	16											1044	341		7	0	7	0	0		0	0	65535	0	0	0			1					88	19	0	3524	3524	5382								2	0	0	0	65535	65535	65535	ModStr2z	ModStr2z		
+61	lifedrainmaxdam	61		1	16																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+62	manadrainmindam	62		1	16											1179	341		7	0	7	0	0		0	0	65535	0	0	0			1					89	19	0	3523	3523	5382								2	0	0	0	65535	65535	65535	ModStr2y	ModStr2y		
+63	manadrainmaxdam	63		1	16																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+64	stamdrainmindam	64		1	16																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+65	stamdrainmaxdam	65		1	16																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+66	stunlength	66			16																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+67	velocitypercent	67	1	1	10		1												7	30	7	30	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+68	attackrate	68	1	1	10		1												7	30	7	30	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+69	other_animrate	69	1	1	10		1														0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+70	quantity	70		1	16																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+71	value	71		1	9														8	100	8	100	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+72	durability	72		1	9														8	0	9	0	0		0	0	65535	0	0	0	1	maxdurability						0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+73	maxdurability	73		1	9											9	4		8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+74	hpregen	74														451	410		6	30	6	30	0		0	0	65535	0	0	0								56	19	0	3510	3521	5382								2	0	0	0	65535	65535	65535	ModStr2l	ModStr2w		
+75	item_maxdurability_percent	75		1	7											117	10		7	20	7	20	0		13	0	65535	0	0	0								3	19	0	3507	3507	5382									0	0	0	maxdurability	65535	65535	ModStr2i	ModStr2i		
+76	item_maxhp_percent	76		1	16											32093	204		6	10	6	10	0		11	0	65535	0	0	0								58	19	0	3505	3505	5382									0	0	0	maxhp	65535	65535	ModStr2g	ModStr2g		
+77	item_maxmana_percent	77		1	16											56452	204		6	10	6	10	0		11	0	65535	0	0	0								54	19	0	3506	3506	5382									0	0	0	maxmana	65535	65535	ModStr2h	ModStr2h		
+78	item_attackertakesdamage	78		1	16							1				112	128		7	0	7	0	0		0	0	65535	0	0	0				attackedinmelee	6			13	19	0	3494	3494	5382								2	0	0	0	65535	65535	65535	ModStr1v	ModStr1v		
+79	item_goldbonus	79		1	12											187	34		9	100	9	100	0		0	0	65535	0	0	0								10	19	0	11032	11032	5382								2	0	0	0	65535	65535	65535	ModStr1w	ModStr1w		
+80	item_magicbonus	80		1	12											577	102		8	100	9	100	0		0	0	65535	0	0	0								8	19	0	11033	11033	5382								2	0	0	0	65535	65535	65535	ModStr1x	ModStr1x		
+81	item_knockback	81		1	8							1				105	0		7	0	7	0	0		0	0	65535	0	0	0			1	domeleedamage	7	domissiledamage	7	76	19	0	3497	3497	5382								2	0	0	0	65535	65535	65535	ModStr1y	ModStr1y		
+82	item_timeduration	82		1	10														9	20	9	20	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+83	item_addclassskills	83		1	4	3						1				49523	1560		3	0	3	0	3		0	0	65535	0	0	0								150	13	0	3525	3525	5382									0	0	0	65535	65535	65535	ModStr3a	ModStr3a		
+84	unsentparam1	84																	3	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+85	item_addexperience	85		1	9											36015	519		3	0	9	50	0		0	0	65535	0	0	0								11	19	0	10978	10978	5382								2	0	0	0	65535	65535	65535	Moditem2ExpG	Moditem2ExpG		
+86	item_healafterkill	86		1	7							1				30	101		3	0	7	0	0		0	0	65535	0	0	0				kill	28			16	19	0	10979	10979	5382								2	0	0	0	65535	65535	65535	ModitemHPaK	ModitemHPaK		
+87	item_reducedprices	87			8											18957	203		3	0	7	0	0		0	0	65535	0	0	0								8	19	0	10980	10980	5382								2	0	0	0	65535	65535	65535	ModitemRedVendP	ModitemRedVendP		
+88	item_doubleherbduration	88		1	2														1	0	1	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+89	item_lightradius	89		1	5							1				15	51		4	4	4	4	0		0	0	65535	0	0	0								6	19	0	3530	3530	5382								2	0	0	0	65535	65535	65535	ModStr3f	ModStr3f		
+90	item_lightcolor	90		1	24							1				155	0		5	0	24	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+91	item_req_percent	91		1	8											26	-34		8	100	8	100	0		0	0	65535	0	0	0								2	19	0	48085	3532	5382									0	0	0	65535	65535	65535	ModStr3h2	ModStr3h		
+92	item_levelreq	92		1															8	20	8	6	0		0	0	65535	0	0	0								2	19	0	48073	48073	5382									0	0	0	65535	65535	65535	ItemStats2p	ItemStats2p		
+93	item_fasterattackrate	93	1	1	9											1042	156		7	20	7	20	0		0	0	65535	0	0	0			1					145	19	0	3561	3561	5382								2	0	0	0	65535	65535	65535	ModStr4m	ModStr4m		
+94	item_levelreqpct	94																	7	20	7	64	0		13	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	item_levelreq	65535	65535				
+95	lastblockframe	95																	6	20	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+96	item_fastermovevelocity	96	1	1	9											4083	156		7	20	7	20	0		0	0	65535	0	0	0								148	19	0	3567	3567	5382								2	0	0	0	65535	65535	65535	ModStr4s	ModStr4s		
+97	item_nonclassskill	97		1	15	9						1			1	181	327		7	20	6	0	9		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+98	state	98	1		1	8						1				415	64		6	20	1	0	8		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+99	item_fastergethitrate	99	1	1	9											1065	72		7	20	7	20	0		0	0	65535	0	0	0								139	19	0	3564	3564	5382								2	0	0	0	65535	65535	65535	ModStr4p	ModStr4p		
+100	monster_playercount	100																	7	20	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+101	skill_poison_override_length	101			8														6	20	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+102	item_fasterblockrate	102	1	1	9											1484	72		7	20	7	20	0		0	0	65535	0	0	0								136	19	0	3573	3573	5382								2	0	0	0	65535	65535	65535	ModStr4y	ModStr4y		
+103	skill_bypass_undead	103			1														7	20	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+104	skill_bypass_demons	104			1														6	20	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+105	item_fastercastrate	105	1	1	9											3876	156		7	20	7	20	0		0	0	65535	0	0	0								142	19	0	3570	3570	5382								2	0	0	0	65535	65535	65535	ModStr4v	ModStr4v		
+106	skill_bypass_beasts	106			1														7	20	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+107	item_singleskill	107		1	15	9						1			1	181	256		14	0	3	0	9		0	0	65535	0	0	0								81	27	0	23004	23004	5382									0	0	0	65535	65535	65535	ItemModifierClassSkill	ItemModifierClassSkill		
+108	item_restinpeace	108			1							1				1987	0		14	0	1	0	0		0	0	65535	0	0	0			1	kill	29			81	19	0	10981	10981	5382								2	0	0	0	65535	65535	65535	ModitemSMRIP	ModitemSMRIP		
+109	curse_resistance	109			9											159	33		14	0	9	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+110	item_poisonlengthresist	110		1	9											27	10		8	20	8	20	0		0	0	65535	0	0	0								18	19	0	3542	3542	5382								2	0	0	0	65535	65535	65535	ModStr3r	ModStr3r		
+111	item_normaldamage	111		1	8											94	100		7	20	9	20	0		0	0	65535	0	0	0			1					122	19	0	3576	3576	5382									0	0	0	65535	65535	65535	ModStr5b	ModStr5b		
+112	item_howl	112		1	8							1				55	10		7	-1	7	-1	0		0	0	65535	0	0	0			1	domeleedamage	8	domissiledamage	8	79	5	0	11034	11034	5382								2	0	0	0	65535	65535	65535	ModStr3u	ModStr3u		
+113	item_stupidity	113		1	8							1				332	1024		7	0	7	0	0		0	0	65535	0	0	0			1	domeleedamage	9	domissiledamage	9	80	12	2	11038	11038	5382								2	0	0	0	65535	65535	65535	ModStr6d	ModStr6d		
+114	item_damagetomana	114		1	7							1				43	20		6	0	6	0	0		0	0	65535	0	0	0				damagedinmelee	13	damagedbymissile	13	11	19	0	3545	3545	5382								2	0	0	0	65535	65535	65535	ModStr3w	ModStr3w		
+115	item_ignoretargetac	115		1	2											1088	1024		1	0	1	0	0		0	0	65535	0	0	0			1					119	19	0	3547	3547	5382								2	0	0	0	65535	65535	65535	ModStr3y	ModStr3y		
+116	item_fractionaltargetac	116		1	8											67	20		7	0	7	0	0		0	0	65535	0	0	0			1					118	19	0	3589	3589	5382								2	0	0	0	65535	65535	65535	ModStr5o	ModStr5o		
+117	item_preventheal	117		1	8											48	50		7	0	7	0	0		0	0	65535	0	0	0			1					81	19	0	3549	3549	5382								2	0	0	0	65535	65535	65535	ModStr4a	ModStr4a		
+118	item_halffreezeduration	118		1	2											5096	988		1	0	1	0	0		0	0	65535	0	0	0								19	19	0	3550	3550	5382								2	0	0	0	65535	65535	65535	ModStr4b	ModStr4b		
+119	item_tohit_percent	119		1	12											981	40		9	20	9	20	0		0	0	65535	0	0	0			1					117	19	0	11035	11035	5382									0	0	0	65535	65535	65535	ModStr4c	ModStr4c		
+120	item_damagetargetac	120		1	8											24	-20		7	128	7	128	0		0	0	65535	0	0	0			1					75	19	0	3552	3552	5382								2	0	0	0	65535	65535	65535	ModStr4d	ModStr4d		
+121	item_demondamage_percent	121		1	12											19	12		9	20	9	20	0		0	0	65535	0	0	0			1					112	19	0	3553	3553	5382								2	0	0	0	65535	65535	65535	ModStr4e	ModStr4e		
+122	item_undeaddamage_percent	122		1	12											13	12		9	20	9	20	0		0	0	65535	0	0	0			1					108	19	0	3554	3554	5382								2	0	0	0	65535	65535	65535	ModStr4f	ModStr4f		
+123	item_demon_tohit	123		1	13											15	7		10	128	10	128	0		0	0	65535	0	0	0			1					110	19	0	3558	3558	5382									0	0	0	65535	65535	65535	ModStr4j	ModStr4j		
+124	item_undead_tohit	124		1	13											11	7		10	128	10	128	0		0	0	65535	0	0	0			1					106	19	0	3559	3559	5382									0	0	0	65535	65535	65535	ModStr4k	ModStr4k		
+125	item_throwable	125		1	2											82	1024		1	0	1	0	0		0	0	65535	0	0	0								5	19	0	3575	3575	5382									0	0	0	65535	65535	65535	ModStr5a	ModStr5a		
+126	item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+127	item_allskills	127		1	8							1				15123	4096		3	0	3	0	0		0	0	65535	0	0	0								158	19	0	3535	3535	5382									0	0	0	65535	65535	65535	ModStr3k	ModStr3k		
+128	item_attackertakeslightdamage	128		1	6							1				4	102		5	0	5	0	0		0	0	65535	0	0	0				damagedinmelee	10			14	19	0	3534	3534	5382								2	0	0	0	65535	65535	65535	ModStr3j	ModStr3j		
+129	ironmaiden_level	129		1	10																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+130	lifetap_level	130		1	10																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+131	thorns_percent	131			12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+132	bonearmor	132		1	32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+133	bonearmormax	133		1	32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+134	item_freeze	134		1	5							1				666	12		5	0	5	0	0		0	0	65535	0	0	0			1	domeleedamage	14	domissiledamage	14	78	12	2	3536	3536	5382								2	0	0	0	65535	65535	65535	ModStr3l	ModStr3l		
+135	item_openwounds	135		1	7							1				23	10		7	0	7	0	0		0	0	65535	0	0	0			1	domeleedamage	15	domissiledamage	15	83	19	0	3537	3537	5382								2	0	0	0	65535	65535	65535	ModStr3m	ModStr3m		
+136	item_crushingblow	136		1	7							1				98	40		7	0	7	0	0		0	0	65535	0	0	0			1	domeleedamage	16	domissiledamage	16	87	19	0	3577	3577	5382								2	0	0	0	65535	65535	65535	ModStr5c	ModStr5c		
+137	item_kickdamage	137		1	7											77	51		7	0	7	0	0		0	0	65535	0	0	0								121	19	0	3579	3579	5382									0	0	0	65535	65535	65535	ModStr5e	ModStr5e		
+138	item_manaafterkill	138		1	7							1				17	102		7	0	7	0	0		0	0	65535	0	0	0				kill	17			16	19	0	3580	3580	5382								2	0	0	0	65535	65535	65535	ModStr5f	ModStr5f		
+139	item_healafterdemonkill	139		1	7							1				18	102		7	0	7	0	0		0	0	65535	0	0	0				kill	18			15	19	0	3603	3603	5382								2	0	0	0	65535	65535	65535	ModStr6c	ModStr6c		
+140	item_extrablood	140		1	7											15	10		7	0	7	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+141	item_deadlystrike	141		1	7											31	25		7	0	7	0	0		0	0	65535	0	0	0			1					85	19	0	3591	3591	5382								2	0	0	0	65535	65535	65535	ModStr5q	ModStr5q		
+142	item_absorbfire_percent	142		1	7											5486	102		7	0	7	0	0		0	0	65535	0	0	0								23	19	0	3581	3581	5382								2	0	0	0	65535	65535	65535	ModStr5g	ModStr5g		
+143	item_absorbfire	143		1	7											1739	204		7	0	7	0	0		0	0	65535	0	0	0								27	19	0	3582	3582	5382								2	0	0	0	65535	65535	65535	ModStr5h	ModStr5h		
+144	item_absorblight_percent	144		1	7											5486	102		7	0	7	0	0		0	0	65535	0	0	0								24	19	0	3583	3583	5382								2	0	0	0	65535	65535	65535	ModStr5i	ModStr5i		
+145	item_absorblight	145		1	7											1739	204		7	0	7	0	0		0	0	65535	0	0	0								29	19	0	3584	3584	5382								2	0	0	0	65535	65535	65535	ModStr5j	ModStr5j		
+146	item_absorbmagic_percent	146		1	7											5486	102		7	0	7	0	0		0	0	65535	0	0	0								26	19	0	3585	3585	5382								2	0	0	0	65535	65535	65535	ModStr5k	ModStr5k		
+147	item_absorbmagic	147		1	7											1739	204		7	0	7	0	0		0	0	65535	0	0	0								33	19	0	3586	3586	5382								2	0	0	0	65535	65535	65535	ModStr5l	ModStr5l		
+148	item_absorbcold_percent	148		1	7											5486	102		7	0	7	0	0		0	0	65535	0	0	0								25	19	0	3587	3587	5382								2	0	0	0	65535	65535	65535	ModStr5m	ModStr5m		
+149	item_absorbcold	149		1	7											1739	204		7	0	7	0	0		0	0	65535	0	0	0								31	19	0	3588	3588	5382								2	0	0	0	65535	65535	65535	ModStr5n	ModStr5n		
+150	item_slow	150		1	7							1				101	40		7	0	7	0	0		0	0	65535	0	0	0			1	domeleedamage	19	domissiledamage	19	77	19	0	11036	11036	5382								2	0	0	0	65535	65535	65535	ModStr5r	ModStr5r		
+151	item_aura	151		1								1							7	0	5	0	9		0	0	65535	0	0	0								159	16	0	10976	10976	5382								2	0	0	0	65535	65535	65535	ModitemAura	ModitemAura		
+152	item_indesctructible	152		1	1														7	0	1	0	0		0	0	65535	0	0	0								160	19	0	21240	21240	5382									0	0	0	65535	65535	65535	ModStre9s	ModStre9s		
+153	item_cannotbefrozen	153		1	2											15011	2048		1		1	0	0		0	0	65535	0	0	0								20	19	0	3600	3600	5382								2	0	0	0	65535	65535	65535	ModStr5z	ModStr5z		
+154	item_staminadrainpct	154		1	7											102	20		7	20	7	20	0		0	0	65535	0	0	0			1					49	19	0	48038	48038	5382								2	0	0	0	65535	65535	65535	ModStr6e	ModStr6e		
+155	item_reanimate	155			7	10						1							7	0	7	0	10		0	0	65535	0	0	0			1	kill	31			17	23	0	10985	10985	5382								2	0	0	0	65535	65535	65535	Moditemreanimas	Moditemreanimas		
+156	item_pierce	156		1	7											1924	2048		7	0	7	0	0		0	0	65535	0	0	0			1					132	19	0	3607	3607	5382								2	0	0	0	65535	65535	65535	ModStr6g	ModStr6g		
+157	item_magicarrow	157		1	7											511	1024		7	0	7	0	0		0	0	65535	0	0	0								131	19	0	3608	3608	5382									0	0	0	65535	65535	65535	ModStr6h	ModStr6h		
+158	item_explosivearrow	158		1	7											492	1536		7	0	7	0	0		0	0	65535	0	0	0								133	19	0	3609	3609	5382									0	0	0	65535	65535	65535	ModStr6i	ModStr6i		
+159	item_throw_mindamage	159		1	6											76	128		6	0	8	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+160	item_throw_maxdamage	160		1	7											88	128		7	0	9	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+161	skill_handofathena	161		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+162	skill_staminapercent	162		1	13																0	0	0		1	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	maxstamina	65535	65535				
+163	skill_passive_staminapercent	163		1	12																0	0	0		1	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	maxstamina	65535	65535				
+164	skill_concentration	164		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+165	skill_enchant	165		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+166	skill_pierce	166		1	12	16															0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+167	skill_conviction	167		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+168	skill_chillingarmor	168		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+169	skill_frenzy	169		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+170	skill_decrepify	170		1	12																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+171	skill_armor_percent	171		1	16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+172	alignment	172	1		2																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+173	target0	173			32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+174	target1	174			32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+175	goldlost	175			24																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+176	conversion_level	176			8																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+177	conversion_maxhp	177			16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+178	unit_dooverlay	178			16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+179	attack_vs_montype	179			9	10										19	14		3	0	9	0	10		0	0	65535	0	0	0			1					108	22	0	10982	10982	5382									0	0	0	65535	65535	65535	ModitemAttratvsM	ModitemAttratvsM		
+180	damage_vs_montype	180			9	10										27	17		3	0	9	0	10		0	0	65535	0	0	0			1					106	22	0	10983	10983	5382									0	0	0	65535	65535	65535	Moditemdamvsm	Moditemdamvsm		
+181	fade	181	1		7														14	0	3	0	0		0	0	65535	0	0	0								1	19	0	48084	48084	5382									0	0	0	65535	65535	65535	fadeDescription	fadeDescription		
+182	armor_override_percent	182	1	1	8														14	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+183	lasthitreactframe	183																	14	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+184	create_season	184																	14	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+185	bonus_mindamage	185		1	12																8	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+186	bonus_maxdamage	186		1	12																8	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+187	item_pierce_cold_immunity	187			10											1432	513				10	0	0		0	0	65535	0	0	0								100	19	0	27339	27339	5382								2	0	0	0	65535	65535	65535	ModItemMonColdSunder	ModItemMonColdSunder		
+188	item_addskill_tab	188		1	3	6						1				11042	768		10	0	3	0	16		0	0	65535	0	0	0								151	14	0	10054	10054	5382									0	0	0	65535	65535	65535	StrSklTabItem1	StrSklTabItem1		
+189	item_pierce_fire_immunity	189			10											1432	513				10	0	0		0	0	65535	0	0	0								300	19	0	27340	27340	5382								2	0	0	0	65535	65535	65535	ModItemMonFireSunder	ModItemMonFireSunder		
+190	item_pierce_light_immunity	190			10											1432	513				10	0	0		0	0	65535	0	0	0								300	19	0	27341	27341	5382								2	0	0	0	65535	65535	65535	ModItemMonLightSunder	ModItemMonLightSunder		
+191	item_pierce_poison_immunity	191			10											1432	513				10	0	0		0	0	65535	0	0	0								300	19	0	27342	27342	5382								2	0	0	0	65535	65535	65535	ModItemMonPoisonSunder	ModItemMonPoisonSunder		
+192	item_pierce_damage_immunity	192			10											1432	513				10	0	0		0	0	65535	0	0	0								300	19	0	27343	27343	5382								2	0	0	0	65535	65535	65535	ModItemMonPhysicalSunder	ModItemMonPhysicalSunder		
+193	item_pierce_magic_immunity	193			10											1432	513				10	0	0		0	0	65535	0	0	0								300	19	0	27344	27344	5382								2	0	0	0	65535	65535	65535	ModItemMonMagicSunder	ModItemMonMagicSunder		
+194	item_numsockets	194		1	4											38	170		4	0	4	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+195	item_skillonattack	195		1	7	16						1			2	190	256		21	0	7	0	16		0	0	65535	0	0	0			1	domeleeattack	20	domissileattack	20	160	15	0	21885	21885	5382								2	0	0	0	65535	65535	65535	ItemExpansiveChancX	ItemExpansiveChancX		
+196	item_skillonkill	196		1	7	16						1			2	85	19		21	0	7	0	16		0	0	65535	0	0	0			1	kill	20			160	15	0	10996	10996	5382								2	0	0	0	65535	65535	65535	ModitemskonKill	ModitemskonKill		
+197	item_skillondeath	197		1	7	16						1			2	11	9		21	0	7	0	16		0	0	65535	0	0	0				killed	30			160	15	0	10994	10994	5382								2	0	0	0	65535	65535	65535	Moditemskondeath	Moditemskondeath		
+198	item_skillonhit	198		1	7	16						1			2	190	256		21	0	7	0	16		0	0	65535	0	0	0			1	domeleedamage	20	domissiledamage	20	160	15	0	21886	21886	5382								2	0	0	0	65535	65535	65535	ItemExpansiveChanc1	ItemExpansiveChanc1		
+199	item_skillonlevelup	199		1	7	16						1			2	7	6		21	0	7	0	16		0	0	65535	0	0	0				levelup	30			160	15	0	10995	10995	5382								2	0	0	0	65535	65535	65535	ModitemskonLevel	ModitemskonLevel		
+200	item_charge_noconsume	200			7											106	256				7	0	0		0	0	65535	0	0	0								298	19	0	27371	27371	5382								2	0	0	0	65535	65535	65535	ModStr6k	ModStr6k		
+201	item_skillongethit	201		1	7	16						1			2	190	256		21	0	7	0	16		0	0	65535	0	0	0				damagedinmelee	21	damagedbymissile	21	160	15	0	21887	21887	5382								2	0	0	0	65535	65535	65535	ItemExpansiveChanc2	ItemExpansiveChanc2		
+202	modifierlist_castid	202																			0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+203	unused203	203																	21	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+204	item_charged_skill	204		1	30							1			3	401	256		30	0	16	0	16		0	0	65535	0	0	0								3	24	0	21251	21251	5382									0	0	0	65535	65535	65535	ModStre10d	ModStre10d		
+205	item_noconsume	205		1	7											106	256				7	0	0		0	0	65535	0	0	0			1					4	19	0	27212	27212	5382								2	0	0	0	65535	65535	65535	ModStr6j	ModStr6j		
+206	passive_mastery_replenish_oncrit	206		1	9	16															8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+208	unused208	208		1	30										3	401	256		30	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+209	unused209	209		1	30										3	401	256		30	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+210	unused210	210		1	30										3	401	256		30	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+211	unused211	211		1	30										3	401	256		30	0	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+212	passive_mastery_gethit_rate	212		1	11	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+213	passive_mastery_attack_speed	213		1	11	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+214	item_armor_perlevel	214		1	6											43	42		6	0	6	0	0		4	3	level	0	0	0								72	19	0	3481	3481	11091									0	0	0	armorclass	65535	65535	ModStr1i	ModStr1i	increaseswithplaylevelX	
+215	item_armorpercent_perlevel	215		1	6											87	100		6	0	6	0	0		5	3	level	0	0	0								73	19	0	3520	3520	11091									0	0	0	armorclass	65535	65535	Modstr2v	Modstr2v	increaseswithplaylevelX	
+216	item_hp_perlevel	216		1	6											92	64	8	6	0	6	0	0		2	3	level	0	0	0								57	19	0	3493	3493	11091									0	0	0	maxhp	65535	65535	ModStr1u	ModStr1u	increaseswithplaylevelX	
+217	item_mana_perlevel	217		1	6											90	128	8	6	0	6	0	0		2	3	level	0	0	0								53	19	0	3477	3477	11091									0	0	0	maxmana	65535	65535	ModStr1e	ModStr1e	increaseswithplaylevelX	
+218	item_maxdamage_perlevel	218		1	6											54	204		6	0	6	0	0		4	3	level	0	0	0			1					125	19	0	3478	3478	11091									0	0	0	maxdamage	secondary_maxdamage	item_throw_maxdamage	ModStr1f	ModStr1f	increaseswithplaylevelX	
+219	item_maxdamage_percent_perlevel	219		1	6											86	100		6	0	6	0	0		5	3	level	0	0	0			1					128	19	0	3508	3508	11091									0	0	0	maxdamage	secondary_maxdamage	item_throw_maxdamage	ModStr2j	ModStr2j	increaseswithplaylevelX	
+220	item_strength_perlevel	220		1	6											132	128		6	0	6	0	0		2	3	level	0	0	0								66	19	0	3473	3473	11091									0	0	0	strength	65535	65535	ModStr1a	ModStr1a	increaseswithplaylevelX	
+221	item_dexterity_perlevel	221		1	6											132	128		6	0	6	0	0		2	3	level	0	0	0								64	19	0	3474	3474	11091									0	0	0	dexterity	65535	65535	ModStr1b	ModStr1b	increaseswithplaylevelX	
+222	item_energy_perlevel	222		1	6											105	128		6	0	6	0	0		2	3	level	0	0	0								60	19	0	3476	3476	11091									0	0	0	energy	65535	65535	ModStr1d	ModStr1d	increaseswithplaylevelX	
+223	item_vitality_perlevel	223		1	6											105	128		6	0	6	0	0		2	3	level	0	0	0								62	19	0	3475	3475	11091									0	0	0	vitality	65535	65535	ModStr1c	ModStr1c	increaseswithplaylevelX	
+224	item_tohit_perlevel	224		1	6											53	20		6	0	6	0	0		2	1	level	0	0	0			1					114	19	0	3480	3480	11091									0	0	0	tohit	65535	65535	ModStr1h	ModStr1h	increaseswithplaylevelX	
+225	item_tohitpercent_perlevel	225		1	6											10	256		6	0	6	0	0		2	1	level	0	0	0			1					116	19	0	11035	11035	11091									0	0	0	item_tohit_percent	65535	65535	ModStr4c	ModStr4c	increaseswithplaylevelX	
+226	item_cold_damagemax_perlevel	226		1	6											1058	340		6	0	6	0	0		2	3	level	0	0	0			1					94	19	0	3491	3491	11091									0	0	0	coldmaxdam	65535	65535	ModStr1s	ModStr1s	increaseswithplaylevelX	
+227	item_fire_damagemax_perlevel	227		1	6											49	128		6	0	6	0	0		2	3	level	0	0	0			1					100	19	0	3487	3487	11091									0	0	0	firemaxdam	65535	65535	ModStr1o	ModStr1o	increaseswithplaylevelX	
+228	item_ltng_damagemax_perlevel	228		1	6											49	128		6	0	6	0	0		2	3	level	0	0	0			1					97	19	0	3489	3489	11091									0	0	0	lightmaxdam	65535	65535	ModStr1q	ModStr1q	increaseswithplaylevelX	
+229	item_pois_damagemax_perlevel	229		1	6											49	128		6	0	6	0	0		2	3	level	0	0	0			1					90	19	0	3556	3556	11091									0	0	0	poisonmaxdam	65535	65535	ModStr4h	ModStr4h	increaseswithplaylevelX	
+230	item_resist_cold_perlevel	230		1	6											101	128		6	0	6	0	0		2	3	level	0	0	0								39	19	0	3483	3483	11091									0	0	0	coldresist	65535	65535	ModStr1k	ModStr1k	increaseswithplaylevelX	
+231	item_resist_fire_perlevel	231		1	6											101	128		6	0	6	0	0		2	3	level	0	0	0								35	19	0	3482	3482	11091									0	0	0	fireresist	65535	65535	ModStr1j	ModStr1j	increaseswithplaylevelX	
+232	item_resist_ltng_perlevel	232		1	6											101	128		6	0	6	0	0		2	3	level	0	0	0								37	19	0	3484	3484	11091									0	0	0	lightresist	65535	65535	ModStr1l	ModStr1l	increaseswithplaylevelX	
+233	item_resist_pois_perlevel	233		1	6											101	128		6	0	6	0	0		2	3	level	0	0	0								33	19	0	3486	3486	11091									0	0	0	poisonresist	65535	65535	ModStr1n	ModStr1n	increaseswithplaylevelX	
+234	item_absorb_cold_perlevel	234		1	6											207	340		6	0	6	0	0		2	3	level	0	0	0								32	19	0	10045	10045	11091								2	0	0	0	item_absorbcold	65535	65535	ModStre9p	ModStre9p	increaseswithplaylevelX	
+235	item_absorb_fire_perlevel	235		1	6											207	340		6	0	6	0	0		2	3	level	0	0	0								28	19	0	10044	10044	11091								2	0	0	0	item_absorbfire	65535	65535	ModStre9o	ModStre9o	increaseswithplaylevelX	
+236	item_absorb_ltng_perlevel	236		1	6											207	340		6	0	6	0	0		2	3	level	0	0	0								30	19	0	10046	10046	11091								2	0	0	0	item_absorblight	65535	65535	ModStre9q	ModStre9q	increaseswithplaylevelX	
+237	item_absorb_pois_perlevel	237		1	6											207	340		6	0	6	0	0		2	3	level	0	0	0								0	0	0	5382	5382	5382								2	0	0	0	item_absorbmagic	65535	65535				
+238	item_thorns_perlevel	238		1	6											55	256		6	0	5	0	0		2	3	level	0	0	0								12	19	0	3494	3494	11091									0	0	0	item_attackertakesdamage	65535	65535	ModStr1v	ModStr1v	increaseswithplaylevelX	
+239	item_find_gold_perlevel	239		1	6											42	256		6	0	6	0	0		2	3	level	0	0	0								9	19	0	11032	11032	11091								2	0	0	0	item_goldbonus	65535	65535	ModStr1w	ModStr1w	increaseswithplaylevelX	
+240	item_find_magic_perlevel	240		1	6											814	1024		6	0	6	0	0		2	3	level	0	0	0								7	19	0	11033	11033	11091								2	0	0	0	item_magicbonus	65535	65535	ModStr1x	ModStr1x	increaseswithplaylevelX	
+241	item_regenstamina_perlevel	241		1	6											79	256		6	0	6	0	0		2	3	level	0	0	0								47	19	0	3544	3544	11091								2	0	0	0	staminarecoverybonus	65535	65535	ModStr3v	ModStr3v	increaseswithplaylevelX	
+242	item_stamina_perlevel	242		1	6											104	64		6	0	6	0	0		2	3	level	0	0	0								50	19	0	10001	10001	11091									0	0	0	maxstamina	65535	65535	ModStr5d	ModStr5d	increaseswithplaylevelX	
+243	item_damage_demon_perlevel	243		1	6											56	10		6	0	6	0	0		2	3	level	0	0	0			1					111	19	0	3553	3553	11091								2	0	0	0	item_demondamage_percent	65535	65535	ModStr4e	ModStr4e	increaseswithplaylevelX	
+244	item_damage_undead_perlevel	244		1	6											91	10		6	0	6	0	0		2	3	level	0	0	0			1					107	19	0	3554	3554	11091								2	0	0	0	item_undeaddamage_percent	65535	65535	ModStr4f	ModStr4f	increaseswithplaylevelX	
+245	item_tohit_demon_perlevel	245		1	6											55	10		6	0	6	0	0		2	1	level	0	0	0			1					109	19	0	3558	3558	11091									0	0	0	item_demon_tohit	65535	65535	ModStr4j	ModStr4j	increaseswithplaylevelX	
+246	item_tohit_undead_perlevel	246		1	6											12	10		6	0	6	0	0		2	1	level	0	0	0			1					105	19	0	3559	3559	11091									0	0	0	item_undead_tohit	65535	65535	ModStr4k	ModStr4k	increaseswithplaylevelX	
+247	item_crushingblow_perlevel	247		1	6											213	1024		6	0	6	0	0		2	3	level	0	0	0			1					86	19	0	3577	3577	11091								2	0	0	0	item_crushingblow	65535	65535	ModStr5c	ModStr5c	increaseswithplaylevelX	
+248	item_openwounds_perlevel	248		1	6											181	128		6	0	6	0	0		2	3	level	0	0	0			1					82	19	0	3537	3537	11091								2	0	0	0	item_openwounds	65535	65535	ModStr3m	ModStr3m	increaseswithplaylevelX	
+249	item_kick_damage_perlevel	249		1	6											104	128		6	0	6	0	0		2	3	level	0	0	0			1					120	19	0	3579	3579	11091									0	0	0	item_kickdamage	65535	65535	ModStr5e	ModStr5e	increaseswithplaylevelX	
+250	item_deadlystrike_perlevel	250		1	6											118	512		6	0	6	0	0		2	3	level	0	0	0			1					84	19	0	3591	3591	11091								2	0	0	0	item_deadlystrike	65535	65535	ModStr5q	ModStr5q	increaseswithplaylevelX	
+251	item_find_gems_perlevel	251		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+252	item_replenish_durability	252		1	6											1024	1		5	0	6	0	0		0	0	65535	0	0	0								3	11	0	21241	21241	5382									0	0	0	65535	65535	65535	ModStre9t	ModStre9t		
+253	item_replenish_quantity	253		1	6											1024	1		5	0	6	0	0		0	0	65535	0	0	0								4	19	0	21243	21243	5382									0	0	0	65535	65535	65535	ModStre9v	ModStre9v		
+254	item_extra_stack	254		1												99	10		8	0	8	0	0		0	0	65535	0	0	0								5	19	0	21239	21239	5382									0	0	0	65535	65535	65535	ModStre9i	ModStre9i		
+255	item_find_item	255		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+256	item_slash_damage	256		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+257	item_slash_damage_percent	257		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+258	item_crush_damage	258		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+259	item_crush_damage_percent	259		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+260	item_thrust_damage	260		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+261	item_thrust_damage_percent	261		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+262	item_absorb_slash	262		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+263	item_absorb_crush	263		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+264	item_absorb_thrust	264		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+265	item_absorb_slash_percent	265		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+266	item_absorb_crush_percent	266		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+267	item_absorb_thrust_percent	267		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+268	item_armor_bytime	268		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3481	3481	5382									0	0	0	armorclass	65535	65535	ModStr1i	ModStr1i		
+269	item_armorpercent_bytime	269		1	22										4		0		22	0	22	0	0		7	0	65535	0	0	0								180	18	0	3520	3520	5382									0	0	0	armorclass	65535	65535	Modstr2v	Modstr2v		
+270	item_hp_bytime	270		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3493	3493	5382									0	0	0	maxhp	65535	65535	ModStr1u	ModStr1u		
+271	item_mana_bytime	271		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3477	3477	5382									0	0	0	maxmana	65535	65535	ModStr1e	ModStr1e		
+272	item_maxdamage_bytime	272		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3478	3478	5382									0	0	0	maxdamage	secondary_maxdamage	item_throw_maxdamage	ModStr1f	ModStr1f		
+273	item_maxdamage_percent_bytime	273		1	22										4		0		22	0	22	0	0		7	0	65535	0	0	0			1					180	18	0	3508	3508	5382									0	0	0	maxdamage	secondary_mindamage	item_throw_mindamage	ModStr2j	ModStr2j		
+274	item_strength_bytime	274		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3473	3473	5382									0	0	0	strength	65535	65535	ModStr1a	ModStr1a		
+275	item_dexterity_bytime	275		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3474	3474	5382									0	0	0	dexterity	65535	65535	ModStr1b	ModStr1b		
+276	item_energy_bytime	276		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3476	3476	5382									0	0	0	energy	65535	65535	ModStr1d	ModStr1d		
+277	item_vitality_bytime	277		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	3475	3475	5382									0	0	0	vitality	65535	65535	ModStr1c	ModStr1c		
+278	item_tohit_bytime	278		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3480	3480	5382									0	0	0	tohit	65535	65535	ModStr1h	ModStr1h		
+279	item_tohitpercent_bytime	279		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	18	0	11035	11035	5382									0	0	0	item_tohit_percent	65535	65535	ModStr4c	ModStr4c		
+280	item_cold_damagemax_bytime	280		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3491	3491	5382									0	0	0	coldmaxdam	65535	65535	ModStr1s	ModStr1s		
+281	item_fire_damagemax_bytime	281		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3487	3487	5382									0	0	0	firemaxdam	65535	65535	ModStr1o	ModStr1o		
+282	item_ltng_damagemax_bytime	282		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3489	3489	5382									0	0	0	lightmaxdam	65535	65535	ModStr1q	ModStr1q		
+283	item_pois_damagemax_bytime	283		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3556	3556	5382									0	0	0	poisonmaxdam	65535	65535	ModStr4h	ModStr4h		
+284	item_resist_cold_bytime	284		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	3483	3483	5382									0	0	0	coldresist	65535	65535	ModStr1k	ModStr1k		
+285	item_resist_fire_bytime	285		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	3482	3482	5382									0	0	0	fireresist	65535	65535	ModStr1j	ModStr1j		
+286	item_resist_ltng_bytime	286		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	3484	3484	5382									0	0	0	lightresist	65535	65535	ModStr1l	ModStr1l		
+287	item_resist_pois_bytime	287		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	3486	3486	5382									0	0	0	poisonresist	65535	65535	ModStr1n	ModStr1n		
+288	item_absorb_cold_bytime	288		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	10045	10045	5382								2	0	0	0	item_absorbcold	65535	65535	ModStre9p	ModStre9p		
+289	item_absorb_fire_bytime	289		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	10044	10044	5382								2	0	0	0	item_absorbfire	65535	65535	ModStre9o	ModStre9o		
+290	item_absorb_ltng_bytime	290		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	10046	10046	5382								2	0	0	0	item_absorblight	65535	65535	ModStre9q	ModStre9q		
+291	item_absorb_pois_bytime	291		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								0	0	0	5382	5382	5382								2	0	0	0	item_absorbmagic	65535	65535				
+292	item_find_gold_bytime	292		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	11032	11032	5382									0	0	0	item_goldbonus	65535	65535	ModStr1w	ModStr1w		
+293	item_find_magic_bytime	293		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	11033	11033	5382									0	0	0	item_magicbonus	65535	65535	ModStr1x	ModStr1x		
+294	item_regenstamina_bytime	294		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	18	0	3544	3544	5382									0	0	0	staminarecoverybonus	65535	65535	ModStr3v	ModStr3v		
+295	item_stamina_bytime	295		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0								180	17	0	10001	10001	5382									0	0	0	maxstamina	65535	65535	ModStr5d	ModStr5d		
+296	item_damage_demon_bytime	296		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	18	0	3553	3553	5382									0	0	0	item_demondamage_percent	65535	65535	ModStr4e	ModStr4e		
+297	item_damage_undead_bytime	297		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	18	0	3554	3554	5382									0	0	0	item_undeaddamage_percent	65535	65535	ModStr4f	ModStr4f		
+298	item_tohit_demon_bytime	298		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3558	3558	5382									0	0	0	item_demon_tohit	65535	65535	ModStr4j	ModStr4j		
+299	item_tohit_undead_bytime	299		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3559	3559	5382									0	0	0	item_undead_tohit	65535	65535	ModStr4k	ModStr4k		
+300	item_crushingblow_bytime	300		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	18	0	3577	3577	5382									0	0	0	item_crushingblow	65535	65535	ModStr5c	ModStr5c		
+301	item_openwounds_bytime	301		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	18	0	3537	3537	5382									0	0	0	item_openwounds	65535	65535	ModStr3m	ModStr3m		
+302	item_kick_damage_bytime	302		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	17	0	3579	3579	5382									0	0	0	item_kickdamage	65535	65535	ModStr5e	ModStr5e		
+303	item_deadlystrike_bytime	303		1	22										4		0		22	0	22	0	0		6	0	65535	0	0	0			1					180	18	0	3591	3591	5382									0	0	0	item_deadlystrike	65535	65535	ModStr5q	ModStr5q		
+304	item_find_gems_bytime	304		1											4		0				0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+305	item_pierce_cold	305		1	9											1432	513				8	50	0		0	0	65535	0	0	0								88	19	0	10986	10986	5382									0	0	0	65535	65535	65535	Moditemenrescoldsk	Moditemenrescoldsk		
+306	item_pierce_fire	306		1	9											1240	497				8	50	0		0	0	65535	0	0	0								88	19	0	10987	10987	5382									0	0	0	65535	65535	65535	Moditemenresfiresk	Moditemenresfiresk		
+307	item_pierce_ltng	307		1	9											1187	481				8	50	0		0	0	65535	0	0	0								88	19	0	10988	10988	5382									0	0	0	65535	65535	65535	Moditemenresltngsk	Moditemenresltngsk		
+308	item_pierce_pois	308		1	9											1322	506				8	50	0		0	0	65535	0	0	0								88	19	0	10989	10989	5382									0	0	0	65535	65535	65535	Moditemenrespoissk	Moditemenrespoissk		
+309	item_damage_vs_monster	309		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+310	item_damage_percent_vs_monster	310		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+311	item_tohit_vs_monster	311		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+312	item_tohit_percent_vs_monster	312		1																	0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+313	item_ac_vs_monster	313		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+314	item_ac_percent_vs_monster	314		1																	0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+315	firelength	315		1	16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+316	burningmin	316		1	16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+317	burningmax	317		1	16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+318	progressive_damage	318		1	3																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+319	progressive_steal	319		1	3																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+320	progressive_other	320		1	3																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+321	progressive_fire	321		1	3																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+322	progressive_cold	322		1	3																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+323	progressive_lightning	323		1	3																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+324	item_extra_charges	324		1	6														6	0	6	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+325	progressive_tohit	325		1	16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+326	poison_count	326		1	5																0	0	0		0	0	65535	0	0	0			1					0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+327	damage_framerate	327		1	8																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+328	pierce_idx	328		1	6																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+329	passive_fire_mastery	329		1	12											1117	415		8	0	9	50	0		0	0	65535	0	0	0								88	19	0	10990	10990	5382	3	19		allelemskilldmg	allelemskilldmg			2	0	0	0	65535	65535	65535	ModitemdamFiresk	ModitemdamFiresk		
+330	passive_ltng_mastery	330		1	12											1054	408		8	0	9	50	0		0	0	65535	0	0	0								88	19	0	10992	10992	5382	3	19		allelemskilldmg	allelemskilldmg			2	0	0	0	65535	65535	65535	ModitemdamLtngsk	ModitemdamLtngsk		
+331	passive_cold_mastery	331		1	12											1295	379		8	0	9	50	0		0	0	65535	0	0	0								88	19	0	10991	10991	5382	3	19		allelemskilldmg	allelemskilldmg			2	0	0	0	65535	65535	65535	ModitemdamColdsk	ModitemdamColdsk		
+332	passive_pois_mastery	332		1	12											978	394		8	0	9	50	0		0	0	65535	0	0	0								88	19	0	10993	10993	5382	3	19		allelemskilldmg	allelemskilldmg			2	0	0	0	65535	65535	65535	ModitemdamPoissk	ModitemdamPoissk		
+333	passive_fire_pierce	333		1	9												2578		8	0	8	0	0		0	0	65535	0	0	0								88	19	0	10987	10987	5382	4	19		PenetrateElePen	PenetrateElePen			2	0	0	0	65535	65535	65535	Moditemenresfiresk	Moditemenresfiresk		
+334	passive_ltng_pierce	334		1	9												2493		8	0	8	0	0		0	0	65535	0	0	0								88	19	0	10988	10988	5382	4	19		PenetrateElePen	PenetrateElePen			2	0	0	0	65535	65535	65535	Moditemenresltngsk	Moditemenresltngsk		
+335	passive_cold_pierce	335		1	9												1984		8	0	8	0	0		0	0	65535	0	0	0								88	19	0	10986	10986	5382	4	19		PenetrateElePen	PenetrateElePen			2	0	0	0	65535	65535	65535	Moditemenrescoldsk	Moditemenrescoldsk		
+336	passive_pois_pierce	336		1	9												2345		8	0	8	0	0		0	0	65535	0	0	0								88	19	0	10989	10989	5382	4	19		PenetrateElePen	PenetrateElePen			2	0	0	0	65535	65535	65535	Moditemenrespoissk	Moditemenrespoissk		
+337	passive_critical_strike	337		1	9														8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+338	passive_dodge	338		1	9														7	0	7	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+339	passive_avoid	339		1	9														7	0	7	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+340	passive_evade	340		1	9														7	0	7	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+341	passive_warmth	341		1	9														8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+342	passive_mastery_melee_th	342		1	11	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+343	passive_mastery_melee_dmg	343		1	11	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+344	passive_mastery_melee_crit	344		1	9	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+345	passive_mastery_throw_th	345		1	11	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+346	passive_mastery_throw_dmg	346		1	11	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+347	passive_mastery_throw_crit	347		1	9	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+348	passive_weaponblock	348		1	9	16													8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+349	passive_summon_resist	349		1	9														8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+350	modifierlist_skill	350			9																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+351	modifierlist_level	351			8																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+352	last_sent_hp_pct	352		1	8																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+353	source_unit_type	353			5																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+354	source_unit_id	354			32																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+355	shortparam1	355			16																0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+356	questitemdifficulty	356																			2	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+357	passive_mag_mastery	357		1	12											1211	431		8	0	9	50	0		0	*	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+358	passive_mag_pierce	358		1	9												2812		8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+359	skill_cooldown	359																			0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+360	skill_missile_damage_scale	360			32	16															0	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+361	item_corrupted	361		1	12										0	8	2		8	0	8	0	0		0	0	65535	0	0	0								300	20	0	48055	48055	5382									0	0	0	65535	65535	65535	Corrupted	Corrupted		
+362	item_corruptedDummy	362		1	12										0	8	2		8	0	8	0	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+363	item_splashonhit	363		1	7	16						1				-400	0		21	0	7	0	16		0	0	65535	0	0	0			1	domeleedamage	20			160	15	0	48048	48048	5382									0	0	0	65535	65535	65535	splash1	splash1		
+364	pl_maxdamage_percent	364		1	11											-400	0		9	100	9	100	0		11	0	65535	0	0	0			1					129	19	0	48100	48100	5382	6	19		ModStrPlayerDmgPercent	ModStrPlayerDmgPercent				0	0	0	maxdamage	secondary_maxdamage	item_throw_maxdamage	ModStrPlayerMaxDmgPercent	ModStrPlayerMaxDmgPercent		
+365	pl_mindamage_percent	365		1	11											-400	0		9	100	9	100	0		11	0	65535	0	0	0			1					130	19	0	48099	48099	5382	6	19		ModStrPlayerDmgPercent	ModStrPlayerDmgPercent				0	0	0	mindamage	secondary_mindamage	item_throw_mindamage	ModStrPlayerMinDmgPercent	ModStrPlayerMinDmgPercent		
+366	hpregen_perlevel	366		1	6											-400	0		6	30	6	30	0		4	2	level	0	0	0								56	19	0	3510	3521	11091								2	0	0	0	hpregen	65535	65535	ModStr2l	ModStr2w	increaseswithplaylevelX	
+367	stacked_terror_key	367		0	6								1	0	0	1	0		8	0	8	0	0		0	0	65535	0	0	0								56	19	0	48057	48057	5382									0	0	0	65535	65535	65535	StackedTerrorKey	StackedTerrorKey		
+368	stacked_hate_key	368		0	6								1	0	0	1	0		8	0	8	0	0		0	0	65535	0	0	0								56	19	0	48058	48058	5382									0	0	0	65535	65535	65535	StackedHateKey	StackedHateKey		
+369	stacked_destruction_key	369		0	6								1	0	0	1	0		8	0	8	0	0		0	0	65535	0	0	0								56	19	0	48059	48059	5382									0	0	0	65535	65535	65535	StackedDestructionKey	StackedDestructionKey		
+370	stacked_gem_topaz	370		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48061	48061	5382									0	0	0	65535	65535	65535	StackedGemTopaz	StackedGemTopaz		
+371	stacked_gem_amethyst	371		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48062	48062	5382									0	0	0	65535	65535	65535	StackedGemAmethyst	StackedGemAmethyst		
+372	stacked_gem_sapphire	372		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48063	48063	5382									0	0	0	65535	65535	65535	StackedGemSapphire	StackedGemSapphire		
+373	stacked_gem_diamond	373		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48064	48064	5382									0	0	0	65535	65535	65535	StackedGemDiamond	StackedGemDiamond		
+374	stacked_gem_emerald	374		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48065	48065	5382									0	0	0	65535	65535	65535	StackedGemEmerald	StackedGemEmerald		
+375	stacked_gem_skull	375		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48066	48066	5382									0	0	0	65535	65535	65535	StackedGemSkull	StackedGemSkull		
+376	stacked_gem_ruby	376		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48067	48067	5382									0	0	0	65535	65535	65535	StackedGemRuby	StackedGemRuby		
+377	heal_afterhit	377		1	7							1				30	101		3	0	7	0	0		0	0	65535	0	0	0				domeleedamage	28	domissiledamage	28	16	1	1	48060	48060	5382									0	0	0	65535	65535	65535	healperhit	healperhit		
+378	extra_bonespears	378		1	5										0		0		5	0	5	0	0		0	0	65535	0	0	0								298	19	0	48068	48068	5382									0	0	0	65535	65535	65535	extraspear	extraspear		
+379	item_splashonhit_two	379		1	7	16						1				-400	0		21	0	7	0	16		0	0	65535	0	0	0			1	domeleedamage	20			160	15	0	48049	48049	5382									0	0	0	65535	65535	65535	splash2	splash2		
+380	item_splashonhit_three	380		1	7	16						1				-400	0		21	0	7	0	16		0	0	65535	0	0	0			1	domeleedamage	20			160	15	0	48050	48050	5382									0	0	0	65535	65535	65535	splash3	splash3		
+381	item_splashonhit_four	381		1	7	16						1				-400	0		21	0	7	0	16		0	0	65535	0	0	0			1	domeleedamage	20			160	15	0	48051	48051	5382									0	0	0	65535	65535	65535	splash4	splash4		
+382	extra_holybolt	382		1	5										0		0		5	0	5	0	0		0	0	65535	0	0	0								298	19	0	48069	48069	5382									0	0	0	65535	65535	65535	extraholybolt	extraholybolt		
+383	item_splashonhit_five	383		1	7	16						1				-400	0		21	0	7	0	16		0	0	65535	0	0	0			1	domeleedamage	20			160	15	0	48054	48054	5382									0	0	0	65535	65535	65535	splash5	splash5		
+384	charm_weight	384		1	7																7	6	0		0	0	65535	0	0	0								301	19	0	48070	48070	5382								1	0	0	0	65535	65535	65535	mod_weight	mod_weight		
+385	mana_control	385																			6	0	0		11	0	65535	0	0	0								2	19	0	48071	48071	5382								1	0	0	0	mana	65535	65535	weightsystem	weightsystem		
+386	stacked_gem	386		0	16								1	0	0	1	0		16	0	16	0	0		0	0	65535	0	0	0								56	19	0	48072	48072	5382									0	0	0	65535	65535	65535	StackedGem	StackedGem		
+387	item_nonclassskill_display	387		1	15	9						1			1	181	327		7	20	6	0	9		0	0	65535	0	0	0								150	28	0	23005	23005	5382									0	0	0	65535	65535	65535	ItemModifierNonClassSkill	ItemModifierNonClassSkill		
+388	ravensetwolf	388		1	5										0		0		5	0	5	0	0		0	0	65535	0	0	0								298	19	0	48074	48074	5382									0	0	0	65535	65535	65535	ravensetwolf	ravensetwolf		
+389	ravenhits	389		1	5										0		0		5	0	5	0	0		0	0	65535	0	0	0								298	19	0	48075	48075	5382									0	0	0	65535	65535	65535	ravenhits	ravenhits		
+390	ravendmg	390		1	5										0		0		5	0	5	0	0		0	0	65535	0	0	0								298	19	0	48076	48076	5382									0	0	0	65535	65535	65535	ravendmg	ravendmg		
+391	item_mindamage_perlvl	391		1	6											54	204		6	0	6	0	0		4	3	level	0	0	0			1					126	19	0	3479	3479	11091									0	0	0	mindamage	secondary_mindamage	item_throw_mindamage	ModStr1g	ModStr1g	increaseswithplaylevelX	
+392	upgrade_minor	392		0	6								1	0	0	1	0		8	0	8	0	0	1	0	0	65535	0	0	0								301	19	0	48077	48077	5382									0	0	0	65535	65535	65535	MinorUpgrades	MinorUpgrades		
+393	upgrade_medium	393		0	6								1	0	0	1	0		8	0	8	0	0	1	0	0	65535	0	0	0								301	19	0	48078	48078	5382									0	0	0	65535	65535	65535	MediumUpgrades	MediumUpgrades		
+394	upgrade_major	394		0	6								1	0	0	1	0		8	0	8	0	0	1	0	0	65535	0	0	0								301	19	0	48079	48079	5382									0	0	0	65535	65535	65535	MajorUpgrades	MajorUpgrades		
+395	upgrade_uber	395		0	6								1	0	0	1	0		8	0	8	0	0	1	0	0	65535	0	0	0								301	19	0	48080	48080	5382									0	0	0	65535	65535	65535	UberUpgrades	UberUpgrades		
+396	uber_control	396																			6	0	0		11	0	65535	0	0	0								2	19	0	48082	48082	5382								1	0	0	0	hitpoints	65535	65535	uber_weight	uber_weight		
+397	torch_weight	397		1	6																7	6	0		0	0	65535	0	0	0								2	19	0	48081	48081	5382									0	0	0	65535	65535	65535	uber_mod	uber_mod		
+398	soulstone_weight	398		1	6																7	6	0		0	0	65535	0	0	0								2	19	0	48081	48081	5382									0	0	0	65535	65535	65535	uber_mod	uber_mod		
+399	item_elemskillfire	399		1	3	3						1				76	1024		4	0	3	0	3		0	0	65535	0	0	0								157	19	0	3533	3533	5382									0	0	0	65535	65535	65535	ModStr3i	ModStr3i		
+400	item_elemskillcold	400		1	3	3						1				76	1024		4	0	3	0	3		0	0	65535	0	0	0								157	19	0	48004	48004	5382									0	0	0	65535	65535	65535	ModStrcoldskill	ModStrcoldskill		
+401	item_elemskilllight	401		1	3	3						1				76	1024		4	0	3	0	3		0	0	65535	0	0	0								157	19	0	48005	48005	5382									0	0	0	65535	65535	65535	ModStrlightningskill	ModStrlightningskill		
+402	item_elemskillpoison	402		1	3	3						1				76	1024		4	0	3	0	3		0	0	65535	0	0	0								157	19	0	48006	48006	5382									0	0	0	65535	65535	65535	ModStrpoisonskill	ModStrpoisonskill		
+403	item_elemskillmagic	403		1	3	3						1				76	1024		4	0	3	0	3		0	0	65535	0	0	0								157	19	0	48007	48007	5382									0	0	0	65535	65535	65535	ModStrmagicskill	ModStrmagicskill		
+404	Dye_White	404			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48087	48087	5382									0	0	0	65535	65535	65535	DyeWhite	DyeWhite		
+405	Dye_Black	405			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48088	48088	5382									0	0	0	65535	65535	65535	DyeBlack	DyeBlack		
+406	Dye_Blue	406			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48089	48089	5382									0	0	0	65535	65535	65535	DyeBlue	DyeBlue		
+407	Dye_Red	407			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48090	48090	5382									0	0	0	65535	65535	65535	DyeRed	DyeRed		
+408	Dye_Green	408			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48091	48091	5382									0	0	0	65535	65535	65535	DyeGreen	DyeGreen		
+409	Dye_Yellow	409			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48092	48092	5382									0	0	0	65535	65535	65535	DyeYellow	DyeYellow		
+410	Dye_Purple	410			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48093	48093	5382									0	0	0	65535	65535	65535	DyePurple	DyePurple		
+411	Dye_Orange	411			2											102	20		2	1	2	1	0		0	0	65535	0	0	0								999	3	0	48094	48094	5382									0	0	0	65535	65535	65535	DyeOrange	DyeOrange		
+412	Dye_Tracker	412			2											102	20		4	7	4	7	0		0	0	65535	0	0	0								0	0	0	5382	5382	5382									0	0	0	65535	65535	65535				
+413	item_strength_percent	413		1	8								1	1		125	55		7	63	7	63	0		11	0	65535	0	0	0								67	19	0	48095	48095	5382									0	0	0	strength	65535	65535	ModAttStrPercent	ModAttStrPercent		
+414	item_dexterity_percent	414		1	8								1	1		125	55		7	63	7	63	0		11	0	65535	0	0	0								67	19	0	48096	48096	5382									0	0	0	dexterity	65535	65535	ModAttDexPercent	ModAttDexPercent		
+415	item_vitality_percent	415		1	8								1	1		125	55		7	63	7	63	0		11	0	65535	0	0	0								67	19	0	48097	48097	5382									0	0	0	vitality	65535	65535	ModAttVitPercent	ModAttVitPercent		
+416	item_energy_percent	416		1	8								1	1		125	55		7	63	7	63	0		11	0	65535	0	0	0								67	19	0	48098	48098	5382									0	0	0	energy	65535	65535	ModAttEnrPercent	ModAttEnrPercent		
+417	pl_maxthrowdmg_percent	417		1	11											-400	0		9	100	9	100	0		11	0	65535	0	0	0			1					129	19	0	48102	48102	5382	7	19		ModStrPlayerThrowDmgPercent	ModStrPlayerThrowDmgPercent				0	0	0	item_throw_maxdamage	65535	65535	ModStrPlayerMinThrowDmgPercent	ModStrPlayerMinThrowDmgPercent		
+418	pl_minthrowdmg_percent	418		1	11											-400	0		9	100	9	100	0		11	0	65535	0	0	0			1					130	19	0	48103	48103	5382	7	19		ModStrPlayerThrowDmgPercent	ModStrPlayerThrowDmgPercent				0	0	0	item_throw_mindamage	65535	65535	ModStrPlayerMaxThrowDmgPercent	ModStrPlayerMaxThrowDmgPercent		

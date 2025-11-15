@@ -1,0 +1,1025 @@
+INDEX	name	___ Description	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add	code	mod1code__STR	mod1param__STR	mod2code__STR	mod2param__STR	mod3code__STR	mod3param__STR	itype1__STR	itype2__STR	itype3__STR	itype4__STR	itype5__STR	itype6__STR	itype7__STR	etype1__STR	etype2__STR	etype3__STR	etype4__STR	etype5__STR	
+1	Jagged	+#% Enhanced Damage	100	1	1	1	24	1				150	111	29	0	10	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Jagged	dmg%	0		0		0	weap							orb	wand				
+2	Deadly	+#% Enhanced Damage	100	1	1	5	34	3				150	111	29	0	21	30	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Deadly	dmg%	0		0		0	weap							orb	wand				
+3	Vicious	+#% Enhanced Damage	100	1	1	8	44	6				150	111	29	0	31	40	-1	0	0	0	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Vicious	dmg%	0		0		0	weap							orb	wand				
+4	Brutal	+#% Enhanced Damage	100	1	1	14	53	10				150	111	29	0	41	50	-1	0	0	0	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Brutal	dmg%	0		0		0	weap							orb	wand				
+5	Massive	+#% Enhanced Damage	100	1	1	20	64	15				150	111	29	0	51	65	-1	0	0	0	-1	0	0	0	dgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Massive	dmg%	0		0		0	weap							orb	wand				
+6	Savage	+#% Enhanced Damage	100	1	1	26	72	19				150	111	29	0	66	80	-1	0	0	0	-1	0	0	0	dgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Savage	dmg%	0		0		0	weap							orb	wand				
+7	Heartless	+#% Enhanced Damage	100	1	1	32	80	24				150	111	29	0	81	100	-1	0	0	0	-1	0	0	0	dgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Heartless	dmg%	0		0		0	weap							orb	wand				
+8	Merciless	+#% Enhanced Damage	100	1	1	41		30				150	111	29	0	101	125	-1	0	0	0	-1	0	0	0	dgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Merciless	dmg%	0		0		0	weap							orb	wand				
+9	Merciless	+#% Enhanced Damage	100	1	1	49		38				150	111	29	0	126	150	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Merciless	dmg%	0		0		0	weap							orb	wand				
+10	Ferocious	+#% Enhanced Damage	100	1	1	56		45				114	111	29	0	151	200	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Ferocious	dmg%	0		0		0	weap							orb	wand				
+11	Ferocious	+#% Enhanced Damage	100	1	1	61		51				114	111	29	0	210	233	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Ferocious	dmg%	0		0		0	weap							orb	wand				
+12	Cruel	+#% Enhanced Damage	100	1	1	69		63				114	111	29	0	234	266	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Cruel	dmg%	0		0		0	weap							orb	wand				
+13	Cruel	+#% Enhanced Damage	100	1	1	74		69				114	111	29	0	267	300	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Cruel	dmg%	0		0		0	weap							orb	wand				
+14	Jagged	+#% Enhanced Damage	100	1	1	21		16				26	105	29	0	10	15	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	Jagged	dmg%	0		0		0	circ												
+15	Deadly	+#% Enhanced Damage	100	1	1	45		41				26	105	29	0	16	25	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	dmg%	0		0		0	circ												
+16	Vicious	+#% Enhanced Damage	100	1	1	70		64				24	105	29	0	26	40	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	Vicious	dmg%	0		0		0	circ												
+17	Cinnabar	+#% Enhanced Damage	100	1	1	1	40	1				10	105	29	0	5	10	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Cinnabar	dmg%	0		0		0	jewl												
+18	Rusty	+#% Enhanced Damage	100	1	1	13	80	9				10	105	29	0	11	20	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Rusty	dmg%	0		0		0	jewl												
+19	Realgar	+#% Enhanced Damage	100	1	1	45		37				10	105	29	0	21	30	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Realgar	dmg%	0		0		0	jewl												
+20	Ruby	+#% Enhanced Damage	100	1	1	66		58				10	105	29	0	31	40	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Ruby	dmg%	0		0		0	jewl												
+21	Paradox	+#% Enhanced Maximum Damage (Based on Character Level)	100	1	1	20		18				2	111	142	8	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Paradox	dmg%/lvl		0		0	weap							orb	wand				
+22	Paradox	+#% Enhanced Maximum Damage (Based on Character Level)	100	1	1	35		35				2	111	142	12	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Paradox	dmg%/lvl		0		0	weap							orb	wand				
+23	Paradox	+#% Enhanced Maximum Damage (Based on Character Level)	100	1	1	55		49				2	111	142	16	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Paradox	dmg%/lvl		0		0	weap							orb	wand				
+24	Paradox	+#% Enhanced Maximum Damage (Based on Character Level)	100	1	1	70		66				2	111	142	24	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Paradox	dmg%/lvl		0		0	weap							orb	wand				
+25	Paradox	+#% Enhanced Maximum Damage (Based on Character Level)	100	1	1	85		77				2	111	142	32	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Paradox	dmg%/lvl		0		0	weap							orb	wand				
+26	Sharp	+# to Attack Rating & +#% Enhanced Damage	100	1	1	5	20	3				4	111	15	0	10	20	29	0	10	20	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Sharp	att	0	dmg%	0		0	weap							orb	wand				
+27	Sharp	#% Deadly Strike & +#% Enhanced Damage	100	1	1	5	20	3				2	111	113	0	1	3	29	0	10	20	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Sharp	deadly	0	dmg%	0		0	weap							orb	wand				
+28	Sharp	#% Crushing Blow & +#% Enhanced Damage	100	1	1	5	20	3				2	111	108	0	1	3	29	0	10	20	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Sharp	crush	0	dmg%	0		0	weap							orb	wand				
+29	Sharp	#% Open Wounds & +#% Enhanced Damage	100	1	1	5	20	3				2	111	107	0	5	7	29	0	10	20	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Sharp	openwounds	0	dmg%	0		0	weap							orb	wand				
+30	Fine	+# to Attack Rating & +#% Enhanced Damage	100	1	1	12	30	9				4	111	15	0	21	40	29	0	21	30	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Fine	att	0	dmg%	0		0	weap							orb	wand				
+31	Fine	#% Deadly Strike & +#% Enhanced Damage	100	1	1	12	30	9				2	111	113	0	2	5	29	0	21	30	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Fine	deadly	0	dmg%	0		0	weap							orb	wand				
+32	Fine	#% Crushing Blow & +#% Enhanced Damage	100	1	1	12	30	9				2	111	108	0	2	5	29	0	21	30	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Fine	crush	0	dmg%	0		0	weap							orb	wand				
+33	Fine	#% Open Wounds & +#% Enhanced Damage	100	1	1	12	30	9				2	111	107	0	8	10	29	0	21	30	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Fine	openwounds	0	dmg%	0		0	weap							orb	wand				
+34	Mastersmith's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	19	40	13				4	111	15	0	41	60	29	0	31	40	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Mastersmith's	att	0	dmg%	0		0	weap							orb	wand				
+35	Mastersmith's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	19	40	13				2	111	113	0	3	6	29	0	31	40	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Mastersmith's	deadly	0	dmg%	0		0	weap							orb	wand				
+36	Mastersmith's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	19	40	13				2	111	108	0	3	6	29	0	31	40	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Mastersmith's	crush	0	dmg%	0		0	weap							orb	wand				
+37	Mastersmith's	#% Open Wounds & +#% Enhanced Damage	100	1	1	19	40	13				2	111	107	0	11	16	29	0	31	40	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Mastersmith's	openwounds	0	dmg%	0		0	weap							orb	wand				
+38	Warrior's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	27	50	19				4	111	15	0	61	80	29	0	41	50	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Warrior's	att	0	dmg%	0		0	weap							orb	wand				
+39	Warrior's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	27	50	19				2	111	113	0	4	8	29	0	41	50	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Warrior's	deadly	0	dmg%	0		0	weap							orb	wand				
+40	Warrior's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	27	50	19				2	111	108	0	4	8	29	0	41	50	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Warrior's	crush	0	dmg%	0		0	weap							orb	wand				
+41	Warrior's	#% Open Wounds & +#% Enhanced Damage	100	1	1	27	50	19				2	111	107	0	17	21	29	0	41	50	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Warrior's	openwounds	0	dmg%	0		0	weap							orb	wand				
+42	Soldier's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	38	60	30				4	111	15	0	81	100	29	0	51	65	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Soldier's	att	0	dmg%	0		0	weap							orb	wand				
+43	Soldier's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	38	60	30				2	111	113	0	5	10	29	0	51	65	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Soldier's	deadly	0	dmg%	0		0	weap							orb	wand				
+44	Soldier's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	38	60	30				2	111	108	0	5	10	29	0	51	65	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Soldier's	crush	0	dmg%	0		0	weap							orb	wand				
+45	Soldier's	#% Open Wounds & +#% Enhanced Damage	100	1	1	38	60	30				2	111	107	0	22	28	29	0	51	65	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	Soldier's	openwounds	0	dmg%	0		0	weap							orb	wand				
+46	Crusader's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	45	70	37				4	111	15	0	101	125	29	0	66	80	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Crusader's	att	0	dmg%	0		0	weap							orb	wand				
+47	Crusader's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	45	70	37				2	111	113	0	6	12	29	0	66	80	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Crusader's	deadly	0	dmg%	0		0	weap							orb	wand				
+48	Crusader's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	45	70	37				2	111	108	0	6	12	29	0	66	80	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Crusader's	crush	0	dmg%	0		0	weap							orb	wand				
+49	Crusader's	#% Open Wounds & +#% Enhanced Damage	100	1	1	45	70	37				2	111	107	0	29	35	29	0	66	80	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Crusader's	openwounds	0	dmg%	0		0	weap							orb	wand				
+50	Knight's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	52	80	45				4	111	15	0	126	150	29	0	81	100	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Knight's	att	0	dmg%	0		0	weap							orb	wand				
+51	Knight's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	52	80	45				2	111	113	0	7	14	29	0	81	100	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Knight's	deadly	0	dmg%	0		0	weap							orb	wand				
+52	Knight's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	52	80	45				2	111	108	0	7	14	29	0	81	100	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Knight's	crush	0	dmg%	0		0	weap							orb	wand				
+53	Knight's	#% Open Wounds & +#% Enhanced Damage	100	1	1	52	80	45				2	111	107	0	36	44	29	0	81	100	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Knight's	openwounds	0	dmg%	0		0	weap							orb	wand				
+54	Lord's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	58		53				4	111	15	0	151	175	29	0	101	133	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Lord's	att	0	dmg%	0		0	weap							orb	wand				
+55	Lord's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	65		60				2	111	113	0	8	16	29	0	101	133	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Lord's	deadly	0	dmg%	0		0	weap							orb	wand				
+56	Lord's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	65		60				2	111	108	0	8	16	29	0	101	133	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Lord's	crush	0	dmg%	0		0	weap							orb	wand				
+57	Lord's	#% Open Wounds & +#% Enhanced Damage	100	1	1	65		60				2	111	107	0	45	57	29	0	101	133	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Lord's	openwounds	0	dmg%	0		0	weap							orb	wand				
+58	Overlord's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	65		59				4	111	15	0	176	200	29	0	134	166	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Overlord's	att	0	dmg%	0		0	weap							orb	wand				
+59	Overlord's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	70		65				2	111	113	0	9	18	29	0	134	166	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Overlord's	deadly	0	dmg%	0		0	weap							orb	wand				
+60	Overlord's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	70		65				2	111	108	0	9	18	29	0	134	166	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Overlord's	crush	0	dmg%	0		0	weap							orb	wand				
+61	Overlord's	#% Open Wounds & +#% Enhanced Damage	100	1	1	70		65				2	111	107	0	58	67	29	0	134	166	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Overlord's	openwounds	0	dmg%	0		0	weap							orb	wand				
+62	King's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	70		63				4	111	15	0	210	225	29	0	167	200	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	King's	att	0	dmg%	0		0	weap							orb	wand				
+63	King's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	74		69				2	111	113	0	10	20	29	0	167	200	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	King's	deadly	0	dmg%	0		0	weap							orb	wand				
+64	King's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	74		69				2	111	108	0	10	20	29	0	167	200	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	King's	crush	0	dmg%	0		0	weap							orb	wand				
+65	King's	#% Open Wounds & +#% Enhanced Damage	100	1	1	74		69				2	111	107	0	68	75	29	0	167	200	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	King's	openwounds	0	dmg%	0		0	weap							orb	wand				
+66	Master's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	74		70				4	111	15	0	210	225	29	0	201	250	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Master's	att	0	dmg%	0		0	weap							orb	wand				
+67	Master's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	79		77				2	111	113	0	12	24	29	0	201	250	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Master's	deadly	0	dmg%	0		0	weap							orb	wand				
+68	Master's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	79		77				2	111	108	0	12	24	29	0	201	250	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Master's	crush	0	dmg%	0		0	weap							orb	wand				
+69	Master's	#% Open Wounds & +#% Enhanced Damage	100	1	1	79		77				2	111	107	0	76	83	29	0	201	250	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Master's	openwounds	0	dmg%	0		0	weap							orb	wand				
+70	Highmaster's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	79		79				4	111	15	0	251	275	29	0	251	300	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Highmaster's	att	0	dmg%	0		0	weap							orb	wand				
+71	Highmaster's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	83		82				2	111	113	0	13	26	29	0	251	300	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Highmaster's	deadly	0	dmg%	0		0	weap							orb	wand				
+72	Highmaster's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	83		82				2	111	108	0	13	26	29	0	251	300	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Highmaster's	crush	0	dmg%	0		0	weap							orb	wand				
+73	Highmaster's	#% Open Wounds & +#% Enhanced Damage	100	1	1	83		82				2	111	107	0	84	93	29	0	251	300	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Highmaster's	openwounds	0	dmg%	0		0	weap							orb	wand				
+74	Grandmaster's	+# to Attack Rating & +#% Enhanced Damage	100	1	1	84		88				4	111	15	0	276	300	29	0	301	350	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Grandmaster's	att	0	dmg%	0		0	weap							orb	wand				
+75	Grandmaster's	#% Deadly Strike & +#% Enhanced Damage	100	1	1	86		88				2	111	113	0	15	30	29	0	301	350	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Grandmaster's	deadly	0	dmg%	0		0	weap							orb	wand				
+76	Grandmaster's	#% Crushing Blow & +#% Enhanced Damage	100	1	1	86		88				2	111	108	0	15	30	29	0	301	350	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Grandmaster's	crush	0	dmg%	0		0	weap							orb	wand				
+77	Grandmaster's	#% Open Wounds & +#% Enhanced Damage	100	1	1	86		88				2	111	107	0	94	100	29	0	301	350	-1	0	0	0	dgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Grandmaster's	openwounds	0	dmg%	0		0	weap							orb	wand				
+78	Stout	+# Defense & +#% Enhanced Damage	100	1	1	1	40	1				4	111	0	0	3	5	29	0	10	20	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stout	ac	0	dmg%	0		0	weap												
+79	Stout	+# Defense & +#% Enhanced Damage	100	1	1	7	50	5				4	111	0	0	6	9	29	0	21	30	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stout	ac	0	dmg%	0		0	weap												
+80	Stout	+# Defense & +#% Enhanced Damage	100	1	1	12	55	9				4	111	0	0	10	12	29	0	31	40	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stout	ac	0	dmg%	0		0	weap												
+81	Burly	+# Defense & +#% Enhanced Damage	100	1	1	17	70	12				4	111	0	0	13	15	29	0	41	50	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Burly	ac	0	dmg%	0		0	weap												
+82	Burly	+# Defense & +#% Enhanced Damage	100	1	1	22	75	16				4	111	0	0	16	22	29	0	51	60	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Burly	ac	0	dmg%	0		0	weap												
+83	Burly	+# Defense & +#% Enhanced Damage	100	1	1	27	80	20				4	111	0	0	23	30	29	0	61	70	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Burly	ac	0	dmg%	0		0	weap												
+84	Stalwart	+# Defense & +#% Enhanced Damage	100	1	1	32		24				4	111	0	0	33	40	29	0	71	80	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	dmg%	0		0	weap												
+85	Stalwart	+# Defense & +#% Enhanced Damage	100	1	1	37		34				4	111	0	0	44	50	29	0	81	100	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	dmg%	0		0	weap												
+86	Stalwart	+# Defense & +#% Enhanced Damage	100	1	1	42		48				4	111	0	0	60	70	29	0	101	125	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	dmg%	0		0	weap												
+87	Stalwart	+# Defense & +#% Enhanced Damage	100	1	1	55		59				2	111	0	0	70	85	29	0	126	150	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	dmg%	0		0	weap												
+88	Stalwart	+# Defense & +#% Enhanced Damage	100	1	1	69		67				2	111	0	0	86	100	29	0	151	175	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	dmg%	0		0	weap												
+89	Stalwart	+# Defense & +#% Enhanced Damage	100	1	1	80		72				2	111	0	0	100	125	29	0	176	200	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	dmg%	0		0	weap												
+90	Loremaster's1	+#% to Experience Gained & +#% Enhanced Damage	100	1	1	47		35				4	111	227	0	2	2	29	0	76	100	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Loremaster's1	addxp	0	dmg%	0		0	weap												
+91	Sage's	+#% to Experience Gained & +#% Enhanced Damage	100	1	1	63		57				4	111	227	0	2	2	29	0	101	150	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Sage's	addxp	0	dmg%	0		0	weap												
+92	Sage's	+#% to Experience Gained & +#% Enhanced Damage	100	1	1	79		63				2	111	227	0	2	2	29	0	151	225	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Sage's	addxp	0	dmg%	0		0	weap												
+93	Master Sage's	+#% to Experience Gained & +#% Enhanced Damage	100	1	1	88		78				2	111	227	0	3	3	29	0	225	250	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Master Sage's	addxp	0	dmg%	0		0	weap												
+94	Ghostly	+#% Enhanced Damage & Ethereal & Repairs 1 durability in # seconds	100	1	1	41		37				4	111	29	0	101	125	239	0	1	1	174	10	0	0	cred	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Ghostly	dmg%	0	ethereal	0	rep-dur	weap							orb	wand				
+95	Spectral1	+#% Enhanced Damage & Ethereal & Repairs 1 durability in # seconds	100	1	1	61		51				4	111	29	0	126	150	239	0	1	1	174	10	0	0	cgrn	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Spectral1	dmg%	0	ethereal	0	rep-dur	weap							orb	wand				
+96	Phantom1	+#% Enhanced Damage & Ethereal & Repairs 1 durability in # seconds	100	1	1	75		67				4	111	29	0	151	175	239	0	1	1	174	10	0	0	cblu	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Phantom1	dmg%	0	ethereal	0	rep-dur	weap							orb	wand				
+97	Wraithly1	+#% Enhanced Damage & Ethereal & Repairs 1 durability in # seconds	100	1	1	86		80				4	111	29	0	176	200	239	0	1	1	174	10	0	0	whit	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Wraithly1	dmg%	0	ethereal	0	rep-dur	weap							orb	wand				
+98	Assamic	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	3	20	1				4	123	100	0	25	50	98	0	10	25	-1	0	0	0		45	75	0	0	0	0	0	25	68	0	0	0	0	0	Assamic	att-demon	0	dmg-demon	0		0	weap	circ						wand	orb				
+99	Arcadian	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	15	40	11				4	123	100	0	51	100	98	0	26	50	-1	0	0	0		45	75	0	0	0	0	0	25	68	0	0	0	0	0	Arcadian	att-demon	0	dmg-demon	0		0	weap	circ						wand	orb				
+100	Unearthly	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	25	65	18				2	123	100	0	101	150	98	0	51	100	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	Unearthly	att-demon	0	dmg-demon	0		0	weap							wand	orb				
+101	Astral	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	35		26				2	123	100	0	151	200	98	0	101	150	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	Astral	att-demon	0	dmg-demon	0		0	weap							wand	orb				
+102	Elysian	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	45		33				2	123	100	0	201	300	98	0	151	200	-1	0	0	0	dgld	45	0	0	0	0	0	0	25	68	0	0	0	0	0	Elysian	att-demon	0	dmg-demon	0		0	weap							wand	orb				
+103	Celestial	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	55		41				2	123	100	0	301	400	98	0	201	300	-1	0	0	0	dgld	45	0	0	0	0	0	0	25	68	0	0	0	0	0	Celestial	att-demon	0	dmg-demon	0		0	weap							wand	orb				
+104	Diamond	+# to Attack Rating against Demons & +#% Damage to Demons	100	1	1	26		19				2	123	100	0	25	50	98	0	25	40	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Diamond	att-demon	0	dmg-demon	0		0	jewl												
+105	Consecrated	+# to Attack Rating against Undead & +#% Damage to Undead	100	1	1	1	35	1				8	142	101	0	25	75	99	0	25	75	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	Consecrated	att-undead	0	dmg-undead	0		0	weap							wand	orb				
+106	Pure	+# to Attack Rating against Undead & +#% Damage to Undead	100	1	1	15	60	11				6	142	101	0	76	175	99	0	76	125	-1	0	0	0	lgld	45	0	0	0	0	0	0	25	68	0	0	0	0	0	Pure	att-undead	0	dmg-undead	0		0	weap							wand	orb				
+107	Sacred	+# to Attack Rating against Undead & +#% Damage to Undead	100	1	1	25		18				4	142	101	0	175	250	99	0	126	200	-1	0	0	0	lgld	45	0	0	0	0	0	0	25	68	0	0	0	0	0	Sacred	att-undead	0	dmg-undead	0		0	weap							wand	orb				
+108	Hallowed	+# to Attack Rating against Undead & +#% Damage to Undead	100	1	1	35		27				2	142	101	0	251	325	99	0	201	275	-1	0	0	0	lgld	45	0	0	0	0	0	0	25	68	0	0	0	0	0	Hallowed	att-undead	0	dmg-undead	0		0	weap							wand	orb				
+109	Divine	+# to Attack Rating against Undead & +#% Damage to Undead	100	1	1	45		37				2	142	101	0	326	450	99	0	276	350	-1	0	0	0	lgld	45	0	0	0	0	0	0	25	68	0	0	0	0	0	Divine	att-undead	0	dmg-undead	0		0	weap							wand	orb				
+110	Pearl	+# to Attack Rating against Undead & +#% Damage to Undead	100	1	1	18		13				2	142	101	0	25	50	99	0	25	50	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Pearl	att-undead	0	dmg-undead	0		0	jewl												
+111	Bronze	+# to Attack Rating	100	1	1	1	35	1				16	110	15	0	10	20	-1	0	0	0	-1	0	0	0		45	10	75	16	12	0	0	68	25	0	0	0	0	0	Bronze	att	0		0		0	weap	ring	circ	glov	amul			orb	wand				
+112	Iron	+# to Attack Rating	100	1	1	7	48	5				16	110	15	0	21	40	-1	0	0	0	-1	0	0	0		45	10	75	16	12	0	0	68	25	0	0	0	0	0	Iron	att	0		0		0	weap	ring	circ	glov	amul			orb	wand				
+113	Steel	+# to Attack Rating	100	1	1	12	70	9				14	110	15	0	41	60	-1	0	0	0	-1	0	0	0		45	10	75	16	12	0	0	68	25	0	0	0	0	0	Steel	att	0		0		0	weap	ring	circ	glov	amul			orb	wand				
+114	Silver	+# to Attack Rating	100	1	1	14	85	12				14	110	15	0	61	80	-1	0	0	0	-1	0	0	0		45	10	75	16	12	0	0	68	25	0	0	0	0	0	Silver	att	0		0		0	weap	ring	circ	glov	amul			orb	wand				
+115	Gold	+# to Attack Rating	100	1	1	19		16				12	110	15	0	81	100	-1	0	0	0	-1	0	0	0	lgld	45	10	75	16	12	0	0	68	25	0	0	0	0	0	Gold	att	0		0		0	weap	ring	circ	glov	amul			orb	wand				
+116	Platinum	+# to Attack Rating	100	1	1	25		22				12	110	15	0	101	125	-1	0	0	0	-1	0	0	0	lgld	45	10	75	0	0	0	0	68	25	0	0	0	0	0	Platinum	att	0		0		0	weap	ring	circ					orb	wand				
+117	Meteoric	+# to Attack Rating	100	1	1	30		27				10	110	15	0	126	150	-1	0	0	0	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Meteoric	att	0		0		0	weap							orb	wand				
+118	Strange	+# to Attack Rating	100	1	1	37		34				10	110	15	0	151	300	-1	0	0	0	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Strange	att	0		0		0	weap							orb	wand				
+119	Weird	+# to Attack Rating	100	1	1	44		40				8	110	15	0	301	450	-1	0	0	0	-1	0	0	0	lgld	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Weird	att	0		0		0	weap							orb	wand				
+120	Nickel	+# to Attack Rating	100	1	1	1	40	1				8	110	15	0	10	20	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Nickel	att	0		0		0	jewl												
+121	Tin	+# to Attack Rating	100	1	1	8	70	6				8	110	15	0	21	40	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Tin	att	0		0		0	jewl												
+122	Silver	+# to Attack Rating	100	1	1	25		18				8	110	15	0	41	60	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Silver	att	0		0		0	jewl												
+123	Argent	+# to Attack Rating	100	1	1	44		36				8	110	15	0	61	100	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Argent	att	0		0		0	jewl												
+124	Robineye	+# to Attack Rating (Based on Character Level)	100	1	1	1	35	1				2	111	147	4	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	26	25	68	0	0	0	0	Robineye	att/lvl		0		0	weap							staf	wand	orb			
+125	Sparroweye	+# to Attack Rating (Based on Character Level)	100	1	1	10	55	7				2	111	147	6	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	26	25	68	0	0	0	0	Sparroweye	att/lvl		0		0	weap							staf	wand	orb			
+126	Falconeye	+# to Attack Rating (Based on Character Level)	100	1	1	20		15				2	111	147	8	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	26	25	68	0	0	0	0	Falconeye	att/lvl		0		0	weap							staf	wand	orb			
+127	Hawkeye	+# to Attack Rating (Based on Character Level)	100	1	1	35		26				14	111	147	12	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	26	25	68	0	0	0	0	Hawkeye	att/lvl		0		0	weap							staf	wand	orb			
+128	Eagleeye	+# to Attack Rating (Based on Character Level)	100	1	1	50		37				2	111	147	16	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	26	25	68	0	0	0	0	Eagleeye	att/lvl		0		0	weap							staf	wand	orb			
+129	Precise1	#% Bonus to Attack Rating	100	1	1	20	40	15				8	200	96	0	5	9	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Precise1	att%	0		0		0	weap	glov											
+130	Precise1	#% Bonus to Attack Rating	100	1	1	40	70	30				6	200	96	0	10	14	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Precise1	att%	0		0		0	weap	glov											
+131	Fastidious1	#% Bonus to Attack Rating	100	1	1	55		45				4	200	96	0	15	19	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Fastidious1	att%	0		0		0	weap	glov											
+132	Meticulous1	#% Bonus to Attack Rating	100	1	1	70		60				4	200	96	0	20	24	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Meticulous1	att%	0		0		0	weap	glov											
+133	Veracious1	#% Bonus to Attack Rating	100	1	1	85		75				2	200	96	0	25	35	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Veracious1	att%	0		0		0	weap	glov											
+134	Visionary	#% Bonus to Attack Rating (Based on Character Level)	100	1	1	25		18				2	111	148	2	0	0	-1	0	0	0	-1	0	0	0	whit	104	47	16	0	0	0	0	0	0	0	0	0	0	0	Visionary	att%/lvl		0		0	helm	miss	glov										
+135	Scarlet	+# to Minimum Damage	100	1	1	8	55	6				8	103	27	0	1	4	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Scarlet	dmg-min	0		0		0	jewl												
+136	Crimson	+# to Minimum Damage	100	1	1	38		30				8	103	27	0	5	8	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Crimson	dmg-min	0		0		0	jewl												
+137	Carbuncle	+# to Maximum Damage	100	1	1	12	48	9				8	104	28	0	1	5	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Carbuncle	dmg-max	0		0		0	jewl												
+138	Carmine	+# to Maximum Damage	100	1	1	35		27				8	104	28	0	6	9	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Carmine	dmg-max	0		0		0	jewl												
+139	Vermillion	+# to Maximum Damage	100	1	1	58		50				8	104	28	0	11	15	-1	0	0	0	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Vermillion	dmg-max	0		0		0	jewl												
+140	Red	+# to Minimum Damage & +# to Maximum Damage	100	1	1	29	58	26				8	103	27	0	1	3	28	0	5	8	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Red	dmg-min	0	dmg-max	0		0	jewl												
+141	Sanguinary	+# to Minimum Damage & +# to Maximum Damage	100	1	1	59		52				8	103	27	0	4	5	28	0	8	12	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Sanguinary	dmg-min	0	dmg-max	0		0	jewl												
+142	Bloody	+# to Minimum Damage & +# to Maximum Damage	100	1	1	86		88				8	103	27	0	6	8	28	0	13	15	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Bloody	dmg-min	0	dmg-max	0		0	jewl												
+143	Knave's	+# to Maximum Damage (Based on Character Level) & +# to Attack Rating (Based on Character Level)	100	1	1	1	30	1				2	105	141	2	0	0	147	8	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Knave's	dmg/lvl	att/lvl		0	weap							orb	wand	orb			
+144	Jack's	+# to Maximum Damage (Based on Character Level) & +# to Attack Rating (Based on Character Level)	100	1	1	10	45	7				2	105	141	3	0	0	147	12	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Jack's	dmg/lvl	att/lvl		0	weap							orb	wand	orb			
+145	Jester's	+# to Maximum Damage (Based on Character Level) & +# to Attack Rating (Based on Character Level)	100	1	1	20	65	15				2	105	141	4	0	0	147	16	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Jester's	dmg/lvl	att/lvl		0	weap							orb	wand	orb			
+146	Joker's	+# to Maximum Damage (Based on Character Level) & +# to Attack Rating (Based on Character Level)	100	1	1	35		26				2	105	141	6	0	0	147	20	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Joker's	dmg/lvl	att/lvl		0	weap							orb	wand	orb			
+147	Trump	+# to Maximum Damage (Based on Character Level) & +# to Attack Rating (Based on Character Level)	100	1	1	50		37				14	105	141	8	0	0	147	24	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Trump	dmg/lvl	att/lvl		0	weap							orb	wand	orb			
+148	Loud	+# to Maximum Damage (Based on Character Level)	100	1	1	5	35	3				2	105	141	4	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Loud	dmg/lvl		0		0	weap							orb	wand	orb			
+149	Calling	+# to Maximum Damage (Based on Character Level)	100	1	1	20	55	15				2	105	141	6	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Calling	dmg/lvl		0		0	weap							orb	wand	orb			
+150	Yelling	+# to Maximum Damage (Based on Character Level)	100	1	1	40		35				2	105	141	8	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Yelling	dmg/lvl		0		0	weap							orb	wand	orb			
+151	Shouting	+# to Maximum Damage (Based on Character Level)	100	1	1	60		55				2	105	141	12	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Shouting	dmg/lvl		0		0	weap							orb	wand	orb			
+152	Gritty	+# to Maximum Damage (Based on Character Level)	100	1	1	75		65				14	105	141	16	0	0	-1	0	0	0	-1	0	0	0	whit	45	0	0	0	0	0	0	68	25	68	0	0	0	0	Gritty	dmg/lvl		0		0	weap							orb	wand	orb			
+153	Blanched	+# Defense	100	1	1	1	40	1				8	101	0	0	5	8	-1	0	0	0	-1	0	0	0	whit	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Blanched	ac	0		0		0	jewl												
+154	Eburin	+# Defense	100	1	1	16	60	12				8	101	0	0	9	20	-1	0	0	0	-1	0	0	0	whit	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Eburin	ac	0		0		0	jewl												
+155	Bone	+# Defense	100	1	1	32		24				8	101	0	0	21	40	-1	0	0	0	-1	0	0	0	whit	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Bone	ac	0		0		0	jewl												
+156	Ivory	+# Defense	100	1	1	64		56				8	101	0	0	41	64	-1	0	0	0	-1	0	0	0	whit	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Ivory	ac	0		0		0	jewl												
+157	Miocene	+# Defense (Based on Character Level)	100	1	1	1	25	1				8	101	137	12	0	0	-1	0	0	0	-1	0	0	0	whit	3	51	0	0	0	0	0	0	0	0	0	0	0	0	Miocene	ac/lvl		0		0	tors	shld											
+158	Miocene	+# Defense (Based on Character Level)	100	1	1	1	25	1				10	101	137	4	0	0	-1	0	0	0	-1	0	0	0	whit	16	15	19	104	0	0	0	0	0	0	0	0	0	0	Miocene	ac/lvl		0		0	glov	boot	belt	helm									
+159	Oligocene	+# Defense (Based on Character Level)	100	1	1	25	50	22				8	101	137	24	0	0	-1	0	0	0	-1	0	0	0	whit	3	51	0	0	0	0	0	0	0	0	0	0	0	0	Oligocene	ac/lvl		0		0	tors	shld											
+160	Oligocene	+# Defense (Based on Character Level)	100	1	1	25	50	22				8	101	137	8	0	0	-1	0	0	0	-1	0	0	0	whit	16	15	19	104	0	0	0	0	0	0	0	0	0	0	Oligocene	ac/lvl		0		0	glov	boot	belt	helm									
+161	Eocene	+# Defense (Based on Character Level)	100	1	1	45		40				6	101	137	36	0	0	-1	0	0	0	-1	0	0	0	whit	3	51	0	0	0	0	0	0	0	0	0	0	0	0	Eocene	ac/lvl		0		0	tors	shld											
+162	Eocene	+# Defense (Based on Character Level)	100	1	1	45		40				4	101	137	12	0	0	-1	0	0	0	-1	0	0	0	whit	16	15	19	104	0	0	0	0	0	0	0	0	0	0	Eocene	ac/lvl		0		0	glov	boot	belt	helm									
+163	Paleocene	+# Defense (Based on Character Level)	100	1	1	70		60				4	101	137	48	0	0	-1	0	0	0	-1	0	0	0	whit	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Paleocene	ac/lvl		0		0	tors												
+164	Paleocene	+# Defense (Based on Character Level)	100	1	1	70		60				2	101	137	16	0	0	-1	0	0	0	-1	0	0	0	whit	16	15	19	104	0	0	0	0	0	0	0	0	0	0	Paleocene	ac/lvl		0		0	glov	boot	belt	helm									
+165	Sturdy	+#% Enhanced Defense	100	1	1	1	20	1				110	101	5	0	10	20	-1	0	0	0	-1	0	0	0		50	51	0	0	0	0	0	0	0	0	0	0	0	0	Sturdy	ac%	0		0		0	armo	shld											
+166	Sturdy	+#% Enhanced Defense	100	1	1	7	30	4				110	101	5	0	21	30	-1	0	0	0	-1	0	0	0		50	51	0	0	0	0	0	0	0	0	0	0	0	0	Sturdy	ac%	0		0		0	armo	shld											
+167	Strong	+#% Enhanced Defense	100	1	1	12	40	10				110	101	5	0	31	40	-1	0	0	0	-1	0	0	0		50	51	0	0	0	0	0	0	0	0	0	0	0	0	Strong	ac%	0		0		0	armo	shld											
+168	Glorious	+#% Enhanced Defense	100	1	1	24	50	18				110	101	5	0	41	50	-1	0	0	0	-1	0	0	0		50	51	0	0	0	0	0	0	0	0	0	0	0	0	Glorious	ac%	0		0		0	armo	shld											
+169	Blessed	+#% Enhanced Defense	100	1	1	31	60	25				110	101	5	0	51	65	-1	0	0	0	-1	0	0	0		50	51	0	0	0	0	0	0	0	0	0	0	0	0	Blessed	ac%	0		0		0	armo	shld											
+170	Consecrated	+#% Enhanced Defense	100	1	1	39	70	32				110	101	5	0	66	80	-1	0	0	0	-1	0	0	0		50	51	0	0	0	0	0	0	0	0	0	0	0	0	Consecrated	ac%	0		0		0	armo	shld											
+171	Saintly	+#% Enhanced Defense	100	1	1	55		48				110	101	5	0	81	100	-1	0	0	0	-1	0	0	0	dgld	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Saintly	ac%	0		0		0	armo	shld											
+172	Holy	+#% Enhanced Defense	100	1	1	67		57				110	101	5	0	101	133	-1	0	0	0	-1	0	0	0	dgld	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Holy	ac%	0		0		0	armo	shld											
+173	Hallowed	+#% Enhanced Defense	100	1	1	72		69				110	101	5	0	134	166	-1	0	0	0	-1	0	0	0	dgld	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Hallowed	ac%	0		0		0	armo	shld											
+174	Godly	+#% Enhanced Defense	100	1	1	79		74				110	101	5	0	167	200	-1	0	0	0	-1	0	0	0	dgld	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Godly	ac%	0		0		0	armo	shld											
+175	Godly	+#% Enhanced Defense	100	1	1	86		75				110	101	5	0	201	225	-1	0	0	0	-1	0	0	0	dgld	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Godly	ac%	0		0		0	armo	shld											
+176	Paradox	+#% Enhanced Defense (Based on Character Level)	100	1	1	1		1				24	101	138	8	0	0	-1	0	0	0	-1	0	0	0	whit	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Paradox	ac%/lvl		0		0	armo	shld											
+177	Paradox	+#% Enhanced Defense (Based on Character Level)	100	1	1	65		59				24	101	138	16	0	0	-1	0	0	0	-1	0	0	0	whit	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Paradox	ac%/lvl		0		0	armo	shld											
+178	Ghostly	+#% Enhanced Defense & Ethereal & Repairs 1 durability in # seconds	100	1	1	41		37				4	101	5	0	25	40	239	0	1	1	174	10	0	0	whit	50	0	0	0	0	0	0	0	0	0	0	0	0	0	Ghostly	ac%	0	ethereal	0	rep-dur	armo												
+179	Spectral1	+#% Enhanced Defense & Ethereal & Repairs 1 durability in # seconds	100	1	1	61		51				4	101	5	0	41	60	239	0	1	1	174	10	0	0	whit	50	0	0	0	0	0	0	0	0	0	0	0	0	0	Spectral1	ac%	0	ethereal	0	rep-dur	armo												
+180	Phantom1	+#% Enhanced Defense & Ethereal & Repairs 1 durability in # seconds	100	1	1	75		67				4	101	5	0	61	80	239	0	1	1	174	10	0	0	whit	50	0	0	0	0	0	0	0	0	0	0	0	0	0	Phantom1	ac%	0	ethereal	0	rep-dur	armo												
+181	Wraithly1	+#% Enhanced Defense & Ethereal & Repairs 1 durability in # seconds	100	1	1	86		75				4	101	5	0	81	100	239	0	1	1	174	10	0	0	whit	50	0	0	0	0	0	0	0	0	0	0	0	0	0	Wraithly1	ac%	0	ethereal	0	rep-dur	armo												
+182	Strengthened1	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	5		3				4	101	5	0	20	30	4	0	1	3	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Strengthened1	ac%	0	red-dmg%	0		0	tors	shld											
+183	Reinforced1	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	17		14				4	101	5	0	31	40	4	0	4	5	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Reinforced1	ac%	0	red-dmg%	0		0	tors	shld											
+184	Fortified	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	29		26				4	101	5	0	41	50	4	0	6	7	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Fortified	ac%	0	red-dmg%	0		0	tors	shld											
+185	Hardened1	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	40		37				4	101	5	0	51	60	4	0	8	10	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Hardened1	ac%	0	red-dmg%	0		0	tors	shld											
+186	Tempered1	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	55		50				4	101	5	0	61	70	4	0	11	15	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Tempered1	ac%	0	red-dmg%	0		0	tors	shld											
+187	Treated1	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	70		67				4	101	5	0	71	80	4	0	16	20	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Treated1	ac%	0	red-dmg%	0		0	tors	shld											
+188	Invulnerable1	+#% Enhanced Defense & Damage Reduced by #%	100	1	1	86		83				4	101	5	0	81	100	4	0	21	25	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	Invulnerable1	ac%	0	red-dmg%	0		0	tors	shld											
+189	Sage's	+# to All Skills	100	1	1	59		50				2	125	104	0	1	1	-1	0	0	0	-1	0	0	0		12	3	51	0	0	0	0	0	0	0	0	0	0	0	Sage's	allskills	0		0		0	amul	tors	shld										
+190	Sage's	+# to All Skills	100	1	1	85		80				2	125	104	0	1	1	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	Sage's	allskills	0		0		0	ring												
+191	Omniscient	+# to All Skills	100	1	1	86		80				2	125	104	0	2	2	-1	0	0	0	-1	0	0	0		3	12	0	0	0	0	0	0	0	0	0	0	0	0	Omniscient	allskills	0		0		0	tors	amul											
+192	Maiden's	+# to Amazon Skill Levels	100	1	1	36		27	ama			8	125	67	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Maiden's	ama	0		0		0	amul	circ											
+193	Maiden's	+# to Amazon Skill Levels	100	1	1	55		47	ama			2	125	67	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Maiden's	ama	0		0		0	tors												
+194	Valkyrie's	+# to Amazon Skill Levels	100	1	1	86		75	ama			2	125	67	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Valkyrie's	ama	0		0		0	tors												
+195	Valkyrie's	+# to Amazon Skill Levels	100	1	1	86		67	ama			4	125	67	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Valkyrie's	ama	0		0		0	amul	circ											
+196	Maiden's	+# to Amazon Skill Levels	100	1	1	30		22	ama			8	125	67	0	1	1	-1	0	0	0	-1	0	0	0		47	33	0	0	0	0	0	0	0	0	0	0	0	0	Maiden's	ama	0		0		0	miss	spea											
+197	Valkyrie's	+# to Amazon Skill Levels	100	1	1	50		42	ama			4	125	67	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	47	33	0	0	0	0	0	0	0	0	0	0	0	0	Valkyrie's	ama	0		0		0	miss	spea											
+198	Monk's	+# to Paladin Skill Levels	100	1	1	55		47	pal			2	125	68	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Monk's	pal	0		0		0	tors												
+199	Monk's	+# to Paladin Skill Levels	100	1	1	36		27	pal			8	125	68	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Monk's	pal	0		0		0	amul	circ											
+200	Priest's	+# to Paladin Skill Levels	100	1	1	86		75	pal			2	125	68	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Priest's	pal	0		0		0	tors												
+201	Priest's	+# to Paladin Skill Levels	100	1	1	86		67	pal			4	125	68	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Priest's	pal	0		0		0	amul	circ											
+202	Monk's	+# to Paladin Skill Levels	100	1	1	30		22	pal			8	125	68	0	1	1	-1	0	0	0	-1	0	0	0		24	70	0	0	0	0	0	0	0	0	0	0	0	0	Monk's	pal	0		0		0	scep	ashd											
+203	Priest's	+# to Paladin Skill Levels	100	1	1	50		42	pal			4	125	68	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	24	70	0	0	0	0	0	0	0	0	0	0	0	0	Priest's	pal	0		0		0	scep	ashd											
+204	Monk's	+# to Paladin Skill Levels	100	1	1	35		27	pal			8	125	68	0	1	1	-1	0	0	0	-1	0	0	0		30	36	31	51	0	0	0	0	0	0	0	0	0	0	Monk's	pal	0		0		0	swor	mace	hamm	shld									
+205	Priest's	+# to Paladin Skill Levels	100	1	1	65		58	pal			4	125	68	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	30	36	31	51	0	0	0	0	0	0	0	0	0	0	Priest's	pal	0		0		0	swor	mace	hamm	shld									
+206	Summoner's	+# to Necromancer Skill Levels	100	1	1	36		27	nec			8	125	69	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Summoner's	nec	0		0		0	amul	circ											
+207	Summoner's	+# to Necromancer Skill Levels	100	1	1	55		47	nec			2	125	69	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Summoner's	nec	0		0		0	tors												
+208	Necromancer's	+# to Necromancer Skill Levels	100	1	1	86		75	nec			2	125	69	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Necromancer's	nec	0		0		0	tors												
+209	Necromancer's	+# to Necromancer Skill Levels	100	1	1	86		67	nec			4	125	69	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Necromancer's	nec	0		0		0	amul	circ											
+210	Summoner's	+# to Necromancer Skill Levels	100	1	1	30		22	nec			8	125	69	0	1	1	-1	0	0	0	-1	0	0	0		25	32	69	0	0	0	0	0	0	0	0	0	0	0	Summoner's	nec	0		0		0	wand	knif	head										
+211	Necromancer's	+# to Necromancer Skill Levels	100	1	1	50		42	nec			4	125	69	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	25	32	69	0	0	0	0	0	0	0	0	0	0	0	Necromancer's	nec	0		0		0	wand	knif	head										
+212	Angel's	+# to Sorceress Skill Levels	100	1	1	36		27	sor			8	125	70	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Angel's	sor	0		0		0	amul	circ											
+213	Angel's	+# to Sorceress Skill Levels	100	1	1	55		47	sor			2	125	70	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Angel's	sor	0		0		0	tors												
+214	Arch-Angel's	+# to Sorceress Skill Levels	100	1	1	86		75	sor			2	125	70	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Arch-Angel's	sor	0		0		0	tors												
+215	Arch-Angel's	+# to Sorceress Skill Levels	100	1	1	86		67	sor			4	125	70	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Arch-Angel's	sor	0		0		0	amul	circ											
+216	Angel's	+# to Sorceress Skill Levels	100	1	1	30		22	sor			8	125	70	0	1	1	-1	0	0	0	-1	0	0	0		26	68	0	0	0	0	0	0	0	0	0	0	0	0	Angel's	sor	0		0		0	staf	orb											
+217	Arch-Angel's	+# to Sorceress Skill Levels	100	1	1	50		42	sor			4	125	70	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	26	68	0	0	0	0	0	0	0	0	0	0	0	0	Arch-Angel's	sor	0		0		0	staf	orb											
+218	Slayer's	+# to Barbarian Skill Levels	100	1	1	36		27	bar			8	125	71	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Slayer's	bar	0		0		0	amul	circ											
+219	Slayer's	+# to Barbarian Skill Levels	100	1	1	55		47	bar			2	125	71	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Slayer's	bar	0		0		0	tors												
+220	Berserker's	+# to Barbarian Skill Levels	100	1	1	86		75	bar			2	125	71	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Berserker's	bar	0		0		0	tors												
+221	Berserker's	+# to Barbarian Skill Levels	100	1	1	86		67	bar			4	125	71	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Berserker's	bar	0		0		0	amul	circ											
+222	Slayer's	+# to Barbarian Skill Levels	100	1	1	30		22	bar			8	125	71	0	1	1	-1	0	0	0	-1	0	0	0		42	28	33	29	30	31	36	44	0	0	0	0	0	0	Slayer's	bar	0		0		0	tkni	axe	spea	club	swor	hamm	mace	jave					
+223	Berserker's	+# to Barbarian Skill Levels	100	1	1	50		42	bar			2	125	71	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	42	28	33	29	30	31	36	44	0	0	0	0	0	0	Berserker's	bar	0		0		0	tkni	axe	spea	club	swor	hamm	mace	jave					
+224	Slayer's	+# to Barbarian Skill Levels	100	1	1	30		22	bar			8	125	71	0	1	1	-1	0	0	0	-1	0	0	0		71	0	0	0	0	0	0	0	0	0	0	0	0	0	Slayer's	bar	0		0		0	phlm												
+225	Berserker's	+# to Barbarian Skill Levels	100	1	1	50		42	bar			4	125	71	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	71	0	0	0	0	0	0	0	0	0	0	0	0	0	Berserker's	bar	0		0		0	phlm												
+226	Shaman's	+# to Druid Skill Levels	100	1	1	36		27	dru			8	125	121	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Shaman's	dru	0		0		0	amul	circ											
+227	Shaman's	+# to Druid Skill Levels	100	1	1	55		47	dru			2	125	121	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Shaman's	dru	0		0		0	tors												
+228	Hierophant's	+# to Druid Skill Levels	100	1	1	86		75	dru			2	125	121	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Hierophant's	dru	0		0		0	tors												
+229	Hierophant's	+# to Druid Skill Levels	100	1	1	86		67	dru			4	125	121	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Hierophant's	dru	0		0		0	amul	circ											
+230	Shaman's	+# to Druid Skill Levels	100	1	1	30		22	dru			8	125	121	0	1	1	-1	0	0	0	-1	0	0	0		29	72	0	0	0	0	0	0	0	0	0	0	0	0	Shaman's	dru	0		0		0	club	pelt											
+231	Hierophant's	+# to Druid Skill Levels	100	1	1	50		42	dru			4	125	121	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	29	72	0	0	0	0	0	0	0	0	0	0	0	0	Hierophant's	dru	0		0		0	club	pelt											
+232	Magekiller's	+# to Assassin Skill Levels	100	1	1	36		27	ass			8	125	122	0	1	1	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	Magekiller's	ass	0		0		0	amul	circ											
+233	Magekiller's	+# to Assassin Skill Levels	100	1	1	55		47	ass			2	125	122	0	1	1	-1	0	0	0	-1	0	0	0		3	0	0	0	0	0	0	0	0	0	0	0	0	0	Magekiller's	ass	0		0		0	tors												
+234	Witch-hunter's	+# to Assassin Skill Levels	100	1	1	86		75	ass			2	125	122	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Witch-hunter's	ass	0		0		0	tors												
+235	Witch-hunter's	+# to Assassin Skill Levels	100	1	1	86		67	ass			4	125	122	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Witch-hunter's	ass	0		0		0	amul	circ											
+236	Magekiller's	+# to Assassin Skill Levels	100	1	1	30		22	ass			8	125	122	0	1	1	-1	0	0	0	-1	0	0	0		67	0	0	0	0	0	0	0	0	0	0	0	0	0	Magekiller's	ass	0		0		0	h2h												
+237	Witch-hunter's	+# to Assassin Skill Levels	100	1	1	50		42	ass			4	125	122	0	2	2	-1	0	0	0	-1	0	0	0	cgrn	67	0	0	0	0	0	0	0	0	0	0	0	0	0	Witch-hunter's	ass	0		0		0	h2h												
+238	Fletcher's	+# to Bow and Crossbow Skills	100	1	1	20		15	ama			2	125	124	0	1	1	-1	0	0	0	-1	0	0	0		47	16	0	0	0	0	0	0	0	0	0	0	0	0	Fletcher's	skilltab		0		0	miss	glov											
+239	Bowyer's	+# to Bow and Crossbow Skills	100	1	1	40		30	ama			2	125	124	0	2	2	-1	0	0	0	-1	0	0	0	lgld	47	16	0	0	0	0	0	0	0	0	0	0	0	0	Bowyer's	skilltab		0		0	miss	glov											
+240	Archer's	+# to Bow and Crossbow Skills	100	1	1	60		45	ama			2	125	124	0	3	3	-1	0	0	0	-1	0	0	0	lgld	47	16	0	0	0	0	0	0	0	0	0	0	0	0	Archer's	skilltab		0		0	miss	glov											
+241	Acrobat's	+# to Passive and Magic Skills	100	1	1	20		15	ama			2	125	124	1	1	1	-1	0	0	0	-1	0	0	0		16	12	75	0	0	0	0	0	0	0	0	0	0	0	Acrobat's	skilltab		0		0	glov	amul	circ										
+242	Gymnast's	+# to Passive and Magic Skills	100	1	1	40		30	ama			2	125	124	1	2	2	-1	0	0	0	-1	0	0	0	lgld	16	12	75	0	0	0	0	0	0	0	0	0	0	0	Gymnast's	skilltab		0		0	glov	amul	circ										
+243	Athlete's	+# to Passive and Magic Skills	100	1	1	60		45	ama			2	125	124	1	3	3	-1	0	0	0	-1	0	0	0	lgld	16	12	75	0	0	0	0	0	0	0	0	0	0	0	Athlete's	skilltab		0		0	glov	amul	circ										
+244	Harpoonist's	+# to Javelin and Spear Skills	100	1	1	20		15	ama			2	125	124	2	1	1	-1	0	0	0	-1	0	0	0		33	16	0	0	0	0	0	0	0	0	0	0	0	0	Harpoonist's	skilltab		0		0	spea	glov											
+245	Spearmaiden's	+# to Javelin and Spear Skills	100	1	1	40		30	ama			2	125	124	2	2	2	-1	0	0	0	-1	0	0	0	lgld	33	16	0	0	0	0	0	0	0	0	0	0	0	0	Spearmaiden's	skilltab		0		0	spea	glov											
+246	Lancer's	+# to Javelin and Spear Skills	100	1	1	60		45	ama			2	125	124	2	3	3	-1	0	0	0	-1	0	0	0	lgld	33	16	0	0	0	0	0	0	0	0	0	0	0	0	Lancer's	skilltab		0		0	spea	glov											
+247	Burning	+# to Fire Skills	100	1	1	20		15	sor			2	125	124	3	1	1	-1	0	0	0	-1	0	0	0		26	68	12	75	0	0	0	0	0	0	0	0	0	0	Burning	skilltab		0		0	staf	orb	amul	circ									
+248	Blazing	+# to Fire Skills	100	1	1	40		30	sor			2	125	124	3	2	2	-1	0	0	0	-1	0	0	0	lgld	26	68	12	75	0	0	0	0	0	0	0	0	0	0	Blazing	skilltab		0		0	staf	orb	amul	circ									
+249	Volcanic	+# to Fire Skills	100	1	1	60		45	sor			2	125	124	3	3	3	-1	0	0	0	-1	0	0	0	lgld	26	68	12	75	0	0	0	0	0	0	0	0	0	0	Volcanic	skilltab		0		0	staf	orb	amul	circ									
+250	Sparking	+# to Lightning Skills	100	1	1	20		15	sor			2	125	124	4	1	1	-1	0	0	0	-1	0	0	0		26	68	12	75	0	0	0	0	0	0	0	0	0	0	Sparking	skilltab		0		0	staf	orb	amul	circ									
+251	Charged	+# to Lightning Skills	100	1	1	40		30	sor			2	125	124	4	2	2	-1	0	0	0	-1	0	0	0	lgld	26	68	12	75	0	0	0	0	0	0	0	0	0	0	Charged	skilltab		0		0	staf	orb	amul	circ									
+252	Powered	+# to Lightning Skills	100	1	1	60		45	sor			2	125	124	4	3	3	-1	0	0	0	-1	0	0	0	lgld	26	68	12	75	0	0	0	0	0	0	0	0	0	0	Powered	skilltab		0		0	staf	orb	amul	circ									
+253	Chilling	+# to Cold Skills	100	1	1	20		15	sor			2	125	124	5	1	1	-1	0	0	0	-1	0	0	0		26	68	12	75	0	0	0	0	0	0	0	0	0	0	Chilling	skilltab		0		0	staf	orb	amul	circ									
+254	Freezing	+# to Cold Skills	100	1	1	40		30	sor			2	125	124	5	2	2	-1	0	0	0	-1	0	0	0	lgld	26	68	12	75	0	0	0	0	0	0	0	0	0	0	Freezing	skilltab		0		0	staf	orb	amul	circ									
+255	Glacial	+# to Cold Skills	100	1	1	60		45	sor			2	125	124	5	3	3	-1	0	0	0	-1	0	0	0	lgld	26	68	12	75	0	0	0	0	0	0	0	0	0	0	Glacial	skilltab		0		0	staf	orb	amul	circ									
+256	Hexing	+# to Curses	100	1	1	20		15	nec			2	125	124	6	1	1	-1	0	0	0	-1	0	0	0		25	69	12	75	0	0	0	0	0	0	0	0	0	0	Hexing	skilltab		0		0	wand	head	amul	circ									
+257	Blighting	+# to Curses	100	1	1	40		30	nec			2	125	124	6	2	2	-1	0	0	0	-1	0	0	0	lgld	25	69	12	75	0	0	0	0	0	0	0	0	0	0	Blighting	skilltab		0		0	wand	head	amul	circ									
+258	Accursed	+# to Curses	100	1	1	60		45	nec			2	125	124	6	3	3	-1	0	0	0	-1	0	0	0	lgld	25	69	12	75	0	0	0	0	0	0	0	0	0	0	Accursed	skilltab		0		0	wand	head	amul	circ									
+259	Fungal	+# to Poison and Bone Skills	100	1	1	20		15	nec			2	125	124	7	1	1	-1	0	0	0	-1	0	0	0		25	69	12	32	75	0	0	42	0	0	0	0	0	0	Fungal	skilltab		0		0	wand	head	amul	knif	circ			tkni					
+260	Noxious	+# to Poison and Bone Skills	100	1	1	40		30	nec			2	125	124	7	2	2	-1	0	0	0	-1	0	0	0	lgld	25	69	12	32	75	0	0	42	0	0	0	0	0	0	Noxious	skilltab		0		0	wand	head	amul	knif	circ			tkni					
+261	Venomous	+# to Poison and Bone Skills	100	1	1	60		45	nec			2	125	124	7	3	3	-1	0	0	0	-1	0	0	0	lgld	25	69	12	32	75	0	0	42	0	0	0	0	0	0	Venomous	skilltab		0		0	wand	head	amul	knif	circ			tkni					
+262	Graverobber's	+# to Summoning Skills	100	1	1	20		15	nec			2	125	124	8	1	1	-1	0	0	0	-1	0	0	0		25	69	12	75	0	0	0	0	0	0	0	0	0	0	Graverobber's	skilltab		0		0	wand	head	amul	circ									
+263	Vodoun	+# to Summoning Skills	100	1	1	40		30	nec			2	125	124	8	2	2	-1	0	0	0	-1	0	0	0	lgld	25	69	12	75	0	0	0	0	0	0	0	0	0	0	Vodoun	skilltab		0		0	wand	head	amul	circ									
+264	Golemlord's	+# to Summoning Skills	100	1	1	60		45	nec			2	125	124	8	3	3	-1	0	0	0	-1	0	0	0	lgld	25	69	12	75	0	0	0	0	0	0	0	0	0	0	Golemlord's	skilltab		0		0	wand	head	amul	circ									
+265	Lion Branded	+# to Combat Skills	100	1	1	20		15	pal			2	125	124	9	1	1	-1	0	0	0	-1	0	0	0		24	30	36	51	70	12	75	0	0	0	0	0	0	0	Lion Branded	skilltab		0		0	scep	swor	mace	shld	ashd	amul	circ						
+266	Hawk Branded	+# to Combat Skills	100	1	1	40		30	pal			2	125	124	9	2	2	-1	0	0	0	-1	0	0	0	lgld	24	30	36	51	70	12	75	0	0	0	0	0	0	0	Hawk Branded	skilltab		0		0	scep	swor	mace	shld	ashd	amul	circ						
+267	Rose Branded	+# to Combat Skills	100	1	1	60		45	pal			2	125	124	9	3	3	-1	0	0	0	-1	0	0	0	lgld	24	30	36	51	70	12	75	0	0	0	0	0	0	0	Rose Branded	skilltab		0		0	scep	swor	mace	shld	ashd	amul	circ						
+268	Captain's	+# to Offensive Auras	100	1	1	20		15	pal			2	125	124	10	1	1	-1	0	0	0	-1	0	0	0		24	30	36	51	70	12	75	0	0	0	0	0	0	0	Captain's	skilltab		0		0	scep	swor	mace	shld	ashd	amul	circ						
+269	Commander's	+# to Offensive Auras	100	1	1	40		30	pal			2	125	124	10	2	2	-1	0	0	0	-1	0	0	0	lgld	24	30	36	51	70	12	75	0	0	0	0	0	0	0	Commander's	skilltab		0		0	scep	swor	mace	shld	ashd	amul	circ						
+270	Marshal's	+# to Offensive Auras	100	1	1	60		45	pal			2	125	124	10	3	3	-1	0	0	0	-1	0	0	0	lgld	24	30	36	51	70	12	75	0	0	0	0	0	0	0	Marshal's	skilltab		0		0	scep	swor	mace	shld	ashd	amul	circ						
+271	Preserver's	+# to Defensive Auras	100	1	1	20		15	pal			2	125	124	11	1	1	-1	0	0	0	-1	0	0	0		51	70	12	75	0	0	0	0	0	0	0	0	0	0	Preserver's	skilltab		0		0	shld	ashd	amul	circ									
+272	Warder's	+# to Defensive Auras	100	1	1	40		30	pal			2	125	124	11	2	2	-1	0	0	0	-1	0	0	0	lgld	51	70	12	75	0	0	0	0	0	0	0	0	0	0	Warder's	skilltab		0		0	shld	ashd	amul	circ									
+273	Guardian's	+# to Defensive Auras	100	1	1	60		45	pal			2	125	124	11	3	3	-1	0	0	0	-1	0	0	0	lgld	51	70	12	75	0	0	0	0	0	0	0	0	0	0	Guardian's	skilltab		0		0	shld	ashd	amul	circ									
+274	Expert's	+# to Masteries	100	1	1	20		15	bar			2	125	124	12	1	1	-1	0	0	0	-1	0	0	0		71	45	104	0	0	0	0	47	55	0	0	0	0	0	Expert's	skilltab		0		0	phlm	weap	helm					miss	rod				
+275	Veteran's	+# to Masteries	100	1	1	40		30	bar			2	125	124	12	2	2	-1	0	0	0	-1	0	0	0	lgld	71	45	104	0	0	0	0	47	55	0	0	0	0	0	Veteran's	skilltab		0		0	phlm	weap	helm					miss	rod				
+276	Master's	+# to Masteries	100	1	1	60		45	bar			2	125	124	12	3	3	-1	0	0	0	-1	0	0	0	lgld	71	45	104	0	0	0	0	47	55	0	0	0	0	0	Master's	skilltab		0		0	phlm	weap	helm					miss	rod				
+277	Fanatic	+# to Combat Skills	100	1	1	20		15	bar			2	125	124	13	1	1	-1	0	0	0	-1	0	0	0		71	45	12	0	0	0	0	47	55	0	0	0	0	0	Fanatic	skilltab		0		0	phlm	weap	amul					miss	rod				
+278	Raging	+# to Combat Skills	100	1	1	40		30	bar			2	125	124	13	2	2	-1	0	0	0	-1	0	0	0	lgld	71	45	12	0	0	0	0	47	55	0	0	0	0	0	Raging	skilltab		0		0	phlm	weap	amul					miss	rod				
+279	Furious	+# to Combat Skills	100	1	1	60		45	bar			2	125	124	13	3	3	-1	0	0	0	-1	0	0	0	lgld	71	45	12	0	0	0	0	47	55	0	0	0	0	0	Furious	skilltab		0		0	phlm	weap	amul					miss	rod				
+280	Sounding	+# to Warcries	100	1	1	20		15	bar			2	125	124	14	1	1	-1	0	0	0	-1	0	0	0		71	45	12	0	0	0	0	47	55	0	0	0	0	0	Sounding	skilltab		0		0	phlm	weap	amul					miss	rod				
+281	Resonant	+# to Warcries	100	1	1	40		30	bar			2	125	124	14	2	2	-1	0	0	0	-1	0	0	0	lgld	71	45	12	0	0	0	0	47	55	0	0	0	0	0	Resonant	skilltab		0		0	phlm	weap	amul					miss	rod				
+282	Echoing	+# to Warcries	100	1	1	60		45	bar			2	125	124	14	3	3	-1	0	0	0	-1	0	0	0	lgld	71	45	12	0	0	0	0	47	55	0	0	0	0	0	Echoing	skilltab		0		0	phlm	weap	amul					miss	rod				
+283	Trainer's	+# to Summoning Skills	100	1	1	20		15	dru			2	125	124	15	1	1	-1	0	0	0	-1	0	0	0		29	72	12	75	0	0	0	0	0	0	0	0	0	0	Trainer's	skilltab		0		0	club	pelt	amul	circ									
+284	Caretaker's	+# to Summoning Skills	100	1	1	40		30	dru			2	125	124	15	2	2	-1	0	0	0	-1	0	0	0	lgld	29	72	12	75	0	0	0	0	0	0	0	0	0	0	Caretaker's	skilltab		0		0	club	pelt	amul	circ									
+285	Keeper's	+# to Summoning Skills	100	1	1	60		45	dru			2	125	124	15	3	3	-1	0	0	0	-1	0	0	0	lgld	29	72	12	75	0	0	0	0	0	0	0	0	0	0	Keeper's	skilltab		0		0	club	pelt	amul	circ									
+286	Spiritual	+# to Shape Shifting Skills	100	1	1	20		15	dru			2	125	124	16	1	1	-1	0	0	0	-1	0	0	0		29	72	12	75	0	0	0	0	0	0	0	0	0	0	Spiritual	skilltab		0		0	club	pelt	amul	circ									
+287	Feral	+# to Shape Shifting Skills	100	1	1	40		30	dru			2	125	124	16	2	2	-1	0	0	0	-1	0	0	0	lgld	29	72	12	75	0	0	0	0	0	0	0	0	0	0	Feral	skilltab		0		0	club	pelt	amul	circ									
+288	Communal	+# to Shape Shifting Skills	100	1	1	60		45	dru			2	125	124	16	3	3	-1	0	0	0	-1	0	0	0	lgld	29	72	12	75	0	0	0	0	0	0	0	0	0	0	Communal	skilltab		0		0	club	pelt	amul	circ									
+289	Nature's	+# to Elemental Skills	100	1	1	20		15	dru			2	125	124	17	1	1	-1	0	0	0	-1	0	0	0		29	72	12	75	0	0	0	0	0	0	0	0	0	0	Nature's	skilltab		0		0	club	pelt	amul	circ									
+290	Terra's	+# to Elemental Skills	100	1	1	40		30	dru			2	125	124	17	2	2	-1	0	0	0	-1	0	0	0	lgld	29	72	12	75	0	0	0	0	0	0	0	0	0	0	Terra's	skilltab		0		0	club	pelt	amul	circ									
+291	Gaea's	+# to Elemental Skills	100	1	1	60		45	dru			2	125	124	17	3	3	-1	0	0	0	-1	0	0	0	lgld	29	72	12	75	0	0	0	0	0	0	0	0	0	0	Gaea's	skilltab		0		0	club	pelt	amul	circ									
+292	Entrapping	+# to Traps	100	1	1	20		15	ass			2	125	124	18	1	1	-1	0	0	0	-1	0	0	0		67	12	75	0	0	0	0	0	0	0	0	0	0	0	Entrapping	skilltab		0		0	h2h	amul	circ										
+293	Trickster's	+# to Traps	100	1	1	40		30	ass			2	125	124	18	2	2	-1	0	0	0	-1	0	0	0	lgld	67	12	75	0	0	0	0	0	0	0	0	0	0	0	Trickster's	skilltab		0		0	h2h	amul	circ										
+294	Cunning	+# to Traps	100	1	1	60		45	ass			2	125	124	18	3	3	-1	0	0	0	-1	0	0	0	lgld	67	12	75	0	0	0	0	0	0	0	0	0	0	0	Cunning	skilltab		0		0	h2h	amul	circ										
+295	Mentalist's	+# to Shadow Disciplines	100	1	1	20		15	ass			2	125	124	19	1	1	-1	0	0	0	-1	0	0	0		67	12	104	75	0	0	0	0	0	0	0	0	0	0	Mentalist's	skilltab		0		0	h2h	amul	helm	circ									
+296	Psychic	+# to Shadow Disciplines	100	1	1	40		30	ass			2	125	124	19	2	2	-1	0	0	0	-1	0	0	0	lgld	67	12	104	75	0	0	0	0	0	0	0	0	0	0	Psychic	skilltab		0		0	h2h	amul	helm	circ									
+297	Shadow	+# to Shadow Disciplines	100	1	1	60		45	ass			2	125	124	19	3	3	-1	0	0	0	-1	0	0	0	lgld	67	12	104	75	0	0	0	0	0	0	0	0	0	0	Shadow	skilltab		0		0	h2h	amul	helm	circ									
+298	Shogukusha's	+# to Martial Arts	100	1	1	20		15	ass			2	125	124	20	1	1	-1	0	0	0	-1	0	0	0		67	12	16	75	0	0	0	0	0	0	0	0	0	0	Shogukusha's	skilltab		0		0	h2h	amul	glov	circ									
+299	Sensei's	+# to Martial Arts	100	1	1	40		30	ass			2	125	124	20	2	2	-1	0	0	0	-1	0	0	0	lgld	67	12	16	75	0	0	0	0	0	0	0	0	0	0	Sensei's	skilltab		0		0	h2h	amul	glov	circ									
+300	Kenshi's	+# to Martial Arts	100	1	1	60		45	ass			2	125	124	20	3	3	-1	0	0	0	-1	0	0	0	lgld	67	12	16	75	0	0	0	0	0	0	0	0	0	0	Kenshi's	skilltab		0		0	h2h	amul	glov	circ									
+301	gnostics1	+2 to [Skill] (Amazon only)	100	1	1	35		30				2	201	236	2	6	35	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+302	gnostics1	+3 to [Skill] (Amazon only)	100	1	1	55		50				2	201	236	3	6	35	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+303	gnostics1	+4 to [Skill] (Amazon only)	100	1	1	75		65				2	201	236	4	6	35	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+304	gnostics1	+5 to [Skill] (Amazon only)	100	1	1	85		75				2	201	236	5	6	35	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+305	gnostics1	+2 to [Skill] (Paladin only)	100	1	1	35		30				2	201	236	2	96	125	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+306	gnostics1	+3 to [Skill] (Paladin only)	100	1	1	55		50				2	201	236	3	96	125	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+307	gnostics1	+4 to [Skill] (Paladin only)	100	1	1	75		65				2	201	236	4	96	125	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+308	gnostics1	+5 to [Skill] (Paladin only)	100	1	1	85		75				2	201	236	5	96	125	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+309	gnostics1	+2 to [Skill] (Necromancer only)	100	1	1	35		30				2	201	236	2	66	95	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+310	gnostics1	+3 to [Skill] (Necromancer only)	100	1	1	55		50				2	201	236	3	66	95	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+311	gnostics1	+4 to [Skill] (Necromancer only)	100	1	1	75		65				2	201	236	4	66	95	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+312	gnostics1	+5 to [Skill] (Necromancer only)	100	1	1	85		75				2	201	236	5	66	95	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+313	gnostics1	+2 to [Skill] (Sorceress only)	100	1	1	35		30				2	201	236	2	36	65	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+314	gnostics1	+3 to [Skill] (Sorceress only)	100	1	1	55		50				2	201	236	3	36	65	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+315	gnostics1	+4 to [Skill] (Sorceress only)	100	1	1	75		65				2	201	236	4	36	65	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+316	gnostics1	+5 to [Skill] (Sorceress only)	100	1	1	85		80				2	201	236	5	36	65	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+317	gnostics1	+2 to [Skill] (Barbarian only)	100	1	1	35		30				2	201	236	2	126	155	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+318	gnostics1	+3 to [Skill] (Barbarian only)	100	1	1	55		50				2	201	236	3	126	155	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+319	gnostics1	+4 to [Skill] (Barbarian only)	100	1	1	75		65				2	201	236	4	126	155	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+320	gnostics1	+5 to [Skill] (Barbarian only)	100	1	1	85		75				2	201	236	5	126	155	-1	0	0	0	-1	0	0	0		12	75	19	10	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	amul	circ	belt	ring									
+321	gnostics1	+2 to [Skill] (Druid only)	100	1	1	35		30				2	201	236	2	221	250	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+322	gnostics1	+3 to [Skill] (Druid only)	100	1	1	55		50				2	201	236	3	221	250	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+323	gnostics1	+4 to [Skill] (Druid only)	100	1	1	75		65				2	201	236	4	221	250	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+324	gnostics1	+5 to [Skill] (Druid only)	100	1	1	85		75				2	201	236	5	221	250	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+325	gnostics1	+2 to [Skill] (Assassin only)	100	1	1	35		30				2	201	236	2	251	280	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+326	gnostics1	+3 to [Skill] (Assassin only)	100	1	1	55		50				2	201	236	3	251	280	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+327	gnostics1	+4 to [Skill] (Assassin only)	100	1	1	75		65				2	201	236	4	251	280	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+328	gnostics1	+5 to [Skill] (Assassin only)	100	1	1	85		75				2	201	236	5	251	280	-1	0	0	0	-1	0	0	0		10	12	75	19	0	0	0	0	0	0	0	0	0	0	gnostics1	skill-rand		0		0	ring	amul	circ	belt									
+329	Snowflake	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	25	30	18				6	137	19	0	25	25	17	0	6	9	18	0	19	30	lblu	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Snowflake	cold-len	0	cold-min	0	cold-max	0	weap	circ											
+330	Shivering	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	35		26				4	137	19	0	50	50	17	0	10	15	18	0	31	45	lblu	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Shivering	cold-len	0	cold-min	0	cold-max	0	weap	circ											
+331	Boreal	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	50		40				2	137	19	0	75	75	17	0	16	23	18	0	46	90	cblu	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Boreal	cold-len	0	cold-min	0	cold-max	0	weap	circ											
+332	Hibernal	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	70		60				2	137	19	0	100	100	17	0	24	45	18	0	91	140	cblu	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Hibernal	cold-len	0	cold-min	0	cold-max	0	weap												
+333	Ember	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	25	30	18				6	138	20	0	16	25	21	0	31	60	-1	0	0	0	dred	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Ember	fire-min	0	fire-max	0		0	weap	circ											
+334	Smoldering	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	35		26				4	138	20	0	26	50	21	0	61	90	-1	0	0	0	dred	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Smoldering	fire-min	0	fire-max	0		0	weap	circ											
+335	Smoking	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	47		37				2	138	20	0	51	80	21	0	91	130	-1	0	0	0	dred	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Smoking	fire-min	0	fire-max	0		0	weap	circ											
+336	Flaming	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	61		51				2	138	20	0	81	120	21	0	131	180	-1	0	0	0	dred	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Flaming	fire-min	0	fire-max	0		0	weap												
+337	Scorching	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	77		67				2	138	20	0	121	170	21	0	181	240	-1	0	0	0	dred	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Scorching	fire-min	0	fire-max	0		0	weap												
+338	Static	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	25	40	18				6	139	22	0	1	1	23	0	49	120	-1	0	0	0	lyel	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Static	ltng-min	0	ltng-max	0		0	weap	circ											
+339	Glowing	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	34		25				4	139	22	0	1	1	23	0	121	180	-1	0	0	0	lyel	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Glowing	ltng-min	0	ltng-max	0		0	weap	circ											
+340	Buzzing	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	46		36				2	139	22	0	1	1	23	0	181	260	-1	0	0	0	lyel	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Buzzing	ltng-min	0	ltng-max	0		0	weap	circ											
+341	Arcing	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	60		50				2	139	22	0	1	1	23	0	261	360	-1	0	0	0	lyel	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Arcing	ltng-min	0	ltng-max	0		0	weap												
+342	Shocking	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	76		66				2	139	22	0	1	1	23	0	361	480	-1	0	0	0	lyel	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Shocking	ltng-min	0	ltng-max	0		0	weap												
+343	Septic	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	1	30	1				6	140	134	50	31	31	-1	0	0	0	-1	0	0	0	dgrn	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Septic	dmg-pois		0		0	weap	circ											
+344	Envenomed	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	10		7				4	140	134	75	41	41	-1	0	0	0	-1	0	0	0	dgrn	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Envenomed	dmg-pois		0		0	weap	circ											
+345	Corosive	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	20		15				2	140	134	100	205	205	-1	0	0	0	-1	0	0	0	dgrn	45	75	0	0	0	0	0	0	0	0	0	0	0	0	Corosive	dmg-pois		0		0	weap	circ											
+346	Toxic	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	35		26				2	140	134	125	308	308	-1	0	0	0	-1	0	0	0	dgrn	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Toxic	dmg-pois		0		0	weap												
+347	Pestilent	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	50		37				2	140	134	150	470	470	-1	0	0	0	-1	0	0	0	dgrn	45	0	0	0	0	0	0	0	0	0	0	0	0	0	Pestilent	dmg-pois		0		0	weap												
+348	Azure	Cold Resist +#%	100	1	1	5	30	3				4	117	35	0	5	10	-1	0	0	0	-1	0	0	0		50	45	10	12	68	75	0	0	0	0	0	0	0	0	Azure	res-cold	0		0		0	armo	weap	ring	amul	orb	circ							
+349	Lapis	Cold Resist +#%	100	1	1	12		9				8	117	35	0	11	20	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Lapis	res-cold	0		0		0	armo	ring	amul	orb	circ								
+350	Lapis	Cold Resist +#%	100	1	1	35		26				4	117	35	0	11	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Lapis	res-cold	0		0		0	weap							orb					
+351	Cobalt	Cold Resist +#%	100	1	1	18		13				6	117	35	0	21	30	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Cobalt	res-cold	0		0		0	armo	ring	amul	orb	circ								
+352	Cobalt	Cold Resist +#%	100	1	1	55		41				4	117	35	0	21	30	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Cobalt	res-cold	0		0		0	weap							orb					
+353	Sapphire	Cold Resist +#%	100	1	1	25		18				6	117	35	0	31	40	-1	0	0	0	-1	0	0	0	lblu	55	15	12	68	75	0	0	0	0	0	0	0	0	0	Sapphire	res-cold	0		0		0	rod	boot	amul	orb	circ								
+354	Lapis Lazuli	Cold Resist +#%	100	1	1	2	45	1				8	117	35	0	5	10	-1	0	0	0	-1	0	0	0	lblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Lapis Lazuli	res-cold	0		0		0	jewl												
+355	Sapphire	Cold Resist +#%	100	1	1	19		14				8	117	35	0	16	30	-1	0	0	0	-1	0	0	0	lblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Sapphire	res-cold	0		0		0	jewl												
+356	Russet	Fire Resist +#%	100	1	1	12	30	9				8	118	31	0	11	20	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Russet	res-fire	0		0		0	armo	ring	amul	orb	circ								
+357	Russet	Fire Resist +#%	100	1	1	35		26				2	118	31	0	11	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Russet	res-fire	0		0		0	weap							orb					
+358	Garnet	Fire Resist +#%	100	1	1	18		13				6	118	31	0	21	30	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Garnet	res-fire	0		0		0	armo	ring	amul	orb	circ								
+359	Garnet	Fire Resist +#%	100	1	1	55		41				2	118	31	0	21	30	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Garnet	res-fire	0		0		0	weap							orb					
+360	Ruby	Fire Resist +#%	100	1	1	25		18				6	118	31	0	31	40	-1	0	0	0	-1	0	0	0	lred	55	15	12	68	75	0	0	0	0	0	0	0	0	0	Ruby	res-fire	0		0		0	rod	boot	amul	orb	circ								
+361	Garnet	Fire Resist +#%	100	1	1	2	45	1				8	117	31	0	5	15	-1	0	0	0	-1	0	0	0	lred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Garnet	res-fire	0		0		0	jewl												
+362	Ruby	Fire Resist +#%	100	1	1	18		13				8	117	31	0	16	30	-1	0	0	0	-1	0	0	0	lred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Ruby	res-fire	0		0		0	jewl												
+363	Tangerine	Lightning Resist +#%	100	1	1	5	30	3				8	119	33	0	5	10	-1	0	0	0	-1	0	0	0		50	45	10	12	68	75	0	0	0	0	0	0	0	0	Tangerine	res-ltng	0		0		0	armo	weap	ring	amul	orb	circ							
+364	Ocher	Lightning Resist +#%	100	1	1	12		9				8	119	33	0	11	20	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Ocher	res-ltng	0		0		0	armo	ring	amul	orb	circ								
+365	Ocher	Lightning Resist +#%	100	1	1	35		26				2	119	33	0	11	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Ocher	res-ltng	0		0		0	weap							orb					
+366	Coral	Lightning Resist +#%	100	1	1	18		13				6	119	33	0	21	30	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Coral	res-ltng	0		0		0	armo	ring	amul	orb	circ								
+367	Coral	Lightning Resist +#%	100	1	1	55		41				2	119	33	0	21	30	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Coral	res-ltng	0		0		0	weap							orb					
+368	Amber	Lightning Resist +#%	100	1	1	25		18				6	119	33	0	31	40	-1	0	0	0	-1	0	0	0	lyel	55	15	12	68	75	0	0	0	0	0	0	0	0	0	Amber	res-ltng	0		0		0	rod	boot	amul	orb	circ								
+369	Camphor	Lightning Resist +#%	100	1	1	2	45	1				8	117	33	0	5	15	-1	0	0	0	-1	0	0	0	lyel	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Camphor	res-ltng	0		0		0	jewl												
+370	Ambergris	Lightning Resist +#%	100	1	1	19		14				8	117	33	0	16	30	-1	0	0	0	-1	0	0	0	lyel	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Ambergris	res-ltng	0		0		0	jewl												
+371	Beryl	Poison Resist +#%	100	1	1	5	30	3				8	120	39	0	5	10	-1	0	0	0	-1	0	0	0		50	45	10	12	68	75	0	0	0	0	0	0	0	0	Beryl	res-pois	0		0		0	armo	weap	ring	amul	orb	circ							
+372	Viridian	Poison Resist +#%	100	1	1	12		9				8	120	39	0	11	20	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Viridian	res-pois	0		0		0	armo	ring	amul	orb	circ								
+373	Viridian	Poison Resist +#%	100	1	1	35		26				2	120	39	0	11	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Viridian	res-pois	0		0		0	weap							orb					
+374	Jade	Poison Resist +#%	100	1	1	18		13				6	120	39	0	21	30	-1	0	0	0	-1	0	0	0		50	10	12	68	75	0	0	0	0	0	0	0	0	0	Jade	res-pois	0		0		0	armo	ring	amul	orb	circ								
+375	Jade	Poison Resist +#%	100	1	1	55		41				2	120	39	0	21	30	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	Jade	res-pois	0		0		0	weap							orb					
+376	Emerald	Poison Resist +#%	100	1	1	25		18				6	120	39	0	31	40	-1	0	0	0	-1	0	0	0	cgrn	55	15	12	68	75	0	0	0	0	0	0	0	0	0	Emerald	res-pois	0		0		0	rod	boot	amul	orb	circ								
+377	Beryl	Poison Resist +#%	100	1	1	2	45	1				8	117	39	0	5	15	-1	0	0	0	-1	0	0	0	cgrn	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Beryl	res-pois	0		0		0	jewl												
+378	Jade	Poison Resist +#%	100	1	1	19		14				8	117	39	0	16	30	-1	0	0	0	-1	0	0	0	cgrn	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Jade	res-pois	0		0		0	jewl												
+379	Shimmering	All Resistances +#	100	1	1	6	30	4				10	116	41	0	3	7	-1	0	0	0	-1	0	0	0	lpur	51	0	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0		0		0	shld												
+380	Rainbow	All Resistances +#	100	1	1	18	50	13				10	116	41	0	8	11	-1	0	0	0	-1	0	0	0	lpur	51	0	0	0	0	0	0	0	0	0	0	0	0	0	Rainbow	res-all	0		0		0	shld												
+381	Scintillating	All Resistances +#	100	1	1	28	70	21				10	116	41	0	12	15	-1	0	0	0	-1	0	0	0	lpur	51	0	0	0	0	0	0	0	0	0	0	0	0	0	Scintillating	res-all	0		0		0	shld												
+382	Prismatic	All Resistances +#	100	1	1	39		31				8	116	41	0	16	20	-1	0	0	0	-1	0	0	0	lpur	51	0	0	0	0	0	0	0	0	0	0	0	0	0	Prismatic	res-all	0		0		0	shld												
+383	Chromatic	All Resistances +#	100	1	1	50		42				8	116	41	0	21	30	-1	0	0	0	-1	0	0	0	lpur	51	0	0	0	0	0	0	0	0	0	0	0	0	0	Chromatic	res-all	0		0		0	shld												
+384	Shimmering	All Resistances +#	100	1	1	8	30	6				10	116	41	0	3	7	-1	0	0	0	-1	0	0	0	lpur	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0		0		0	amul	circ											
+385	Rainbow	All Resistances +#	100	1	1	21	60	15				10	116	41	0	8	11	-1	0	0	0	-1	0	0	0	lpur	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Rainbow	res-all	0		0		0	amul	circ											
+386	Scintillating	All Resistances +#	100	1	1	34		25				10	116	41	0	12	15	-1	0	0	0	-1	0	0	0	lpur	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Scintillating	res-all	0		0		0	amul	circ											
+387	Prismatic	All Resistances +#	100	1	1	42		31				8	116	41	0	16	20	-1	0	0	0	-1	0	0	0	lpur	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Prismatic	res-all	0		0		0	amul	circ											
+388	Chromatic	All Resistances +#	100	1	1	55		41				6	116	41	0	21	30	-1	0	0	0	-1	0	0	0	lpur	12	75	0	0	0	0	0	0	0	0	0	0	0	0	Chromatic	res-all	0		0		0	amul	circ											
+389	Shimmering	All Resistances +#	100	1	1	45		37				6	116	41	0	5	8	-1	0	0	0	-1	0	0	0	lpur	10	0	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0		0		0	ring												
+390	Rainbow	All Resistances +#	100	1	1	56		48				4	116	41	0	9	12	-1	0	0	0	-1	0	0	0	lpur	10	0	0	0	0	0	0	0	0	0	0	0	0	0	Rainbow	res-all	0		0		0	ring												
+391	Scintillating	All Resistances +#	100	1	1	67		59				4	116	41	0	13	17	-1	0	0	0	-1	0	0	0	lpur	10	0	0	0	0	0	0	0	0	0	0	0	0	0	Scintillating	res-all	0		0		0	ring												
+392	Shimmering	All Resistances +#	100	1	1	16		12				2	116	41	0	5	10	-1	0	0	0	-1	0	0	0	lpur	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0		0		0	jewl												
+393	Scintillating	All Resistances +#	100	1	1	34		26				2	116	41	0	11	15	-1	0	0	0	-1	0	0	0	lpur	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Scintillating	res-all	0		0		0	jewl												
+394	Lizard's	+# to Mana	100	1	1	3	40	2				8	115	11	0	3	5	-1	0	0	0	-1	0	0	0		50	10	12	55	68	0	0	0	0	0	0	0	0	0	Lizard's	mana	0		0		0	armo	ring	amul	rod	orb								
+395	Snake's	+# to Mana	100	1	1	6	60	4				8	115	11	0	5	10	-1	0	0	0	-1	0	0	0		51	55	19	10	12	75	0	0	0	0	0	0	0	0	Snake's	mana	0		0		0	shld	rod	belt	ring	amul	circ							
+396	Serpent's	+# to Mana	100	1	1	14		10				6	115	11	0	11	20	-1	0	0	0	-1	0	0	0		51	55	19	10	12	75	0	0	0	0	0	0	0	0	Serpent's	mana	0		0		0	shld	rod	belt	ring	amul	circ							
+397	Serpent's	+# to Mana	100	1	1	37		27				4	115	11	0	11	20	-1	0	0	0	-1	0	0	0		3	15	16	45	68	0	0	55	0	0	0	0	0	0	Serpent's	mana	0		0		0	tors	boot	glov	weap	orb			rod					
+398	Drake's	+# to Mana	100	1	1	20	40	15				4	115	11	0	21	30	-1	0	0	0	-1	0	0	0	cblu	55	10	12	68	75	0	0	0	0	0	0	0	0	0	Drake's	mana	0		0		0	rod	ring	amul	orb	circ								
+399	Dragon's	+# to Mana	100	1	1	24	60	18				4	115	11	0	31	40	-1	0	0	0	-1	0	0	0	cblu	55	10	12	68	75	0	0	0	0	0	0	0	0	0	Dragon's	mana	0		0		0	rod	ring	amul	orb	circ								
+400	Dragon's	+# to Mana	100	1	1	52		39				4	115	11	0	31	40	-1	0	0	0	-1	0	0	0	cblu	3	15	16	0	0	0	0	0	0	0	0	0	0	0	Dragon's	mana	0		0		0	tors	boot	glov										
+401	Wyrm's	+# to Mana	100	1	1	30		22				4	115	11	0	41	60	-1	0	0	0	-1	0	0	0	cblu	55	10	12	68	75	0	0	0	0	0	0	0	0	0	Wyrm's	mana	0		0		0	rod	ring	amul	orb	circ								
+402	Great Wyrm's	+# to Mana	100	1	1	37		29				4	115	11	0	61	90	-1	0	0	0	-1	0	0	0	cblu	55	10	12	68	75	0	0	0	0	0	0	0	0	0	Great Wyrm's	mana	0		0		0	rod	ring	amul	orb	circ								
+403	Bahamut's	+# to Mana	100	1	1	45		37				4	115	11	0	91	120	-1	0	0	0	-1	0	0	0	cblu	55	10	12	68	75	0	0	0	0	0	0	0	0	0	Bahamut's	mana	0		0		0	rod	ring	amul	orb	circ								
+404	Zircon	+# to Mana	100	1	1	3	40	2				4	115	11	0	5	10	-1	0	0	0	-1	0	0	0	cblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Zircon	mana	0		0		0	jewl												
+405	Jacinth	+# to Mana	100	1	1	17	70	12				4	115	11	0	11	15	-1	0	0	0	-1	0	0	0	cblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Jacinth	mana	0		0		0	jewl												
+406	Turquoise	+# to Mana	100	1	1	29		21				4	115	11	0	16	20	-1	0	0	0	-1	0	0	0	cblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Turquoise	mana	0		0		0	jewl												
+407	Mnemonic	+# to Mana (Based on Character Level)	100	1	1	25		18				2	115	140	6	0	0	-1	0	0	0	-1	0	0	0	cblu	104	0	0	0	0	0	0	0	0	0	0	0	0	0	Mnemonic	mana/lvl		0		0	helm												
+408	Triumphant	+# to Mana after each Kill	100	1	1	3	20	2				8	121	110	0	1	1	-1	0	0	0	-1	0	0	0		12	10	75	0	0	0	0	0	0	0	0	0	0	0	Triumphant	mana-kill	0		0		0	amul	ring	circ										
+409	Victorious	+# to Mana after each Kill	100	1	1	17		12				8	121	110	0	2	5	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Victorious	mana-kill	0		0		0	weap												
+410	Aureolin	+# to Mana after each Kill	100	1	1	22		16				8	121	110	0	1	3	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureolin	mana-kill	0		0		0	jewl												
+411	Vulpine	#% Damage Taken Goes To Mana	100	1	1	9		6				6	107	30	0	7	12	-1	0	0	0	-1	0	0	0	cblu	51	12	68	26	0	0	0	0	0	0	0	0	0	0	Vulpine	dmg-to-mana	0		0		0	shld	amul	orb	staf									
+412	Dun	#% Damage Taken Goes To Mana	100	1	1	7		5				6	107	30	0	7	12	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Dun	dmg-to-mana	0		0		0	jewl												
+413	Glimmering	+# to Light Radius	100	1	1	1	15	1				2	112	73	0	1	1	-1	0	0	0	-1	0	0	0		50	25	26	10	12	68	0	0	0	0	0	0	0	0	Glimmering	light	0		0		0	armo	wand	staf	ring	amul	orb							
+414	Glowing	+# to Light Radius	100	1	1	6	25	4				2	112	73	0	2	2	-1	0	0	0	-1	0	0	0	lyel	50	25	26	10	12	68	0	0	0	0	0	0	0	0	Glowing	light	0		0		0	armo	wand	staf	ring	amul	orb							
+415	Bright	+# to Light Radius & +# to Attack Rating	100	1	1	1		1				2	112	73	0	1	1	15	0	10	10	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	Bright	light	0	att	0		0	jewl												
+416	Felicitous	#% Better Chance of Getting Magic Items	100	1	1	5		3				8	114	59	0	5	10	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	Felicitous	mag%	0		0		0	ring	amul	circ										
+417	Fortuitous	#% Better Chance of Getting Magic Items	100	1	1	12		8				8	114	59	0	11	15	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	Fortuitous	mag%	0		0		0	ring	amul	circ										
+418	Emerald	#% Better Chance of Getting Magic Items	100	1	1	16		12				8	114	59	0	3	7	-1	0	0	0	-1	0	0	0	dgrn	58	0	0	0	0	0	0	0	0	0	0	0	0	0	Emerald	mag%	0		0		0	jewl												
+419	Mechanist's	Socketed (#)	100	1	1	10		7				6	122	129	0	1	2	-1	0	0	0	-1	0	0	0		45	51	104	3	75	0	0	48	0	0	0	0	0	0	Mechanist's	sock	0		0		0	weap	shld	helm	tors	circ			thro					
+420	Artificer's	Socketed (#)	100	1	1	33		25				4	122	129	3	0	0	-1	0	0	0	-1	0	0	0		45	51	104	3	0	0	0	48	0	0	0	0	0	0	Artificer's	sock		0		0	weap	shld	helm	tors				thro					
+421	Jeweler's	Socketed (#)	100	1	1	55		47				2	122	129	4	0	0	-1	0	0	0	-1	0	0	0		45	51	104	3	0	0	0	48	0	0	0	0	0	0	Jeweler's	sock		0		0	weap	shld	helm	tors				thro					
+422	Compact	Increased Stack Size	100	1	1	1		1				12	141	176	0	20	40	-1	0	0	0	-1	0	0	0		48	0	0	0	0	0	0	0	0	0	0	0	0	0	Compact	stack	0		0		0	thro												
+423	Thin	Increased Stack Size	100	1	1	17		12				10	141	176	0	41	80	-1	0	0	0	-1	0	0	0		48	0	0	0	0	0	0	0	0	0	0	0	0	0	Thin	stack	0		0		0	thro												
+424	Dense	Increased Stack Size	100	1	1	38		30				8	141	176	0	81	120	-1	0	0	0	-1	0	0	0		48	0	0	0	0	0	0	0	0	0	0	0	0	0	Dense	stack	0		0		0	thro												
+425	Devious	Damage Reduced by #	100	1	1	7	30	5				10	102	6	0	1	1	-1	0	0	0	-1	0	0	0		51	75	68	25	26	0	0	0	0	0	0	0	0	0	Devious	red-mag	0		0		0	shld	circ	orb	wand	staf								
+426	Blank	Damage Reduced by #	100	1	1	14	50	10				8	102	6	0	2	3	-1	0	0	0	-1	0	0	0		51	75	68	25	26	0	0	0	0	0	0	0	0	0	Blank	red-mag	0		0		0	shld	circ	orb	wand	staf								
+427	Null	Damage Reduced by #	100	1	1	21		16				8	102	6	0	4	5	-1	0	0	0	-1	0	0	0	dblu	51	75	68	25	26	0	0	0	0	0	0	0	0	0	Null	red-mag	0		0		0	shld	circ	orb	wand	staf								
+428	Antimagic	Damage Reduced by #	100	1	1	28		21				8	102	6	0	6	10	-1	0	0	0	-1	0	0	0	dblu	51	75	68	25	26	0	0	0	0	0	0	0	0	0	Antimagic	red-mag	0		0		0	shld	circ	orb	wand	staf								
+429	Devious	Magic Resist +#%	100	1	1	25	50	22				10	102	37	0	3	5	-1	0	0	0	-1	0	0	0		51	3	68	25	26	0	0	0	0	0	0	0	0	0	Devious	res-mag	0		0		0	shld	tors	orb	wand	staf								
+430	Blank	Magic Resist +#%	100	1	1	47	75	42				8	102	37	0	6	10	-1	0	0	0	-1	0	0	0		51	3	68	25	26	0	0	0	0	0	0	0	0	0	Blank	res-mag	0		0		0	shld	tors	orb	wand	staf								
+431	Null	Magic Resist +#%	100	1	1	69		61				8	102	37	0	11	15	-1	0	0	0	-1	0	0	0	dblu	51	3	68	25	26	0	0	0	0	0	0	0	0	0	Null	res-mag	0		0		0	shld	tors	orb	wand	staf								
+432	Antimagic	Magic Resist +#%	100	1	1	86		80				8	102	37	0	16	20	-1	0	0	0	-1	0	0	0	dblu	51	3	68	25	26	0	0	0	0	0	0	0	0	0	Antimagic	res-mag	0		0		0	shld	tors	orb	wand	staf								
+433	Screaming	Hit Causes Monster to Flee #%	100	1	1	10	25	7				6	113	90	0	32	32	-1	0	0	0	-1	0	0	0	oran	45	0	0	0	0	0	0	47	30	28	0	0	0	0	Screaming	howl	0		0		0	weap							miss	swor	axe			
+434	Howling	Hit Causes Monster to Flee #%	100	1	1	16	50	12				6	113	90	0	64	64	-1	0	0	0	-1	0	0	0	oran	45	0	0	0	0	0	0	47	30	28	0	0	0	0	Howling	howl	0		0		0	weap							miss	swor	axe			
+435	Wailing	Hit Causes Monster to Flee #%	100	1	1	20		13				6	113	90	0	128	128	-1	0	0	0	-1	0	0	0	oran	45	0	0	0	0	0	0	47	30	28	0	0	0	0	Wailing	howl	0		0		0	weap							miss	swor	axe			
+436	Screaming	Hit Causes Monster to Flee #%	100	1	1	10	25	7				8	113	90	0	32	32	-1	0	0	0	-1	0	0	0	oran	47	0	0	0	0	0	0	0	0	0	0	0	0	0	Screaming	howl	0		0		0	miss												
+437	Howling	Hit Causes Monster to Flee #%	100	1	1	16	50	12				8	113	90	0	64	64	-1	0	0	0	-1	0	0	0	oran	47	0	0	0	0	0	0	0	0	0	0	0	0	0	Howling	howl	0		0		0	miss												
+438	Wailing	Hit Causes Monster to Flee #%	100	1	1	24		18				8	113	90	0	128	128	-1	0	0	0	-1	0	0	0	oran	47	0	0	0	0	0	0	0	0	0	0	0	0	0	Wailing	howl	0		0		0	miss												
+439	Impacting1	#% Chance of Crushing Blow	100	1	1	18	49	15				4	202	108	0	5	10	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Impacting1	crush	0		0		0	glov												
+440	Fracturing1	#% Chance of Crushing Blow	100	1	1	45		40				4	202	108	0	11	15	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Fracturing1	crush	0		0		0	glov												
+441	Crushing1	#% Chance of Crushing Blow	100	1	1	70		63				4	202	108	0	16	20	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Crushing1	crush	0		0		0	glov												
+442	Deadly	#% Chance of Deadly Strike	100	1	1	18	49	15				4	202	113	0	5	10	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	deadly	0		0		0	glov												
+443	Lethal	#% Chance of Deadly Strike	100	1	1	45		40				4	202	113	0	11	15	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Lethal	deadly	0		0		0	glov												
+444	Fatal	#% Chance of Deadly Strike	100	1	1	70		63				4	202	113	0	16	20	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Fatal	deadly	0		0		0	glov												
+445	Elemental1	Adds #-# Fire/Lightning/Cold Damage	100	1	1	24	50	23				4	203	223	50	1	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Elemental1	dmg-elem		0		0	weap												
+446	Elemental1	Adds #-# Fire/Lightning/Cold Damage	100	1	1	49		44				4	203	223	75	21	50	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Elemental1	dmg-elem		0		0	weap												
+447	Elemental1	Adds #-# Fire/Lightning/Cold Damage	100	1	1	68		63				2	203	223	100	51	125	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Elemental1	dmg-elem		0		0	weap												
+448	Elemental1	Adds #-# Fire/Lightning/Cold Damage	100	1	1	80		77				2	203	223	125	64	200	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Elemental1	dmg-elem		0		0	weap												
+449	Loremaster's1	+#% to Experience Gained	100	1	1	19		14				10	204	227	0	1	1	-1	0	0	0	-1	0	0	0		45	50	51	12	10	0	0	0	0	0	0	0	0	0	Loremaster's1	addxp	0		0		0	weap	armo	shld	amul	ring								
+450	Loremaster's1	+#% to Experience Gained	100	1	1	33		27				8	204	227	0	2	2	-1	0	0	0	-1	0	0	0		45	50	51	12	10	0	0	0	0	0	0	0	0	0	Loremaster's1	addxp	0		0		0	weap	armo	shld	amul	ring								
+451	Sage's	+#% to Experience Gained	100	1	1	51		46				6	204	227	0	3	3	-1	0	0	0	-1	0	0	0		45	50	51	12	10	0	0	0	0	0	0	0	0	0	Sage's	addxp	0		0		0	weap	armo	shld	amul	ring								
+452	Sage's	+#% to Experience Gained	100	1	1	74		68				4	204	227	0	4	4	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	Sage's	addxp	0		0		0	ring	amul	circ										
+453	Master Sage's	+#% to Experience Gained	100	1	1	87		81				2	204	227	0	5	5	-1	0	0	0	-1	0	0	0		12	0	0	0	0	0	0	0	0	0	0	0	0	0	Master Sage's	addxp	0		0		0	amul												
+454	Deadly	+# Kick Damage	100	1	1	4		7				4	205	109	0	1	1	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	kick	0		0		0	boot												
+455	Deadly	+# Kick Damage	100	1	1	15		11				4	205	109	0	2	2	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	kick	0		0		0	boot												
+456	Brutal	+# Kick Damage	100	1	1	28		20				4	205	109	0	3	4	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	Brutal	kick	0		0		0	boot												
+457	Brutal	+# Kick Damage	100	1	1	39		32				4	205	109	0	5	6	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	Brutal	kick	0		0		0	boot												
+458	Savage	+# Kick Damage	100	1	1	51		43				4	205	109	0	7	8	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	Savage	kick	0		0		0	boot												
+459	Savage	+# Kick Damage	100	1	1	64		52				4	205	109	0	9	10	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	Savage	kick	0		0		0	boot												
+460	Bronze-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	7		1				4	206	29	0	10	15	51	0	5	5	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Bronze-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+461	Iron-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	15		4				4	206	29	0	16	25	51	0	6	10	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Iron-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+462	Steel-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	26		9				4	206	29	0	26	35	51	0	11	15	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Steel-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+463	Silver-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	35		18				4	206	29	0	36	45	51	0	16	20	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Silver-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+464	Platimum-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	47		30				4	206	29	0	46	55	51	0	21	30	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Platimum-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+465	Titanium-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	61		45				4	206	29	0	56	65	51	0	31	45	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Titanium-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+466	Mithril-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	73		55				4	206	29	0	66	80	51	0	46	59	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Mithril-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+467	Adamantine-Wrought	+#% Enhanced Damage & Durability: # of #	100	1	1	87		65				4	206	29	0	81	100	51	0	60	75	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Adamantine-Wrought	dmg%	0	dur	0		0	weap							orb	wand				
+468	Bronze-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	7		1				4	206	5	0	3	5	51	0	5	5	-1	0	0	0	lgry	45	0	0	0	0	0	0	68	25	0	0	0	0	0	Bronze-Wrought	ac%	0	dur	0		0	weap							orb	wand				
+469	Iron-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	15		4				4	206	5	0	6	9	51	0	6	10	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Iron-Wrought	ac%	0	dur	0		0	armo	shld											
+470	Steel-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	26		9				4	206	5	0	10	15	51	0	11	15	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Steel-Wrought	ac%	0	dur	0		0	armo	shld											
+471	Silver-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	35		18				4	206	5	0	16	20	51	0	16	20	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Silver-Wrought	ac%	0	dur	0		0	armo	shld											
+472	Platimum-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	47		30				4	206	5	0	21	30	51	0	21	30	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Platimum-Wrought	ac%	0	dur	0		0	armo	shld											
+473	Titanium-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	61		45				4	206	5	0	31	40	51	0	31	45	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Titanium-Wrought	ac%	0	dur	0		0	armo	shld											
+474	Mithril-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	73		55				4	206	5	0	41	50	51	0	46	59	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Mithril-Wrought	ac%	0	dur	0		0	armo	shld											
+475	Adamantine-Wrought	+#% Enhanced Defense & Durability: # of #	100	1	1	87		65				4	206	5	0	51	75	51	0	60	75	-1	0	0	0	lgry	50	51	0	0	0	0	0	0	0	0	0	0	0	0	Adamantine-Wrought	ac%	0	dur	0		0	armo	shld											
+476	Aureole	Might	100	1	1	10		6				2	207	125	98	1	3	-1	0	0	0	-1	0	0	0	lgry	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	98		0		0	tors												
+477	Aureole	Prayer	100	1	1	10		6				2	207	125	99	1	3	-1	0	0	0	-1	0	0	0	cblu	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	99		0		0	tors												
+478	Aureole	Holy Fire	100	1	1	18		12				2	207	125	102	1	3	-1	0	0	0	-1	0	0	0	dred	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	102		0		0	tors												
+479	Aureole	Thorns	100	1	1	18		12				2	207	125	103	1	3	-1	0	0	0	-1	0	0	0	dgry	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	103		0		0	tors												
+480	Aureole	Defiance	100	1	1	18		12				2	207	125	104	1	3	-1	0	0	0	-1	0	0	0	lblu	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	104		0		0	tors												
+481	Aureole	Blessed Aim	100	1	1	18		12				2	207	125	108	1	3	-1	0	0	0	-1	0	0	0	lred	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	108		0		0	tors												
+482	Aureole	Cleansing	100	1	1	29		18				2	207	125	109	1	3	-1	0	0	0	-1	0	0	0	whit	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	109		0		0	tors												
+483	Aureole	Concentration	100	1	1	31		20				2	207	125	113	1	3	-1	0	0	0	-1	0	0	0	dblu	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	113		0		0	tors												
+484	Aureole	Holy Freeze	100	1	1	35		24				2	207	125	114	1	3	-1	0	0	0	-1	0	0	0	oran	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	114		0		0	tors												
+485	Aureole	Vigor	100	1	1	37		25				2	207	125	115	1	3	-1	0	0	0	-1	0	0	0	dyel	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	115		0		0	tors												
+486	Aureole	Sanctuary	100	1	1	41		30				2	207	125	119	1	3	-1	0	0	0	-1	0	0	0	dgld	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	119		0		0	tors												
+487	Aureole	Meditation	100	1	1	46		34				2	207	125	120	1	3	-1	0	0	0	-1	0	0	0	lyel	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	120		0		0	tors												
+488	Aureole	Fanaticism	100	1	1	53		40				2	207	125	122	1	3	-1	0	0	0	-1	0	0	0	lgrn	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	122		0		0	tors												
+489	Aureole	Conviction	100	1	1	57		45				2	207	125	123	1	3	-1	0	0	0	-1	0	0	0	blac	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	123		0		0	tors												
+490	Aureole	Salvation	100	1	1	62		48				2	207	125	125	1	3	-1	0	0	0	-1	0	0	0	cred	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Aureole	aura	125		0		0	tors												
+491	Pyromaniac's2	-#% to Enemy Fire Resistance	100	1	1	33		33				2	209	213	0	3	5	-1	0	0	0	-1	0	0	0	cred	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Pyromaniac's2	pierce-fire	0		0		0	wand	orb	staf	helm									
+492	Pyromaniac's2	-#% to Enemy Fire Resistance	100	1	1	55		55				2	209	213	0	6	9	-1	0	0	0	-1	0	0	0	cred	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Pyromaniac's2	pierce-fire	0		0		0	wand	orb	staf	helm									
+493	Pyromaniac's2	-#% to Enemy Fire Resistance	100	1	1	77		77				2	209	213	0	10	12	-1	0	0	0	-1	0	0	0	cred	25	68	26	0	0	0	0	0	0	0	0	0	0	0	Pyromaniac's2	pierce-fire	0		0		0	wand	orb	staf										
+494	Frost Wyrm's2	-#% to Enemy Cold Resistance	100	1	1	33		33				2	209	215	0	3	5	-1	0	0	0	-1	0	0	0	cblu	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Frost Wyrm's2	pierce-cold	0		0		0	wand	orb	staf	helm									
+495	Frost Wyrm's2	-#% to Enemy Cold Resistance	100	1	1	55		55				2	209	215	0	6	9	-1	0	0	0	-1	0	0	0	cblu	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Frost Wyrm's2	pierce-cold	0		0		0	wand	orb	staf	helm									
+496	Frost Wyrm's2	-#% to Enemy Cold Resistance	100	1	1	77		77				2	209	215	0	10	12	-1	0	0	0	-1	0	0	0	cblu	25	68	26	0	0	0	0	0	0	0	0	0	0	0	Frost Wyrm's2	pierce-cold	0		0		0	wand	orb	staf										
+497	Zeus's2	-#% to Enemy Lightning Resistance	100	1	1	33		33				2	209	214	0	3	5	-1	0	0	0	-1	0	0	0	lyel	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Zeus's2	pierce-ltng	0		0		0	wand	orb	staf	helm									
+498	Zeus's2	-#% to Enemy Lightning Resistance	100	1	1	55		55				2	209	214	0	6	9	-1	0	0	0	-1	0	0	0	lyel	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Zeus's2	pierce-ltng	0		0		0	wand	orb	staf	helm									
+499	Zeus's2	-#% to Enemy Lightning Resistance	100	1	1	77		77				2	209	214	0	10	12	-1	0	0	0	-1	0	0	0	lyel	25	68	26	0	0	0	0	0	0	0	0	0	0	0	Zeus's2	pierce-ltng	0		0		0	wand	orb	staf										
+500	Manticore's2	-#% to Enemy Poison Resistance	100	1	1	33		33				2	209	216	0	3	5	-1	0	0	0	-1	0	0	0	dgrn	25	26	104	0	0	0	0	0	0	0	0	0	0	0	Manticore's2	pierce-pois	0		0		0	wand	staf	helm										
+501	Manticore's2	-#% to Enemy Poison Resistance	100	1	1	55		55				2	209	216	0	6	9	-1	0	0	0	-1	0	0	0	dgrn	25	26	104	0	0	0	0	0	0	0	0	0	0	0	Manticore's2	pierce-pois	0		0		0	wand	staf	helm										
+502	Manticore's2	-#% to Enemy Poison Resistance	100	1	1	77		77				2	209	216	0	10	12	-1	0	0	0	-1	0	0	0	dgrn	25	26	0	0	0	0	0	0	0	0	0	0	0	0	Manticore's2	pierce-pois	0		0		0	wand	staf											
+503	Pyromaniac's2	+#% to Fire Skill Damage	100	1	1	33		33				2	209	219	0	3	5	-1	0	0	0	-1	0	0	0	dred	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Pyromaniac's2	extra-fire	0		0		0	wand	orb	staf	helm									
+504	Pyromaniac's2	+#% to Fire Skill Damage	100	1	1	55		55				2	209	219	0	6	9	-1	0	0	0	-1	0	0	0	dred	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Pyromaniac's2	extra-fire	0		0		0	wand	orb	staf	helm									
+505	Pyromaniac's2	+#% to Fire Skill Damage	100	1	1	77		77				2	209	219	0	10	12	-1	0	0	0	-1	0	0	0	dred	25	68	26	0	0	0	0	0	0	0	0	0	0	0	Pyromaniac's2	extra-fire	0		0		0	wand	orb	staf										
+506	Frost Wyrm's2	+#% to Cold Skill Damage	100	1	1	33		33				2	209	221	0	3	5	-1	0	0	0	-1	0	0	0	dblu	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Frost Wyrm's2	extra-cold	0		0		0	wand	orb	staf	helm									
+507	Frost Wyrm's2	+#% to Cold Skill Damage	100	1	1	55		55				2	209	221	0	6	9	-1	0	0	0	-1	0	0	0	dblu	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Frost Wyrm's2	extra-cold	0		0		0	wand	orb	staf	helm									
+508	Frost Wyrm's2	+#% to Cold Skill Damage	100	1	1	77		77				2	209	221	0	10	12	-1	0	0	0	-1	0	0	0	dblu	25	68	26	0	0	0	0	0	0	0	0	0	0	0	Frost Wyrm's2	extra-cold	0		0		0	wand	orb	staf										
+509	Zeus's2	+#% to Lightning Skill Damage	100	1	1	33		33				2	209	220	0	3	5	-1	0	0	0	-1	0	0	0	dyel	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Zeus's2	extra-ltng	0		0		0	wand	orb	staf	helm									
+510	Zeus's2	+#% to Lightning Skill Damage	100	1	1	55		55				2	209	220	0	6	9	-1	0	0	0	-1	0	0	0	dyel	25	68	26	104	0	0	0	0	0	0	0	0	0	0	Zeus's2	extra-ltng	0		0		0	wand	orb	staf	helm									
+511	Zeus's2	+#% to Lightning Skill Damage	100	1	1	77		77				2	209	220	0	10	12	-1	0	0	0	-1	0	0	0	dyel	25	68	26	0	0	0	0	0	0	0	0	0	0	0	Zeus's2	extra-ltng	0		0		0	wand	orb	staf										
+512	Manticore's2	+#% to Poison Skill Damage	100	1	1	33		33				2	209	222	0	3	5	-1	0	0	0	-1	0	0	0	dgrn	25	26	104	0	0	0	0	0	0	0	0	0	0	0	Manticore's2	extra-pois	0		0		0	wand	staf	helm										
+513	Manticore's2	+#% to Poison Skill Damage	100	1	1	55		55				2	209	222	0	6	9	-1	0	0	0	-1	0	0	0	dgrn	25	26	104	0	0	0	0	0	0	0	0	0	0	0	Manticore's2	extra-pois	0		0		0	wand	staf	helm										
+514	Manticore's2	+#% to Poison Skill Damage	100	1	1	77		77				2	209	222	0	10	12	-1	0	0	0	-1	0	0	0	dgrn	25	26	0	0	0	0	0	0	0	0	0	0	0	0	Manticore's2	extra-pois	0		0		0	wand	staf											
+515	Charged1	Magic Arrow	100	1	1	1	12	1		ama	1	1	44	218	6	300	1	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	6		0		0	miss	abow	glov										
+516	Charged1	Magic Arrow	100	1	1	8	25	10		ama	1	1	44	218	6	300	10	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	6		0		0	miss	abow	glov										
+517	Charged1	Fire Arrow	100	1	1	1	18	1		ama	1	1	44	218	7	300	1	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	7		0		0	miss	abow	glov										
+518	Charged1	Fire Arrow	100	1	1	12	30	12		ama	1	1	44	218	7	300	11	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	7		0		0	miss	abow	glov										
+519	Charged1	Inner Sight	100	1	1	1	18	1		ama	1	1	44	218	8	33	1	-1	0	0	0	-1	0	0	0		12	60	75	16	0	0	0	0	0	0	0	0	0	0	Charged1	charged	8		0		0	amul	amaz	circ	glov									
+520	Charged1	Inner Sight	100	1	1	30		35		ama	1	1	44	218	8	33	11	-1	0	0	0	-1	0	0	0		16	12	60	75	0	0	0	0	0	0	0	0	0	0	Charged1	charged	8		0		0	glov	amul	amaz	circ									
+521	Charged1	Jab	100	1	1	6	24	6		ama	6	1	44	218	10	300	1	-1	0	0	0	-1	0	0	0		33	86	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	10		0		0	spea	aspe	glov										
+522	Charged1	Jab	100	1	1	18	32	20		ama	6	1	44	218	10	300	12	-1	0	0	0	-1	0	0	0		16	33	86	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	10		0		0	glov	spea	aspe										
+523	Charged1	Cold Arrow	100	1	1	6	24	6		ama	6	1	44	218	11	300	1	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	11		0		0	miss	abow	glov										
+524	Charged1	Cold Arrow	100	1	1	14	33	16		ama	6	1	44	218	11	300	9	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	11		0		0	glov	miss	abow										
+525	Charged1	Multiple Shot	100	1	1	10	24	10		ama	6	1	44	218	12	300	5	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	12		0		0	miss	abow	glov										
+526	Charged1	Multiple Shot	100	1	1	40		45		ama	6	1	44	218	12	300	25	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	12		0		0	glov	miss	abow										
+527	Charged1	Power Strike	100	1	1	12	30	12		ama	12	1	44	218	14	300	1	-1	0	0	0	-1	0	0	0		33	86	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	14		0		0	spea	aspe	glov										
+528	Charged1	Power Strike	100	1	1	24	40	25		ama	12	1	44	218	14	300	13	-1	0	0	0	-1	0	0	0		16	33	86	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	14		0		0	glov	spea	aspe										
+529	Charged1	Poison Javelin	100	1	1	12	30	12		ama	12	1	44	218	15	300	1	-1	0	0	0	-1	0	0	0		12	75	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	15		0		0	amul	circ	glov										
+530	Charged1	Poison Javelin	100	1	1	25	41	27		ama	12	1	44	218	15	300	15	-1	0	0	0	-1	0	0	0		16	75	12	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	15		0		0	glov	circ	amul										
+531	Charged1	Exploding Arrow	100	1	1	12	30	12		ama	12	1	44	218	16	300	1	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	16		0		0	miss	abow	glov										
+532	Charged1	Exploding Arrow	100	1	1	30	50	30		ama	12	1	44	218	16	300	17	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	16		0		0	glov	miss	abow										
+533	Charged1	Slow Missiles	100	1	1	12	30	12		ama	12	1	44	218	17	35	1	-1	0	0	0	-1	0	0	0		60	16	12	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	17		0		0	amaz	glov	amul										
+534	Charged1	Slow Missiles	100	1	1	50		55		ama	12	1	44	218	17	35	15	-1	0	0	0	-1	0	0	0		16	12	60	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	17		0		0	glov	amul	amaz										
+535	Charged1	Impale	100	1	1	12	30	12		ama	12	1	44	218	19	300	1	-1	0	0	0	-1	0	0	0		33	86	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	19		0		0	spea	aspe	glov										
+536	Charged1	Impale	100	1	1	29	48	29		ama	12	1	44	218	19	300	17	-1	0	0	0	-1	0	0	0		16	33	86	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	19		0		0	glov	spea	aspe										
+537	Charged1	Lightning Bolt	100	1	1	12	30	12		ama	12	1	44	218	20	300	1	-1	0	0	0	-1	0	0	0		12	75	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	20		0		0	amul	circ	glov										
+538	Charged1	Lightning Bolt	100	1	1	24	40	24		ama	12	1	44	218	20	300	12	-1	0	0	0	-1	0	0	0		16	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	20		0		0	glov	amul	circ										
+539	Charged1	Ice Arrow	100	1	1	18	36	18		ama	18	1	44	218	21	300	1	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	21		0		0	miss	abow	glov										
+540	Charged1	Ice Arrow	100	1	1	38	70	40		ama	18	1	44	218	21	300	20	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	21		0		0	glov	miss	abow										
+541	Charged1	Guided Arrow	100	1	1	18	36	18		ama	18	1	44	218	22	300	1	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	22		0		0	miss	abow	glov										
+542	Charged1	Guided Arrow	100	1	1	50		55		ama	18	1	44	218	22	300	23	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	22		0		0	glov	miss	abow										
+543	Charged1	Charged Strike	100	1	1	18	36	18		ama	18	1	44	218	24	300	1	-1	0	0	0	-1	0	0	0		33	86	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	24		0		0	spea	aspe	glov										
+544	Charged1	Charged Strike	100	1	1	50		50		ama	18	1	44	218	24	300	20	-1	0	0	0	-1	0	0	0		16	33	86	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	24		0		0	glov	spea	aspe										
+545	Charged1	Plague Javelin	100	1	1	18	36	18		ama	18	1	44	218	25	300	1	-1	0	0	0	-1	0	0	0		12	75	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	25		0		0	amul	circ	glov										
+546	Charged1	Plague Javelin	100	1	1	38	68	65		ama	18	1	44	218	25	300	19	-1	0	0	0	-1	0	0	0		16	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	25		0		0	glov	amul	circ										
+547	Charged1	Immolation Arrow	100	1	1	24	42	25		ama	24	1	44	218	27	300	2	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	27		0		0	miss	abow	glov										
+548	Charged1	Immolation Arrow	100	1	1	70		74		ama	24	1	44	218	27	300	21	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	27		0		0	glov	miss	abow										
+549	Charged1	Fend	100	1	1	24	42	25		ama	24	1	44	218	30	300	2	-1	0	0	0	-1	0	0	0		33	86	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	30		0		0	spea	aspe	glov										
+550	Charged1	Fend	100	1	1	70		75		ama	24	1	44	218	30	300	17	-1	0	0	0	-1	0	0	0		16	33	86	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	30		0		0	glov	spea	aspe										
+551	Charged1	Freezing Arrow	100	1	1	30	48	33		ama	30	1	44	218	31	300	3	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	31		0		0	miss	abow	glov										
+552	Charged1	Freezing Arrow	100	1	1	80		74		ama	30	1	44	218	31	300	22	-1	0	0	0	-1	0	0	0		16	47	85	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	31		0		0	glov	miss	abow										
+553	Charged1	Lightning Strike	100	1	1	30	48	33		ama	30	1	44	218	34	300	3	-1	0	0	0	-1	0	0	0		33	86	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	34		0		0	spea	aspe	glov										
+554	Charged1	Lightning Strike	100	1	1	80		74		ama	30	1	44	218	34	300	15	-1	0	0	0	-1	0	0	0		16	33	86	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	34		0		0	glov	spea	aspe										
+555	Charged1	Lightning Fury	100	1	1	30	48	33		ama	30	1	44	218	35	300	3	-1	0	0	0	-1	0	0	0		12	75	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	35		0		0	amul	circ	glov										
+556	Charged1	Lightning Fury	100	1	1	80		74		ama	30	1	44	218	35	300	15	-1	0	0	0	-1	0	0	0		16	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	35		0		0	glov	amul	circ										
+557	Charged1	Fire Bolt	100	1	1	1	18	1		sor	1	1	44	218	36	300	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	36		0		0	weap	ring	circ										
+558	Charged1	Fire Bolt	100	1	1	11	30	12		sor	1	1	44	218	36	300	10	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	36		0		0	weap	ring	circ										
+559	Charged1	Charged Bolt	100	1	1	1	18	1		sor	1	1	44	218	38	300	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	38		0		0	weap	ring	circ										
+560	Charged1	Charged Bolt	100	1	1	12	30	13		sor	1	1	44	218	38	300	11	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	38		0		0	weap	ring	circ										
+561	Charged1	Ice bolt	100	1	1	1	18	1		sor	1	1	44	218	39	300	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	39		0		0	weap	ring	circ										
+562	Charged1	Ice bolt	100	1	1	10	30	9		sor	1	1	44	218	39	300	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	39		0		0	weap	ring	circ										
+563	Charged1	Frozen Armor	100	1	1	1	18	1		sor	1	1	44	218	40	25	1	-1	0	0	0	-1	0	0	0		68	3	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	40		0		0	orb	tors											
+564	Charged1	Frozen Armor	100	1	1	30		35		sor	1	1	44	218	40	25	10	-1	0	0	0	-1	0	0	0		68	3	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	40		0		0	orb	tors											
+565	Charged1	Static Field	100	1	1	6	24	6		sor	6	1	44	218	42	50	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	42		0		0	weap	ring	circ										
+566	Charged1	Static Field	100	1	1	40		45		sor	6	1	44	218	42	50	17	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	42		0		0	weap	ring	circ										
+567	Charged1	Telekenesis	100	1	1	6	24	6		sor	6	1	44	218	43	50	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	43		0		0	weap	ring	circ										
+568	Charged1	Telekenesis	100	1	1	26	70	26		sor	6	1	44	218	43	50	20	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	43		0		0	weap	ring	circ										
+569	Charged1	Frost Nova	100	1	1	6	24	6		sor	6	1	44	218	44	300	1	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	44		0		0	weap	amul	circ										
+570	Charged1	Frost Nova	100	1	1	12	40	15		sor	6	1	44	218	44	300	10	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	44		0		0	weap	amul	circ										
+571	Charged1	Ice Blast	100	1	1	6	24	6		sor	6	1	44	218	45	300	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	45		0		0	weap	ring	circ										
+572	Charged1	Ice Blast	100	1	1	15	35	15		sor	6	1	44	218	45	300	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	45		0		0	weap	ring	circ										
+573	Charged1	Blaze	100	1	1	12	30	12		sor	12	1	44	218	46	75	1	-1	0	0	0	-1	0	0	0		26	68	15	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	46		0		0	staf	orb	boot										
+574	Charged1	Blaze	100	1	1	24	42	24		sor	12	1	44	218	46	75	12	-1	0	0	0	-1	0	0	0		15	26	68	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	46		0		0	boot	staf	orb										
+575	Charged1	Fire Ball	100	1	1	12	30	12		sor	12	1	44	218	47	300	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	47		0		0	weap												
+576	Charged1	Fire Ball	100	1	1	24	60	30		sor	12	1	44	218	47	300	18	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	47		0		0	weap												
+577	Charged1	Nova	100	1	1	12	30	12		sor	12	1	44	218	48	300	1	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	48		0		0	weap	shld											
+578	Charged1	Nova	100	1	1	24	58	30		sor	12	1	44	218	48	300	15	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	48		0		0	weap	shld											
+579	Charged1	Lightning	100	1	1	12	30	12		sor	12	1	44	218	49	300	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	49		0		0	weap												
+580	Charged1	Lightning	100	1	1	24	40	24		sor	12	1	44	218	49	300	12	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	49		0		0	weap												
+581	Charged1	Shiver Armor	100	1	1	12	30	12		sor	12	1	44	218	50	45	1	-1	0	0	0	-1	0	0	0		45	3	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	50		0		0	weap	tors											
+582	Charged1	Shiver Armor	100	1	1	50		55		sor	12	1	44	218	50	45	16	-1	0	0	0	-1	0	0	0		45	3	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	50		0		0	weap	tors											
+583	Charged1	Fire Wall	100	1	1	18	36	18		sor	18	1	44	218	51	100	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	51		0		0	weap												
+584	Charged1	Fire Wall	100	1	1	54		65		sor	18	1	44	218	51	100	25	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	51		0		0	weap												
+585	Charged1	Enchant	100	1	1	18	36	18		sor	18	1	44	218	52	15	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	52		0		0	weap												
+586	Charged1	Enchant	100	1	1	60		65		sor	18	1	44	218	52	15	25	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	52		0		0	weap												
+587	Charged1	Chain Lightning	100	1	1	18	36	18		sor	18	1	44	218	53	300	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	53		0		0	weap												
+588	Charged1	Chain Lightning	100	1	1	35	75	35		sor	18	1	44	218	53	300	22	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	53		0		0	weap												
+589	Charged1	Teleport	100	1	1	18	36	18		sor	18	1	44	218	54	300	1	-1	0	0	0	-1	0	0	0		45	12	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	54		0		0	weap	amul											
+590	Charged1	Teleport	100	1	1	60		65		sor	18	1	44	218	54	300	1	-1	0	0	0	-1	0	0	0		12	45	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	54		0		0	amul	weap											
+591	Charged1	Glacial Spike	100	1	1	18	36	18		sor	18	1	44	218	55	300	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	55		0		0	weap												
+592	Charged1	Glacial Spike	100	1	1	40	70	40		sor	18	1	44	218	55	300	19	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	55		0		0	weap												
+593	Charged1	Meteor	100	1	1	24	42	25		sor	24	1	44	218	56	300	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	56		0		0	weap												
+594	Charged1	Meteor	100	1	1	62		65		sor	24	1	44	218	56	300	22	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	56		0		0	weap												
+595	Charged1	Thunder Storm	100	1	1	24	42	25		sor	24	1	44	218	57	25	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	57		0		0	weap												
+596	Charged1	Thunder Storm	100	1	1	55		55		sor	24	1	44	218	57	25	15	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	57		0		0	weap												
+597	Charged1	Energy Shield	100	1	1	24	42	25		sor	24	1	44	218	58	15	2	-1	0	0	0	-1	0	0	0		45	104	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	58		0		0	weap	helm											
+598	Charged1	Energy Shield	100	1	1	40		42		sor	24	1	44	218	58	15	10	-1	0	0	0	-1	0	0	0		104	45	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	58		0		0	helm	weap											
+599	Charged1	Blizzard	100	1	1	24	42	25		sor	24	1	44	218	59	200	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	59		0		0	weap												
+600	Charged1	Blizzard	100	1	1	57		60		sor	24	1	44	218	59	200	17	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	59		0		0	weap												
+601	Charged1	Chilling Armor	100	1	1	24	42	25		sor	24	1	44	218	60	35	2	-1	0	0	0	-1	0	0	0		45	3	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	60		0		0	weap	tors											
+602	Charged1	Chilling Armor	100	1	1	70		75		sor	24	1	44	218	60	35	15	-1	0	0	0	-1	0	0	0		3	45	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	60		0		0	tors	weap											
+603	Charged1	Hydra	100	1	1	30	48	33		sor	30	1	44	218	62	250	3	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	62		0		0	weap												
+604	Charged1	Hydra	100	1	1	80		85		sor	30	1	44	218	62	250	25	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	62		0		0	weap												
+605	Charged1	Frozen Orb	100	1	1	30	48	33		sor	30	1	44	218	64	300	3	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	64		0		0	weap												
+606	Charged1	Frozen Orb	100	1	1	80		85		sor	30	1	44	218	64	300	25	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	64		0		0	weap												
+607	Charged1	Amplify Damage	100	1	1	1	18	1		nec	1	1	44	218	66	75	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	66		0		0	weap	head											
+608	Charged1	Amplify Damage	100	1	1	15		20		nec	1	1	44	218	66	75	15	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	66		0		0	weap	head											
+609	Charged1	Teeth	100	1	1	1	18	1		nec	1	1	44	218	67	300	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	67		0		0	weap	head											
+610	Charged1	Teeth	100	1	1	11	27	12		nec	1	1	44	218	67	300	10	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	67		0		0	weap	head											
+611	Charged1	Bone Armor	100	1	1	1	18	1		nec	1	1	44	218	68	30	1	-1	0	0	0	-1	0	0	0		45	3	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	68		0		0	weap	tors	head										
+612	Charged1	Bone Armor	100	1	1	30		35		nec	1	1	44	218	68	30	15	-1	0	0	0	-1	0	0	0		3	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	68		0		0	tors	weap	head										
+613	Charged1	Raise Skeleton	100	1	1	1	18	1		nec	1	1	44	218	70	25	1	-1	0	0	0	-1	0	0	0		45	12	69	75	0	0	0	0	0	0	0	0	0	0	Charged1	charged	70		0		0	weap	amul	head	circ									
+614	Charged1	Raise Skeleton	100	1	1	26		26		nec	1	1	44	218	70	25	10	-1	0	0	0	-1	0	0	0		12	75	45	69	0	0	0	0	0	0	0	0	0	0	Charged1	charged	70		0		0	amul	circ	weap	head									
+615	Charged1	Dim Vision	100	1	1	6	24	6		nec	6	1	44	218	71	25	1	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	71		0		0	ring	circ	head	weap									
+616	Charged1	Dim Vision	100	1	1	18		20		nec	6	1	44	218	71	25	12	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	71		0		0	ring	circ	head	weap									
+617	Charged1	Weaken	100	1	1	6	24	6		nec	6	1	44	218	72	25	1	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	72		0		0	weap	glov	head										
+618	Charged1	Weaken	100	1	1	24		24		nec	6	1	44	218	72	25	18	-1	0	0	0	-1	0	0	0		16	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	72		0		0	glov	weap	head										
+619	Charged1	Poison Dagger	100	1	1	6	24	6		nec	6	1	44	218	73	20	1	-1	0	0	0	-1	0	0	0		32	69	16	10	75	0	0	0	0	0	0	0	0	0	Charged1	charged	73		0		0	knif	head	glov	ring	circ								
+620	Charged1	Poison Dagger	100	1	1	21		24		nec	6	1	44	218	73	20	18	-1	0	0	0	-1	0	0	0		16	10	75	32	69	0	0	0	0	0	0	0	0	0	Charged1	charged	73		0		0	glov	ring	circ	knif	head								
+621	Charged1	Corpse Explosion	100	1	1	6	24	6		nec	6	1	44	218	74	150	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	74		0		0	weap	head											
+622	Charged1	Corpse Explosion	100	1	1	40		45		nec	6	1	44	218	74	150	15	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	74		0		0	weap	head											
+623	Charged1	Clay Golem	100	1	1	6	24	6		nec	6	1	44	218	75	20	1	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	75		0		0	amul	circ	head	weap									
+624	Charged1	Clay Golem	100	1	1	18	38	20		nec	6	1	44	218	75	20	12	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	75		0		0	amul	circ	head	weap									
+625	Charged1	Iron Maiden	100	1	1	12	30	12		nec	12	1	44	218	76	75	1	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	76		0		0	shld	weap	head										
+626	Charged1	Iron Maiden	100	1	1	24		24		nec	12	1	44	218	76	75	10	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	76		0		0	shld	weap	head										
+627	Charged1	Terror	100	1	1	12	30	12		nec	12	1	44	218	77	65	1	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	77		0		0	shld	weap	head										
+628	Charged1	Terror	100	1	1	24		24		nec	12	1	44	218	77	65	12	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	77		0		0	shld	weap	head										
+629	Charged1	Bone Wall	100	1	1	12	30	12		nec	12	1	44	218	78	35	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	78		0		0	weap	head											
+630	Charged1	Bone Wall	100	1	1	35		37		nec	12	1	44	218	78	35	25	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	78		0		0	weap	head											
+631	Charged1	Raise Skeleton Mage	100	1	1	12	30	12		nec	12	1	44	218	80	50	1	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	80		0		0	amul	circ	head	weap									
+632	Charged1	Raise Skeleton Mage	100	1	1	36		36		nec	12	1	44	218	80	50	20	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	80		0		0	amul	circ	head	weap									
+633	Charged1	Confuse	100	1	1	18	36	18		nec	18	1	44	218	81	35	1	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	81		0		0	ring	circ	head	weap									
+634	Charged1	Confuse	100	1	1	36		35		nec	18	1	44	218	81	35	17	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	81		0		0	ring	circ	head	weap									
+635	Charged1	Life Tap	100	1	1	18	36	18		nec	18	1	44	218	82	35	1	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	82		0		0	weap	ring	head										
+636	Charged1	Life Tap	100	1	1	40		41		nec	18	1	44	218	82	35	15	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	82		0		0	weap	ring	head										
+637	Charged1	Poison Explosion	100	1	1	18	36	18		nec	18	1	44	218	83	100	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	83		0		0	weap	head											
+638	Charged1	Poison Explosion	100	1	1	28	50	28		nec	18	1	44	218	83	100	10	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	83		0		0	weap	head											
+639	Charged1	Bone Spear	100	1	1	18	36	18		nec	18	1	44	218	84	300	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	84		0		0	weap	head											
+640	Charged1	Bone Spear	100	1	1	42		45		nec	18	1	44	218	84	300	20	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	84		0		0	weap	head											
+641	Charged1	Blood Golem	100	1	1	18	36	18		nec	18	1	44	218	85	15	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	85		0		0	weap	head											
+642	Charged1	Blood Golem	100	1	1	47		38		nec	18	1	44	218	85	15	18	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	85		0		0	weap	head											
+643	Charged1	Attract	100	1	1	24	42	25		nec	24	1	44	218	86	75	2	-1	0	0	0	-1	0	0	0		10	12	69	75	45	0	0	0	0	0	0	0	0	0	Charged1	charged	86		0		0	ring	amul	head	circ	weap								
+644	Charged1	Attract	100	1	1	48	80	44		nec	24	1	44	218	86	75	20	-1	0	0	0	-1	0	0	0		10	12	75	69	45	0	0	0	0	0	0	0	0	0	Charged1	charged	86		0		0	ring	amul	circ	head	weap								
+645	Charged1	Decrepify	100	1	1	24	42	25		nec	24	1	44	218	87	35	2	-1	0	0	0	-1	0	0	0		45	51	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	87		0		0	weap	shld	head										
+646	Charged1	Decrepify	100	1	1	70		75		nec	24	1	44	218	87	35	15	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	87		0		0	shld	weap	head										
+647	Charged1	Bone Prison	100	1	1	24	42	25		nec	24	1	44	218	88	55	2	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	88		0		0	weap	ring	head										
+648	Charged1	Bone Prison	100	1	1	46		40		nec	24	1	44	218	88	55	14	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	88		0		0	weap	ring	head										
+649	Charged1	Iron Golem	100	1	1	24	42	25		nec	24	1	44	218	90	35	2	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	90		0		0	weap	head											
+650	Charged1	Iron Golem	100	1	1	60		55		nec	24	1	44	218	90	35	21	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	90		0		0	weap	head											
+651	Charged1	Lower Resist	100	1	1	30	48	33		nec	30	1	44	218	91	35	3	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	91		0		0	weap	head											
+652	Charged1	Lower Resist	100	1	1	77		80		nec	30	1	44	218	91	35	22	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	91		0		0	weap	head											
+653	Charged1	Poison Nova	100	1	1	30	48	33		nec	30	1	44	218	92	300	3	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	92		0		0	weap	glov	head										
+654	Charged1	Poison Nova	100	1	1	71		73		nec	30	1	44	218	92	300	19	-1	0	0	0	-1	0	0	0		16	45	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	92		0		0	glov	weap	glov										
+655	Charged1	Bone Spirit	100	1	1	30	48	33		nec	30	1	44	218	93	200	3	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	93		0		0	amul	circ	head	weap									
+656	Charged1	Bone Spirit	100	1	1	80		85		nec	30	1	44	218	93	200	23	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	Charged1	charged	93		0		0	amul	circ	head	weap									
+657	Charged1	Fire Golem	100	1	1	30	48	33		nec	30	1	44	218	94	10	3	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	94		0		0	weap	head											
+658	Charged1	Fire Golem	100	1	1	66		70		nec	30	1	44	218	94	10	24	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	94		0		0	weap	head											
+659	Charged1	Revive	100	1	1	30	48	33		nec	30	1	44	218	95	35	3	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	95		0		0	weap	head											
+660	Charged1	Revive	100	1	1	80		85		nec	30	1	44	218	95	35	10	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	95		0		0	weap	head											
+661	Charged1	Sacrifice	100	1	1	1	18	1		pal	1	1	44	218	96	300	1	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	96		0		0	mele	ashd											
+662	Charged1	Sacrifice	100	1	1	30		35		pal	1	1	44	218	96	300	20	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	24	0	0	0	0	0	0	Charged1	charged	96		0		0	mele	ashd						scep					
+663	Charged1	Holy Bolt	100	1	1	6	24	6		pal	6	1	44	218	101	300	1	-1	0	0	0	-1	0	0	0		46	70	12	75	0	0	0	0	0	0	0	0	0	0	Charged1	charged	101		0		0	mele	ashd	amul	circ									
+664	Charged1	Holy Bolt	100	1	1	18	50	18		pal	6	1	44	218	101	300	20	-1	0	0	0	-1	0	0	0		12	75	46	75	0	0	0	0	0	0	0	0	0	0	Charged1	charged	101		0		0	amul	circ	mele	circ									
+665	Charged1	Zeal	100	1	1	12	30	12		pal	12	1	44	218	106	300	1	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	106		0		0	mele	ashd											
+666	Charged1	Zeal	100	1	1	50		55		pal	12	1	44	218	106	300	18	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	24	0	0	0	0	0	0	Charged1	charged	106		0		0	mele	ashd						scep					
+667	Charged1	Vengeance	100	1	1	18	36	18		pal	18	1	44	218	111	300	1	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	111		0		0	mele	ashd											
+668	Charged1	Vengeance	100	1	1	38		43		pal	18	1	44	218	111	300	16	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	111		0		0	mele	ashd											
+669	Charged1	Blessed Hammer	100	1	1	18	36	18		pal	18	1	44	218	112	300	1	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	112		0		0	mele	ashd											
+670	Charged1	Blessed Hammer	100	1	1	50		45		pal	18	1	44	218	112	300	20	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	112		0		0	mele	ashd											
+671	Charged1	Conversion	100	1	1	24	42	25		pal	24	1	44	218	116	30	2	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	116		0		0	mele	ashd											
+672	Charged1	Conversion	100	1	1	45	70	45		pal	24	1	44	218	116	30	15	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	24	0	0	0	0	0	0	Charged1	charged	116		0		0	mele	ashd						scep					
+673	Charged1	Fist of the Heavens	100	1	1	30	48	33		pal	30	1	44	218	121	125	3	-1	0	0	0	-1	0	0	0		46	70	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	121		0		0	mele	ashd	glov										
+674	Charged1	Fist of the Heavens	100	1	1	80		74		pal	30	1	44	218	121	125	24	-1	0	0	0	-1	0	0	0		16	46	16	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	121		0		0	glov	mele	glov										
+675	Charged1	Bash	100	1	1	1	18	1		bar	1	1	44	218	126	300	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	126		0		0	phlm	mele											
+676	Charged1	Bash	100	1	1	10	23	10		bar	1	1	44	218	126	300	10	-1	0	0	0	-1	0	0	0		46	71	0	0	0	0	0	26	25	68	0	0	0	0	Charged1	charged	126		0		0	mele	phlm						staf	wand	orb			
+677	Charged1	Howl	100	1	1	1	18	1		bar	1	1	44	218	130	50	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	130		0		0	phlm	mele											
+678	Charged1	Howl	100	1	1	12	27	9		bar	1	1	44	218	130	50	12	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	130		0		0	phlm	mele											
+679	Charged1	Find Potion	100	1	1	1	18	1		bar	1	1	44	218	131	55	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	131		0		0	phlm	mele											
+680	Charged1	Find Potion	100	1	1	15	65	15		bar	1	1	44	218	131	55	15	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	131		0		0	phlm	mele											
+681	Charged1	Taunt	100	1	1	6	24	6		bar	6	1	44	218	137	65	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	137		0		0	phlm	mele											
+682	Charged1	Taunt	100	1	1	18	51	18		bar	6	1	44	218	137	65	12	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	137		0		0	phlm	mele											
+683	Charged1	Shout	100	1	1	6	24	6		bar	6	1	44	218	138	25	3	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	138		0		0	phlm	mele											
+684	Charged1	Shout	100	1	1	40		45		bar	6	1	44	218	138	25	20	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	138		0		0	phlm	mele											
+685	Charged1	Tectonic Slam	100	1	1	12	30	12		bar	12	1	44	218	139	55	1	-1	0	0	0	-1	0	0	0		71	112	0	0	0	0	0	26	25	68	0	0	0	0	Charged1	charged	139		0		0	phlm	slam						staf	wand	orb			
+686	Charged1	Tectonic Slam	100	1	1	24	50	24		bar	12	1	44	218	139	55	12	-1	0	0	0	-1	0	0	0		112	71	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	139		0		0	slam	phlm											
+687	Charged1	Find Item	100	1	1	12	30	12		bar	12	1	44	218	142	300	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	142		0		0	phlm	mele											
+688	Charged1	Find Item	100	1	1	50		55		bar	12	1	44	218	142	300	21	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	142		0		0	phlm	mele											
+689	Charged1	Cocentrate	100	1	1	18	36	18		bar	18	1	44	218	144	300	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	144		0		0	phlm	mele											
+690	Charged1	Cocentrate	100	1	1	40		36		bar	18	1	44	218	144	300	19	-1	0	0	0	-1	0	0	0		46	71	0	0	0	0	0	26	25	68	0	0	0	0	Charged1	charged	144		0		0	mele	phlm						staf	wand	orb			
+691	Charged1	Battle Cry	100	1	1	18	36	18		bar	18	1	44	218	146	35	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	146		0		0	phlm	mele											
+692	Charged1	Battle Cry	100	1	1	36	65	36		bar	18	1	44	218	146	35	18	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	146		0		0	phlm	mele											
+693	Charged1	Battle Orders	100	1	1	24	42	25		bar	24	1	44	218	149	35	2	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	149		0		0	phlm	mele											
+694	Charged1	Battle Orders	100	1	1	55		55		bar	24	1	44	218	149	35	18	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	149		0		0	phlm	mele											
+695	Charged1	Madawcs Fury	100	1	1	24	42	25		bar	24	1	44	218	150	35	2	-1	0	0	0	-1	0	0	0		71	46	12	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	150		0		0	phlm	mele	amul										
+696	Charged1	Madawcs Fury	100	1	1	50		68		bar	24	1	44	218	150	35	15	-1	0	0	0	-1	0	0	0		12	71	46	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	150		0		0	amul	phlm	mele										
+697	Charged1	War Cry	100	1	1	30	48	33		bar	30	1	44	218	154	35	3	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	154		0		0	phlm	mele											
+698	Charged1	War Cry	100	1	1	63		63		bar	30	1	44	218	154	35	13	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	154		0		0	phlm	mele											
+699	Charged1	Battle Command	100	1	1	30	48	33		bar	30	1	44	218	155	35	3	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	155		0		0	phlm	mele											
+700	Charged1	Battle Command	100	1	1	50		53		bar	30	1	44	218	155	35	20	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	155		0		0	phlm	mele											
+701	Charged1	Firestorm	100	1	1	1	18	1		dru	1	1	44	218	225	75	1	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	225		0		0	mele												
+702	Charged1	Firestorm	100	1	1	13	26	13		dru	1	1	44	218	225	75	12	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	225		0		0	mele												
+703	Charged1	Molten Boulder	100	1	1	6	24	6		dru	6	1	44	218	229	300	1	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	229		0		0	mele												
+704	Charged1	Molten Boulder	100	1	1	20	53	21		dru	6	1	44	218	229	300	14	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	229		0		0	mele												
+705	Charged1	Eruption	100	1	1	12	30	12		dru	12	1	44	218	234	300	1	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	234		0		0	mele												
+706	Charged1	Eruption	100	1	1	36	68	36		dru	12	1	44	218	234	300	15	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	234		0		0	mele												
+707	Charged1	Cyclone Armor	100	1	1	12	30	12		dru	12	1	44	218	235	75	1	-1	0	0	0	-1	0	0	0		46	3	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	235		0		0	mele	tors											
+708	Charged1	Cyclone Armor	100	1	1	60		55		dru	12	1	44	218	235	75	19	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	235		0		0	tors	mele											
+709	Charged1	Twister	100	1	1	18	36	18		dru	18	1	44	218	240	300	1	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	240		0		0	mele	amul	circ										
+710	Charged1	Twister	100	1	1	60		65		dru	18	1	44	218	240	300	25	-1	0	0	0	-1	0	0	0		12	75	46	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	240		0		0	amul	circ	mele										
+711	Charged1	Volcano	100	1	1	24	42	25		dru	24	1	44	218	244	125	2	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	244		0		0	mele												
+712	Charged1	Volcano	100	1	1	54		50		dru	24	1	44	218	244	125	18	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	244		0		0	mele												
+713	Charged1	Tornado	100	1	1	24	42	25		dru	24	1	44	218	245	200	2	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	245		0		0	mele	amul	circ										
+714	Charged1	Tornado	100	1	1	70		75		dru	24	1	44	218	245	200	15	-1	0	0	0	-1	0	0	0		12	75	46	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	245		0		0	amul	circ	mele										
+715	Charged1	Armageddon	100	1	1	30	48	33		dru	30	1	44	218	249	100	3	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	249		0		0	mele												
+716	Charged1	Armageddon	100	1	1	60		70		dru	30	1	44	218	249	100	30	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	249		0		0	mele												
+717	Charged1	Hurricane	100	1	1	30	48	33		dru	30	1	44	218	250	100	3	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	250		0		0	mele	amul	circ										
+718	Charged1	Hurricane	100	1	1	80		85		dru	30	1	44	218	250	100	28	-1	0	0	0	-1	0	0	0		12	75	46	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	250		0		0	amul	circ	mele										
+719	Charged1	Psychic Hammer	100	1	1	1	18	1		ass	1	1	44	218	253	150	1	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	253		0		0	helm	mele											
+720	Charged1	Psychic Hammer	100	1	1	8	28	10		ass	1	1	44	218	253	150	10	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	253		0		0	helm	mele											
+721	Charged1	Shock Field	100	1	1	6	24	6		ass	6	1	44	218	256	300	1	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	256		0		0	glov	mele											
+722	Charged1	Shock Field	100	1	1	15	28	12		ass	6	1	44	218	256	300	9	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	256		0		0	glov	mele											
+723	Charged1	Quickness	100	1	1	6	24	6		ass	6	1	44	218	258	25	1	-1	0	0	0	-1	0	0	0		15	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	258		0		0	boot	mele											
+724	Charged1	Quickness	100	1	1	40		45		ass	6	1	44	218	258	25	12	-1	0	0	0	-1	0	0	0		15	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	258		0		0	boot	mele											
+725	Charged1	Charged Bolt Sentry	100	1	1	12	30	12		ass	12	1	44	218	261	150	1	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	261		0		0	glov	mele											
+726	Charged1	Charged Bolt Sentry	100	1	1	24	61	24		ass	12	1	44	218	261	150	12	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	261		0		0	glov	mele											
+727	Charged1	Wake of Fire Sentry	100	1	1	12	30	12		ass	12	1	44	218	262	150	1	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	262		0		0	glov	mele											
+728	Charged1	Wake of Fire Sentry	100	1	1	24	61	24		ass	12	1	44	218	262	150	13	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	262		0		0	glov	mele											
+729	Charged1	Cloak of Shadows	100	1	1	18	36	18		ass	18	1	44	218	264	55	1	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	264		0		0	amul	mele											
+730	Charged1	Cloak of Shadows	100	1	1	60		65		ass	18	1	44	218	264	55	15	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	264		0		0	amul	mele											
+731	Charged1	Blade Fury	100	1	1	38	80	38		ass	18	1	44	218	266	300	20	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	266		0		0	tors	mele											
+732	Charged1	Fade	100	1	1	18	36	18		ass	18	1	44	218	267	35	1	-1	0	0	0	-1	0	0	0		3	12	46	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	267		0		0	tors	amul	mele										
+733	Charged1	Fade	100	1	1	50		53		ass	18	1	44	218	267	35	12	-1	0	0	0	-1	0	0	0		3	12	46	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	267		0		0	tors	amul	mele										
+734	Charged1	Shadow Warrior	100	1	1	18	36	18		ass	18	1	44	218	268	15	1	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	268		0		0	amul	mele											
+735	Charged1	Shadow Warrior	100	1	1	33		33		ass	18	1	44	218	268	15	15	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	268		0		0	amul	mele											
+736	Charged1	Lightning Sentry	100	1	1	24	42	25		ass	24	1	44	218	271	150	2	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	271		0		0	glov	mele											
+737	Charged1	Lightning Sentry	100	1	1	38	80	35		ass	24	1	44	218	271	150	13	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	271		0		0	glov	mele											
+738	Charged1	Inferno Sentry	100	1	1	24	42	25		ass	24	1	44	218	272	150	2	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	272		0		0	glov	mele											
+739	Charged1	Inferno Sentry	100	1	1	35	75	35		ass	24	1	44	218	272	150	10	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	272		0		0	glov	mele											
+740	Charged1	Mind Blast	100	1	1	24	42	25		ass	24	1	44	218	273	55	2	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	273		0		0	helm	mele											
+741	Charged1	Mind Blast	100	1	1	48	86	48		ass	24	1	44	218	273	55	22	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	273		0		0	helm	mele											
+742	Charged1	Death Sentry	100	1	1	30	48	33		ass	30	1	44	218	276	100	3	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	276		0		0	glov	mele											
+743	Charged1	Death Sentry	100	1	1	70		60		ass	30	1	44	218	276	100	17	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	276		0		0	glov	mele											
+744	Charged1	Blade Shield	100	1	1	30	48	33		ass	30	1	44	218	277	35	3	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	277		0		0	tors	mele											
+745	Charged1	Blade Shield	100	1	1	50		50		ass	30	1	44	218	277	35	20	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	277		0		0	tors	mele											
+746	Charged1	Venom	100	1	1	30	48	33		ass	30	1	44	218	278	55	3	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	278		0		0	glov	mele											
+747	Charged1	Venom	100	1	1	57		61		ass	30	1	44	218	278	55	19	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	278		0		0	glov	mele											
+748	Charged1	Shadow Master	100	1	1	30	48	33		ass	30	1	44	218	279	10	3	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	279		0		0	amul	mele											
+749	Charged1	Shadow Master	100	1	1	80		85		ass	30	1	44	218	279	10	18	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	Charged1	charged	279		0		0	amul	mele											
+750	Burning	+# to Fire Skills	100	1	1	50		42	sor			2	125	124	3	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Burning	skilltab		0		0	glov												
+751	Sparking	+# to Lightning Skills	100	1	1	50		42	sor			2	125	124	4	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Sparking	skilltab		0		0	glov												
+752	Chilling	+# to Cold Skills	100	1	1	50		42	sor			2	125	124	5	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Chilling	skilltab		0		0	glov												
+753	Hexing	+# to Curses	100	1	1	50		42	nec			2	125	124	6	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Hexing	skilltab		0		0	glov												
+754	Fungal	+# to Poison and Bone Skills	100	1	1	50		42	nec			2	125	124	7	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Fungal	skilltab		0		0	glov												
+755	Graverobber's	+# to Summoning Skills	100	1	1	50		42	nec			2	125	124	8	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Graverobber's	skilltab		0		0	glov												
+756	Lion Branded	+# to Combat Skills	100	1	1	50		42	pal			2	125	124	9	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Lion Branded	skilltab		0		0	glov												
+757	Captain's	+# to Offensive Auras	100	1	1	50		42	pal			2	125	124	10	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Captain's	skilltab		0		0	glov												
+758	Preserver's	+# to Defensive Auras	100	1	1	50		42	pal			2	125	124	11	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Preserver's	skilltab		0		0	glov												
+759	Expert's	+# to Masteries	100	1	1	50		42	bar			2	125	124	12	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Expert's	skilltab		0		0	glov												
+760	Fanatic	+# to Combat Skills	100	1	1	50		42	bar			2	125	124	13	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Fanatic	skilltab		0		0	glov												
+761	Sounding	+# to Warcries	100	1	1	50		42	bar			2	125	124	14	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Sounding	skilltab		0		0	glov												
+762	Trainer's	+# to Summoning Skills	100	1	1	50		42	dru			2	125	124	15	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Trainer's	skilltab		0		0	glov												
+763	Spiritual	+# to Shape Shifting Skills	100	1	1	50		42	dru			2	125	124	16	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Spiritual	skilltab		0		0	glov												
+764	Nature's	+# to Elemental Skills	100	1	1	50		42	dru			2	125	124	17	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	Nature's	skilltab		0		0	glov												
+765	Strengthened1	Damage Reduced by #	100	1	0	14	70	10				24	130	3	0	1	1	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Strengthened1	red-dmg	0		0		0	scha												
+766	Reinforced1	Damage Reduced by #	100	1	0	37		27				12	130	3	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Reinforced1	red-dmg	0		0		0	scha												
+767	Fortified	Damage Reduced by #	100	1	0	55		52				6	130	3	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Fortified	red-dmg	0		0		0	scha												
+768	Strengthened1	Damage Reduced by #%	100	1	0	14	70	10				24	130	4	0	1	1	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Strengthened1	red-dmg%	0		0		0	scha												
+769	Reinforced1	Damage Reduced by #%	100	1	0	37		27				12	130	4	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Reinforced1	red-dmg%	0		0		0	scha												
+770	Fortified	Damage Reduced by #%	100	1	0	55		52				6	130	4	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Fortified	red-dmg%	0		0		0	scha												
+771	Impenetrable	Magic Damage Reduced by #	100	1	0	40		40				3	130	6	0	1	1	3	0	2	2	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Impenetrable	red-mag	0	red-dmg	0		0	scha												
+772	Impregnable	Magic Damage Reduced by #	100	1	0	50		50				2	130	6	0	2	2	3	0	2	4	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Impregnable	red-mag	0	red-dmg	0		0	scha												
+773	Impervious	Magic Damage Reduced by #	100	1	0	60		60				1	130	6	0	3	3	3	0	3	6	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Impervious	red-mag	0	red-dmg	0		0	scha												
+774	Aspirant's	+# to Mana	100	1	0	14	70	10				24	131	11	0	10	15	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Aspirant's	mana	0		0		0	scha												
+775	Sorcerer's	+# to Mana	100	1	0	37		27				12	131	11	0	20	25	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Sorcerer's	mana	0		0		0	scha												
+776	Mage's	+# to Mana	100	1	0	55		52				6	131	11	0	30	30	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Mage's	mana	0		0		0	scha												
+777	Magical	Increase Maximum Mana #%	100	1	0	14	70	10				24	131	12	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Magical	mana%	0		0		0	scha												
+778	Mana Tap	Increase Maximum Mana #%	100	1	0	37		27				12	131	12	0	4	4	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Mana Tap	mana%	0		0		0	scha												
+779	Arcane	Increase Maximum Mana #%	100	1	0	55		52				6	131	12	0	6	6	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Arcane	mana%	0		0		0	scha												
+780	Wyrm's	+# to Mana	100	1	0	40		40				3	131	11	0	10	15	12	0	2	2	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Wyrm's	mana	0	mana%	0		0	scha												
+781	Great Wyrm's	+# to Mana	100	1	0	50		50				2	131	11	0	10	20	12	0	2	4	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Great Wyrm's	mana	0	mana%	0		0	scha												
+782	Bahamut's	+# to Mana	100	1	0	60		60				1	131	11	0	15	30	12	0	3	6	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Bahamut's	mana	0	mana%	0		0	scha												
+783	Breathing	+# to Life	100	1	0	14	70	10				24	131	13	0	10	15	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Breathing	hp	0		0		0	scha												
+784	Living	+# to Life	100	1	0	37		27				12	131	13	0	20	25	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Living	hp	0		0		0	scha												
+785	Thriving	+# to Life	100	1	0	55		52				6	131	13	0	30	30	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Thriving	hp	0		0		0	scha												
+786	Heartened	Increase Maximum Life #%	100	1	0	14	70	10				24	131	14	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Heartened	hp%	0		0		0	scha												
+787	Invigorated	Increase Maximum Life #%	100	1	0	37		27				12	131	14	0	4	4	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Invigorated	hp%	0		0		0	scha												
+788	Venerable	Increase Maximum Life #%	100	1	0	55		52				6	131	14	0	6	6	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Venerable	hp%	0		0		0	scha												
+789	Blooming	+# to Life	100	1	0	40		40				3	131	13	0	10	15	14	0	2	2	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Blooming	hp	0	hp%	0		0	scha												
+790	Lifegiving	+# to Life	100	1	0	50		50				2	131	13	0	10	20	14	0	2	4	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Lifegiving	hp	0	hp%	0		0	scha												
+791	Lifebinder's	+# to Life	100	1	0	60		60				1	131	13	0	15	30	14	0	3	6	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Lifebinder's	hp	0	hp%	0		0	scha												
+792	Weathered	All Resistances +#	100	1	0	15	70	10				24	133	41	0	1	1	223	0	3	6	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Weathered	res-all	0	dmg-elem	0		0	scha												
+793	Wizened	All Resistances +#	100	1	0	40		40				12	133	41	0	3	3	223	0	6	9	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Wizened	res-all	0	dmg-elem	0		0	scha												
+794	Ancient	All Resistances +#	100	1	0	60		60				6	133	41	0	5	5	223	0	9	12	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Ancient	res-all	0	dmg-elem	0		0	scha												
+795	Regenerating	Replenish Life +#	100	1	0	14	70	10				24	134	53	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Regenerating	regen	0		0		0	scha												
+796	Reconstructing	Replenish Life +#	100	1	0	37		27				12	134	53	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Reconstructing	regen	0		0		0	scha												
+797	Recreating	Replenish Life +#	100	1	0	55		52				6	134	53	0	20	20	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Recreating	regen	0		0		0	scha												
+798	Inspiring	Regenerate Mana #%	100	1	0	14	70	10				24	134	62	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Inspiring	regen-mana	0		0		0	scha												
+799	Elated	Regenerate Mana #%	100	1	0	37		27				12	134	62	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Elated	regen-mana	0		0		0	scha												
+800	Exhilirating	Regenerate Mana #%	100	1	0	55		52				6	134	62	0	20	20	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Exhilirating	regen-mana	0		0		0	scha												
+801	Energized	Regenerate Mana #%	100	1	0	40		40				3	134	62	0	5	5	53	0	5	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Energized	regen-mana	0	regen	0		0	scha												
+802	Thrilling	Regenerate Mana #%	100	1	0	50		50				2	134	62	0	5	10	53	0	5	10	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Thrilling	regen-mana	0	regen	0		0	scha												
+803	Breathtaking	Regenerate Mana #%	100	1	0	60		60				1	134	62	0	10	20	53	0	10	20	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Breathtaking	regen-mana	0	regen	0		0	scha												
+804	Refreshing	+# to Mana after each Kill	100	1	0	14	70	10				24	134	110	0	1	1	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Refreshing	mana-kill	0		0		0	scha												
+805	Recharging	+# to Mana after each Kill	100	1	0	37		27				12	134	110	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Recharging	mana-kill	0		0		0	scha												
+806	Rejuvinating	+# to Mana after each Kill	100	1	0	55		52				6	134	110	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Rejuvinating	mana-kill	0		0		0	scha												
+807	Leeching	+# Life after each Kill	100	1	0	14	70	10				24	134	228	0	1	1	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Leeching	heal-kill	0		0		0	scha												
+808	Parasitic	+# Life after each Kill	100	1	0	37		27				12	134	228	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Parasitic	heal-kill	0		0		0	scha												
+809	Bloodsucking	+# Life after each Kill	100	1	0	55		52				6	134	228	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Bloodsucking	heal-kill	0		0		0	scha												
+810	Consuming	+# to Mana after each Kill	100	1	0	40		40				3	134	110	0	1	1	228	0	1	1	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Consuming	mana-kill	0	heal-kill	0		0	scha												
+811	Overflowing	+# to Mana after each Kill	100	1	0	50		50				2	134	110	0	1	2	228	0	1	2	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Overflowing	mana-kill	0	heal-kill	0		0	scha												
+812	Overwhelming	+# to Mana after each Kill	100	1	0	60		60				1	134	110	0	2	3	228	0	2	3	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Overwhelming	mana-kill	0	heal-kill	0		0	scha												
+813	Fiendish	Life gained after each hit	100	1	0	14	70	10				24	134	335	0	1	1	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Fiendish	healperhit	0		0		0	scha												
+814	Malignant	Life gained after each hit	100	1	0	37		27				12	134	335	0	2	2	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Malignant	healperhit	0		0		0	scha												
+815	Vampiric	Life gained after each hit	100	1	0	55		52				6	134	335	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Vampiric	healperhit	0		0		0	scha												
+816	Hector	+# to Mana after each Kill	100	1	0	61		61				3	134	110	0	1	1	228	0	1	1	335	0	1	1		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Hector	mana-kill	0	heal-kill	0	healperhit	0	scha												
+817	Achilles	+# to Mana after each Kill	100	1	0	71		71				2	134	110	0	2	2	228	0	2	2	335	0	2	2		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Achilles	mana-kill	0	heal-kill	0	healperhit	0	scha												
+818	Hercules	+# to Mana after each Kill	100	1	0	81		81				1	134	110	0	3	3	228	0	3	3	335	0	3	3		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Hercules	mana-kill	0	heal-kill	0	healperhit	0	scha												
+819	Warm	Fire Resist +#%	100	1	0	14	70	10				24	133	31	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Warm	res-fire	0		0		0	scha												
+820	Temperate	Fire Resist +#%	100	1	0	37		27				12	133	31	0	7	7	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Temperate	res-fire	0		0		0	scha												
+821	Summery	Fire Resist +#%	100	1	0	55		52				6	133	31	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Summery	res-fire	0		0		0	scha												
+822	Electric	Lightning Resist +#%	100	1	0	14	70	10				24	133	33	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Electric	res-ltng	0		0		0	scha												
+823	Voltaic	Lightning Resist +#%	100	1	0	37		27				12	133	33	0	7	7	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Voltaic	res-ltng	0		0		0	scha												
+824	Galvanic	Lightning Resist +#%	100	1	0	55		52				6	133	33	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Galvanic	res-ltng	0		0		0	scha												
+825	Cold	Cold Resist +#%	100	1	0	14	70	10				24	133	35	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Cold	res-cold	0		0		0	scha												
+826	Numbing	Cold Resist +#%	100	1	0	37		27				12	133	35	0	7	7	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Numbing	res-cold	0		0		0	scha												
+827	Freezing	Cold Resist +#%	100	1	0	55		52				6	133	35	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Freezing	res-cold	0		0		0	scha												
+828	Poison	Poison Resist +#%	100	1	0	14	70	10				24	133	39	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Poison	res-pois	0		0		0	scha												
+829	Toxic	Poison Resist +#%	100	1	0	37		27				12	133	39	0	7	7	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Toxic	res-pois	0		0		0	scha												
+830	Venom	Poison Resist +#%	100	1	0	55		52				6	133	39	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Venom	res-pois	0		0		0	scha												
+831	Psychic	Magic Resist +#%	100	0	0	14	70	10				24	133	37	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Psychic	res-mag	0		0		0	scha												
+832	Clairvoyant	Magic Resist +#%	100	0	0	37		27				12	133	37	0	7	7	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Clairvoyant	res-mag	0		0		0	scha												
+833	Prophetic	Magic Resist +#%	100	0	0	55		52				6	133	37	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Prophetic	res-mag	0		0		0	scha												
+834	Uncontrolled	Fire Resist +#%	100	1	0	40		40				3	133	31	0	3	5	33	0	3	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Uncontrolled	res-fire	0	res-ltng	0		0	scha												
+835	Fissured	Fire Resist +#%	100	1	0	50		50				2	133	31	0	4	7	33	0	4	7	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Fissured	res-fire	0	res-ltng	0		0	scha												
+836	Volcanic	Fire Resist +#%	100	1	0	60		60				1	133	31	0	5	10	33	0	5	10	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Volcanic	res-fire	0	res-ltng	0		0	scha												
+837	Incessant	Lightning Resist +#%	100	1	0	40		40				3	133	33	0	3	5	35	0	3	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Incessant	res-ltng	0	res-cold	0		0	scha												
+838	Unceasing	Lightning Resist +#%	100	1	0	50		50				2	133	33	0	4	7	35	0	4	7	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Unceasing	res-ltng	0	res-cold	0		0	scha												
+839	Interminable	Lightning Resist +#%	100	1	0	60		60				1	133	33	0	5	10	35	0	5	10	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Interminable	res-ltng	0	res-cold	0		0	scha												
+840	Ambivalent	Cold Resist +#%	100	1	0	40		40				3	133	35	0	3	5	31	0	3	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Ambivalent	res-cold	0	res-fire	0		0	scha												
+841	Polarised	Cold Resist +#%	100	1	0	50		50				2	133	35	0	4	7	31	0	4	7	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Polarised	res-cold	0	res-fire	0		0	scha												
+842	Dichotic	Cold Resist +#%	100	1	0	60		60				1	133	35	0	5	10	31	0	5	10	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Dichotic	res-cold	0	res-fire	0		0	scha												
+843	Retain	+#% to Experience Gained	100	1	0	10		10				3	134	227	0	2	4	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Retain	addxp	0		0		0	scha												
+844	Memorize	+#% to Experience Gained	100	1	0	50		45				3	134	227	0	3	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Memorize	addxp	0		0		0	scha												
+845	Master	+#% to Experience Gained	100	1	0	81		80				3	134	227	0	4	6	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	Master	addxp	0		0		0	scha												
+846	Lucky	#% Better Chance of Getting Magic Items	100	1	0	12	70	10				24	114	59	0	5	10	58	0	10	20	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Lucky	mag%	0	gold%	0		0	mcha												
+847	Lucky	#% Better Chance of Getting Magic Items	100	1	0	33		30				12	114	59	0	10	15	58	0	20	30	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Lucky	mag%	0	gold%	0		0	mcha												
+848	Lucky	#% Better Chance of Getting Magic Items	100	1	0	63		60				6	114	59	0	15	20	58	0	30	40	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Lucky	mag%	0	gold%	0		0	mcha												
+849	Prickly	Attacker Takes Damage of #	100	1	0	24	70	15				12	210	54	0	12	20	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Prickly	thorns	0		0		0	mcha												
+850	Heartened	+#% Faster Run/Walk	100	1	0	24	70	15				6	211	77	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Heartened	move2	0		0		0	mcha												
+851	Heartened	+#% Faster Hit Recovery	100	1	0	24	70	15				6	211	80	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Heartened	balance2	0		0		0	mcha												
+852	Heartened	+#% Faster Block Rate	100	1	0	24	70	15				6	211	83	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Heartened	block2	0		0		0	mcha												
+853	Onslaught	+#% Faster Attack Speed	100	1	0	24	70	18				6	212	56	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Onslaught	swing2	0		0		0	mcha												
+854	Incanting	+#% Faster Cast Rate	100	1	0	24	70	18				6	212	86	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Incanting	cast2	0		0		0	mcha												
+855	Deadly	#% Deadly Strike	100	1	0	24	70	18				6	212	113	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	deadly	0		0		0	mcha												
+856	Wounding	#% Open Wounds	100	1	0	24	70	18				6	212	107	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Wounding	openwounds	0		0		0	mcha												
+857	Crushing1	#% Crushing Blow	100	1	0	24	70	18				6	212	108	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Crushing1	crush	0		0		0	mcha												
+858	Piercing	Piercing Attack	100	1	0	24	70	18				6	212	118	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Piercing	pierce	0		0		0	mcha												
+859	Apprentice	+# to Amazon [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	6	35	8	0	2	3	9	0	2	3	oran	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	dex	0	vit	0	mcha												
+860	Apprentice	+# to Paladin [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	96	125	7	0	2	3	9	0	2	3	dyel	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	str	0	vit	0	mcha												
+861	Apprentice	+# to Necromancer [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	66	95	10	0	2	3	9	0	2	3	bwht	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	enr	0	vit	0	mcha												
+862	Apprentice	+# to Sorceress [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	36	65	10	0	2	3	9	0	2	3	cblu	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	enr	0	vit	0	mcha												
+863	Apprentice	+# to Barbarian [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	126	155	7	0	2	3	9	0	2	3	dred	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	str	0	vit	0	mcha												
+864	Apprentice	+# to Druid [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	221	250	8	0	2	3	9	0	2	3	dgrn	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	dex	0	vit	0	mcha												
+865	Apprentice	+# to Assassin [Skill] ([Class] only)	100	1	0	25		20				3	213	236	1	251	280	8	0	2	3	9	0	2	3	blac	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Apprentice	skill-rand	dex	0	vit	0	mcha												
+866	Barbed	Attacker Takes Damage of #	100	1	0	50		45				8	210	54	0	25	35	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Barbed	thorns	0		0		0	mcha												
+867	Strengthened1	+#% Faster Run/Walk	100	1	0	50		45				5	211	77	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Strengthened1	move2	0		0		0	mcha												
+868	Strengthened1	+#% Faster Hit Recovery	100	1	0	50		45				5	211	80	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Strengthened1	balance2	0		0		0	mcha												
+869	Strengthened1	+#% Faster Block Rate	100	1	0	50		45				5	211	83	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Strengthened1	block2	0		0		0	mcha												
+870	Onslaught	+#% Faster Attack Speed	100	1	0	55		50				5	212	56	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Onslaught	swing2	0		0		0	mcha												
+871	Incanting	+#% Faster Cast Rate	100	1	0	55		50				5	212	86	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Incanting	cast2	0		0		0	mcha												
+872	Deadly	#% Deadly Strike	100	1	0	55		50				5	212	113	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	deadly	0		0		0	mcha												
+873	Wounding	#% Open Wounds	100	1	0	55		50				5	212	107	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Wounding	openwounds	0		0		0	mcha												
+874	Crushing1	#% Crushing Blow	100	1	0	55		50				5	212	108	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Crushing1	crush	0		0		0	mcha												
+875	Piercing	Piercing Attack	100	1	0	55		50				5	212	118	0	5	7	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Piercing	pierce	0		0		0	mcha												
+876	Adept	+# to Amazon [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	6	35	8	0	4	6	9	0	4	6	oran	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	dex	0	vit	0	mcha												
+877	Adept	+# to Paladin [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	96	125	7	0	4	6	9	0	4	6	dyel	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	str	0	vit	0	mcha												
+878	Adept	+# to Necromancer [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	66	95	10	0	4	6	9	0	4	6	bwht	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	enr	0	vit	0	mcha												
+879	Adept	+# to Sorceress [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	36	65	10	0	4	6	9	0	4	6	cblu	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	enr	0	vit	0	mcha												
+880	Adept	+# to Barbarian [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	126	155	7	0	4	6	9	0	4	6	dred	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	str	0	vit	0	mcha												
+881	Adept	+# to Druid [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	221	250	8	0	4	6	9	0	4	6	dgrn	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	dex	0	vit	0	mcha												
+882	Adept	+# to Assassin [Skill] ([Class] only)	100	1	0	55		50				2	213	236	2	251	280	8	0	4	6	9	0	4	6	blac	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Adept	skill-rand	dex	0	vit	0	mcha												
+883	Porcupine	Attacker Takes Damage of #	100	1	0	65		60				2	210	54	0	50	75	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Porcupine	thorns	0		0		0	mcha												
+884	Bolstered	+#% Faster Run/Walk	100	1	0	65		60				2	211	77	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Bolstered	move2	0		0		0	mcha												
+885	Bolstered	+#% Faster Hit Recovery	100	1	0	65		60				2	211	80	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Bolstered	balance2	0		0		0	mcha												
+886	Bolstered	+#% Faster Block Rate	100	1	0	65		60				2	211	83	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Bolstered	block2	0		0		0	mcha												
+887	Onslaught	+#% Faster Attack Speed	100	1	0	65		60				2	212	56	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Onslaught	swing2	0		0		0	mcha												
+888	Incanting	+#% Faster Cast Rate	100	1	0	65		60				2	212	86	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Incanting	cast2	0		0		0	mcha												
+889	Deadly	#% Deadly Strike	100	1	0	65		60				2	212	113	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Deadly	deadly	0		0		0	mcha												
+890	Wounding	#% Open Wounds	100	1	0	65		60				2	212	107	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Wounding	openwounds	0		0		0	mcha												
+891	Crushing1	#% Crushing Blow	100	1	0	65		60				2	212	108	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Crushing1	crush	0		0		0	mcha												
+892	Piercing	Piercing Attack	100	1	0	65		60				2	212	118	0	7	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Piercing	pierce	0		0		0	mcha												
+893	Matriarchal	+# to Amazon [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	6	35	8	0	8	10	9	0	8	10	oran	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Matriarchal	skill-rand	dex	0	vit	0	mcha												
+894	Templar	+# to Paladin [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	96	125	7	0	8	10	9	0	8	10	dyel	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Templar	skill-rand	str	0	vit	0	mcha												
+895	Archlich	+# to Necromancer [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	66	95	10	0	8	10	9	0	8	10	bwht	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Archlich	skill-rand	enr	0	vit	0	mcha												
+896	Guardian's	+# to Sorceress [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	36	65	10	0	8	10	9	0	8	10	cblu	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Guardian's	skill-rand	enr	0	vit	0	mcha												
+897	Battlemaster	+# to Barbarian [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	126	155	7	0	8	10	9	0	8	10	dred	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Battlemaster	skill-rand	str	0	vit	0	mcha												
+898	Cenarion	+# to Druid [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	221	250	8	0	8	10	9	0	8	10	dgrn	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Cenarion	skill-rand	dex	0	vit	0	mcha												
+899	Shadowed	+# to Assassin [Skill] ([Class] only)	100	1	0	81		80				1	213	236	3	251	280	8	0	8	10	9	0	8	10	blac	83	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadowed	skill-rand	dex	0	vit	0	mcha												
+900	Cataclysm	-#% to Enemy Fire Resistance	100	1	0	81		80				2	214	213	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Cataclysm	pierce-fire	0		0		0	mcha												
+901	Cataclysm	-#% to Enemy Lightning Resistance	100	1	0	81		80				2	214	214	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Cataclysm	pierce-ltng	0		0		0	mcha												
+902	Cataclysm	-#% to Enemy Cold Resistance	100	1	0	81		80				2	214	215	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Cataclysm	pierce-cold	0		0		0	mcha												
+903	Cataclysm	-#% to Enemy Poison Resistance	100	1	0	81		80				2	214	216	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Cataclysm	pierce-pois	0		0		0	mcha												
+904	Gaian	+#% to Fire Skill Damage	100	1	0	81		80				2	215	219	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Gaian	extra-fire	0		0		0	mcha												
+905	Gaian	+#% to Lightning Skill Damage	100	1	0	81		80				2	215	220	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Gaian	extra-ltng	0		0		0	mcha												
+906	Gaian	+#% to Cold Skill Damage	100	1	0	81		80				2	215	221	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Gaian	extra-cold	0		0		0	mcha												
+907	Gaian	+#% to Poison Skill Damage	100	1	0	81		80				2	215	222	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	Gaian	extra-pois	0		0		0	mcha												
+908	Jagged	+#% Enhanced Damage	100	1	0	20	50	10				24	104	29	0	5	10	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Jagged	dmg%	0		0		0	lcha												
+909	Forked	+#% Enhanced Damage	100	1	1	55		50				12	104	29	0	15	20	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Forked	dmg%	0		0		0	lcha												
+910	Serrated	+#% Enhanced Damage	100	1	1	81		75				6	104	29	0	30	45	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Serrated	dmg%	0		0		0	lcha												
+911	Bronze	+# to Attack Rating	100	1	0	1	20	1				24	110	15	0	6	12	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Bronze	att	0		0		0	lcha												
+912	Bronze	+# to Attack Rating	100	1	0	7	40	5				24	110	15	0	13	27	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Bronze	att	0		0		0	lcha												
+913	Bronze	+# to Attack Rating	100	1	0	13	50	10				24	110	15	0	28	42	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Bronze	att	0		0		0	lcha												
+914	Iron	+# to Attack Rating	100	1	0	19	75	15				12	110	15	0	43	57	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Iron	att	0		0		0	lcha												
+915	Iron	+# to Attack Rating	100	1	0	25		20				12	110	15	0	58	72	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Iron	att	0		0		0	lcha												
+916	Iron	+# to Attack Rating	100	1	0	31		25				12	110	15	0	73	87	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Iron	att	0		0		0	lcha												
+917	Steel	+# to Attack Rating	100	1	1	38		29				6	110	15	0	88	102	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Steel	att	0		0		0	lcha												
+918	Steel	+# to Attack Rating	100	1	1	45		40				6	110	15	0	103	117	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Steel	att	0		0		0	lcha												
+919	Steel	+# to Attack Rating	100	1	1	65		60				6	110	15	0	118	132	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Steel	att	0		0		0	lcha												
+920	Fine	+# to Attack Rating & +# to Maximum Damage	100	1	1	15	50	10				24	111	15	0	10	20	28	0	1	3	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Fine	att	0	dmg-max	0		0	lcha												
+921	Fine	+# to Attack Rating & +# to Maximum Damage	100	1	1	25	80	20				12	111	15	0	21	48	28	0	4	6	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Fine	att	0	dmg-max	0		0	lcha												
+922	Sharp	+# to Attack Rating & +# to Maximum Damage	100	1	1	55		50				6	111	15	0	49	76	28	0	7	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sharp	att	0	dmg-max	0		0	lcha												
+923	Red	+# to Minimum Damage	100	1	0	4	20	3				24	103	27	0	1	2	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Red	dmg-min	0		0		0	lcha												
+924	Red	+# to Minimum Damage	100	1	0	16	40	12				24	103	27	0	3	4	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Red	dmg-min	0		0		0	lcha												
+925	Sanguinary	+# to Minimum Damage	100	1	0	28		21				12	103	27	0	5	6	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sanguinary	dmg-min	0		0		0	lcha												
+926	Sanguinary	+# to Minimum Damage	100	1	0	40		32				12	103	27	0	7	8	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sanguinary	dmg-min	0		0		0	lcha												
+927	Bloody	+# to Minimum Damage	100	1	0	52		46				6	103	27	0	9	10	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Bloody	dmg-min	0		0		0	lcha												
+928	Jagged	+# to Maximum Damage	100	1	0	3	35	2				24	104	28	0	1	2	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Jagged	dmg-max	0		0		0	lcha												
+929	Jagged	+# to Maximum Damage	100	1	0	10	55	7				24	104	28	0	3	4	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Jagged	dmg-max	0		0		0	lcha												
+930	Jagged	+# to Maximum Damage	100	1	0	17	75	12				24	104	28	0	5	6	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Jagged	dmg-max	0		0		0	lcha												
+931	Forked	+# to Maximum Damage	100	1	0	25		18				24	104	28	0	7	8	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Forked	dmg-max	0		0		0	lcha												
+932	Forked	+# to Maximum Damage	100	1	1	32		24				12	104	28	0	9	10	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Forked	dmg-max	0		0		0	lcha												
+933	Serrated	+# to Maximum Damage	100	1	1	39		31				12	104	28	0	11	12	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Serrated	dmg-max	0		0		0	lcha												
+934	Serrated	+# to Maximum Damage	100	1	1	47		39				6	104	28	0	13	15	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Serrated	dmg-max	0		0		0	lcha												
+935	Red	+# to Minimum Damage & +# to Maximum Damage	100	1	0	29		26				24	103	27	0	1	3	28	0	4	9	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Red	dmg-min	0	dmg-max	0		0	lcha												
+936	Sanguinary	+# to Minimum Damage & +# to Maximum Damage	100	1	1	59		52				12	103	27	0	4	5	28	0	6	12	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sanguinary	dmg-min	0	dmg-max	0		0	lcha												
+937	Bloody	+# to Minimum Damage & +# to Maximum Damage	100	1	1	86		88				6	103	27	0	6	8	28	0	13	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Bloody	dmg-min	0	dmg-max	0		0	lcha												
+938	Stout	+# Defense	100	1	0	1	40	1				24	101	0	0	3	5	1	0	1	2	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stout	ac	0	ac-miss	0		0	lcha												
+939	Stout	+# Defense	100	1	0	7	50	5				24	101	0	0	6	10	1	0	2	4	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stout	ac	0	ac-miss	0		0	lcha												
+940	Stout	+# Defense	100	1	0	12	55	9				24	101	0	0	10	16	1	0	4	6	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stout	ac	0	ac-miss	0		0	lcha												
+941	Burly	+# Defense	100	1	0	17	70	12				24	101	0	0	16	22	1	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Burly	ac	0	ac-miss	0		0	lcha												
+942	Burly	+# Defense	100	1	0	22	75	16				12	101	0	0	26	34	1	0	10	14	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Burly	ac	0	ac-miss	0		0	lcha												
+943	Burly	+# Defense	100	1	0	27	80	20				12	101	0	0	42	52	1	0	16	22	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Burly	ac	0	ac-miss	0		0	lcha												
+944	Stalwart	+# Defense	100	1	0	32		24				12	101	0	0	56	70	1	0	22	30	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	ac-miss	0		0	lcha												
+945	Stalwart	+# Defense	100	1	0	37		29				12	101	0	0	68	80	1	0	30	38	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	ac-miss	0		0	lcha												
+946	Stalwart	+# Defense	100	1	0	42		34				6	101	0	0	80	96	1	0	42	52	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	ac-miss	0		0	lcha												
+947	Stalwart	+# Defense	100	1	1	55		48				6	101	0	0	92	104	1	0	50	62	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	ac-miss	0		0	lcha												
+948	Stalwart	+# Defense	100	1	1	69		65				3	101	0	0	106	122	1	0	58	70	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	ac-miss	0		0	lcha												
+949	Stalwart	+# Defense	100	1	1	81		75				3	101	0	0	118	139	1	0	66	78	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Stalwart	ac	0	ac-miss	0		0	lcha												
+950	Fletcher's	+# to Bow and Crossbow Skills	100	1	1	50		42	ama			2	125	124	0	1	1	8	0	5	10	9	0	5	10	oran	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Fletcher's	skilltab	dex	0	vit	0	lcha												
+951	Acrobat's	+# to Passive and Magic Skills	100	1	1	50		42	ama			2	125	124	1	1	1	8	0	5	10	9	0	5	10	oran	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Acrobat's	skilltab	dex	0	vit	0	lcha												
+952	Harpoonist's	+# to Javelin and Spear Skills	100	1	1	50		42	ama			2	125	124	2	1	1	8	0	5	10	9	0	5	10	oran	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Harpoonist's	skilltab	dex	0	vit	0	lcha												
+953	Burning	+# to Fire Skills	100	1	1	50		42	sor			2	125	124	3	1	1	10	0	5	10	9	0	5	10	cblu	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Burning	skilltab	enr	0	vit	0	lcha												
+954	Sparking	+# to Lightning Skills	100	1	1	50		42	sor			2	125	124	4	1	1	10	0	5	10	9	0	5	10	cblu	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sparking	skilltab	enr	0	vit	0	lcha												
+955	Chilling	+# to Cold Skills	100	1	1	50		42	sor			2	125	124	5	1	1	10	0	5	10	9	0	5	10	cblu	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Chilling	skilltab	enr	0	vit	0	lcha												
+956	Hexing	+# to Curses	100	1	1	50		42	nec			2	125	124	6	1	1	10	0	5	10	9	0	5	10	bwht	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Hexing	skilltab	enr	0	vit	0	lcha												
+957	Fungal	+# to Poison and Bone Skills	100	1	1	50		42	nec			2	125	124	7	1	1	10	0	5	10	9	0	5	10	bwht	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Fungal	skilltab	enr	0	vit	0	lcha												
+958	Graverobber's	+# to Summoning Skills	100	1	1	50		42	nec			2	125	124	8	1	1	10	0	5	10	9	0	5	10	bwht	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Graverobber's	skilltab	enr	0	vit	0	lcha												
+959	Lion Branded	+# to Combat Skills	100	1	1	50		42	pal			2	125	124	9	1	1	7	0	5	10	9	0	5	10	dyel	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lion Branded	skilltab	str	0	vit	0	lcha												
+960	Captain's	+# to Offensive Auras	100	1	1	50		42	pal			2	125	124	10	1	1	7	0	5	10	9	0	5	10	dyel	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Captain's	skilltab	str	0	vit	0	lcha												
+961	Preserver's	+# to Defensive Auras	100	1	1	50		42	pal			2	125	124	11	1	1	7	0	5	10	9	0	5	10	dyel	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Preserver's	skilltab	str	0	vit	0	lcha												
+962	Expert's	+# to Masteries	100	1	1	50		42	bar			2	125	124	12	1	1	7	0	5	10	9	0	5	10	dred	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Expert's	skilltab	str	0	vit	0	lcha												
+963	Fanatic	+# to Combat Skills	100	1	1	50		42	bar			2	125	124	13	1	1	7	0	5	10	9	0	5	10	dred	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Fanatic	skilltab	str	0	vit	0	lcha												
+964	Sounding	+# to Warcries	100	1	1	50		42	bar			2	125	124	14	1	1	7	0	5	10	9	0	5	10	dred	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sounding	skilltab	str	0	vit	0	lcha												
+965	Trainer's	+# to Summoning Skills	100	1	1	50		42	dru			2	125	124	15	1	1	8	0	5	10	9	0	5	10	dgrn	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Trainer's	skilltab	dex	0	vit	0	lcha												
+966	Spiritual	+# to Shape Shifting Skills	100	1	1	50		42	dru			2	125	124	16	1	1	8	0	5	10	9	0	5	10	dgrn	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Spiritual	skilltab	dex	0	vit	0	lcha												
+967	Nature's	+# to Elemental Skills	100	1	1	50		42	dru			2	125	124	17	1	1	8	0	5	10	9	0	5	10	dgrn	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Nature's	skilltab	dex	0	vit	0	lcha												
+968	Entrapping	+# to Traps	100	1	1	50		42	ass			2	125	124	18	1	1	8	0	5	10	9	0	5	10	blac	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Entrapping	skilltab	dex	0	vit	0	lcha												
+969	Mentalist's	+# to Shadow Disciplines	100	1	1	50		42	ass			2	125	124	19	1	1	8	0	5	10	9	0	5	10	blac	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Mentalist's	skilltab	dex	0	vit	0	lcha												
+970	Shogukusha's	+# to Martial Arts	100	1	1	50		42	ass			2	125	124	20	1	1	8	0	5	10	9	0	5	10	blac	84	0	0	0	0	0	0	0	0	0	0	0	0	0	Shogukusha's	skilltab	dex	0	vit	0	lcha												
+971	Snowflake	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	9	20	6				24	137	19	0	25	25	17	0	2	4	18	0	4	5		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Snowflake	cold-len	0	cold-min	0	cold-max	0	lcha												
+972	Shivering	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	0	15		11				24	137	19	0	25	25	17	0	4	6	18	0	6	8		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Shivering	cold-len	0	cold-min	0	cold-max	0	lcha												
+973	Boreal	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	0	30		22				12	137	19	0	25	25	17	0	6	8	18	0	10	15		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Boreal	cold-len	0	cold-min	0	cold-max	0	lcha												
+974	Boreal	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	30		22				12	137	19	0	25	25	17	0	8	10	18	0	12	18		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Boreal	cold-len	0	cold-min	0	cold-max	0	lcha												
+975	Boreal	Cold Length # of Frames (25 Frames = 1 Second) & +# to Minimum Cold Damage & +# to Maximum Cold Damage	100	1	1	30		22				6	137	19	0	25	25	17	0	12	14	18	0	20	25		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Boreal	cold-len	0	cold-min	0	cold-max	0	lcha												
+976	Ember	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	5	20	3				24	138	20	0	2	4	21	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Ember	fire-min	0	fire-max	0		0	lcha												
+977	Smoldering	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	15		11				12	138	20	0	4	6	21	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Smoldering	fire-min	0	fire-max	0		0	lcha												
+978	Smoking	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	28		21				12	138	20	0	6	8	21	0	12	18	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Smoking	fire-min	0	fire-max	0		0	lcha												
+979	Flaming	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	43		35				6	138	20	0	10	15	21	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Flaming	fire-min	0	fire-max	0		0	lcha												
+980	Static	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	7	20	5				24	139	22	0	2	4	23	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Static	ltng-min	0	ltng-max	0		0	lcha												
+981	Glowing	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	14		10				12	139	22	0	4	6	23	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Glowing	ltng-min	0	ltng-max	0		0	lcha												
+982	Arcing	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	29		21				12	139	22	0	6	8	23	0	12	18	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Arcing	ltng-min	0	ltng-max	0		0	lcha												
+983	Shocking	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	44		36				6	139	22	0	10	15	23	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Shocking	ltng-min	0	ltng-max	0		0	lcha												
+984	Septic	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	10	20	1				24	140	134	75	220	280	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Septic	dmg-pois		0		0	lcha												
+985	Envenomed	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	25		9				12	140	134	75	280	360	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Envenomed	dmg-pois		0		0	lcha												
+986	Toxic	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	40		20				12	140	134	100	360	480	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Toxic	dmg-pois		0		0	lcha												
+987	Pestilent	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	55		34				6	140	134	125	480	560	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Pestilent	dmg-pois		0		0	lcha												
+988	Avatar	Adds #-# Fire/Lightning/Cold Damage	100	1	0	45	40	45				6	141	223	0	10	20	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Avatar	dmg-elem	0		0		0	lcha												
+989	Avatar	Adds #-# Fire/Lightning/Cold Damage	100	1	1	65		65				6	141	223	0	20	40	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Avatar	dmg-elem	0		0		0	lcha												
+990	Avatar	Adds #-# Fire/Lightning/Cold Damage	100	1	1	85		85				6	141	223	0	40	60	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Avatar	dmg-elem	0		0		0	lcha												
+991	Hulking	Adds #-# Damage	100	0	0	45	40	45				6	143	136	0	10	20	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Hulking	dmg-norm	0		0		0	lcha												
+992	Hulking	Adds #-# Damage	100	0	1	65		65				6	143	136	0	20	40	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Hulking	dmg-norm	0		0		0	lcha												
+993	Hulking	Adds #-# Damage	100	0	1	85		85				6	143	136	0	40	60	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Hulking	dmg-norm	0		0		0	lcha												
+994	Azure	Cold Resist +#%	100	1	0	10	55	10				24	117	35	0	7	15	133	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Azure	res-cold	0	dmg-cold	0		0	lcha												
+995	Lapis	Cold Resist +#%	100	1	0	25		20				12	117	35	0	16	20	133	0	15	20	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lapis	res-cold	0	dmg-cold	0		0	lcha												
+996	Cobalt	Cold Resist +#%	100	1	1	45		40				6	117	35	0	21	25	133	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Cobalt	res-cold	0	dmg-cold	0		0	lcha												
+997	Sapphire	Cold Resist +#%	100	1	1	60		55				3	117	35	0	26	30	133	0	25	30	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Sapphire	res-cold	0	dmg-cold	0		0	lcha												
+998	Crimson	Fire Resist +#%	100	1	0	10	55	10				24	118	31	0	7	15	130	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Crimson	res-fire	0	dmg-fire	0		0	lcha												
+999	Russet	Fire Resist +#%	100	1	0	25		20				12	118	31	0	16	20	130	0	15	20	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Russet	res-fire	0	dmg-fire	0		0	lcha												
+1000	Garnet	Fire Resist +#%	100	1	1	45		40				6	118	31	0	21	25	130	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Garnet	res-fire	0	dmg-fire	0		0	lcha												
+1001	Ruby	Fire Resist +#%	100	1	1	60		55				3	118	31	0	26	30	130	0	25	30	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Ruby	res-fire	0	dmg-fire	0		0	lcha												
+1002	Tangerine	Lightning Resist +#%	100	1	0	10	55	10				24	119	33	0	7	15	131	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Tangerine	res-ltng	0	dmg-ltng	0		0	lcha												
+1003	Ocher	Lightning Resist +#%	100	1	0	25		20				12	119	33	0	16	20	131	0	15	20	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Ocher	res-ltng	0	dmg-ltng	0		0	lcha												
+1004	Coral	Lightning Resist +#%	100	1	1	45		40				6	119	33	0	21	25	131	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Coral	res-ltng	0	dmg-ltng	0		0	lcha												
+1005	Amber	Lightning Resist +#%	100	1	1	60		55				3	119	33	0	26	30	131	0	25	30	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Amber	res-ltng	0	dmg-ltng	0		0	lcha												
+1006	Beryl	Poison Resist +#%	100	1	0	10	55	10				24	120	39	0	7	15	134	75	50	50	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Beryl	res-pois	0	dmg-pois		0	lcha												
+1007	Viridian	Poison Resist +#%	100	1	0	25		20				12	120	39	0	16	20	134	75	75	75	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Viridian	res-pois	0	dmg-pois		0	lcha												
+1008	Jade	Poison Resist +#%	100	1	1	45		40				6	120	39	0	21	25	134	75	100	100	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Jade	res-pois	0	dmg-pois		0	lcha												
+1009	Emerald	Poison Resist +#%	100	1	1	60		55				3	120	39	0	26	30	134	75	125	125	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Emerald	res-pois	0	dmg-pois		0	lcha												
+1010	Shimmering	All Resistances +#	100	1	0	25	55	20				10	116	41	0	3	6	223	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0	dmg-elem	0		0	lcha												
+1011	Shimmering	All Resistances +#	100	1	1	45		40				5	116	41	0	8	12	223	0	15	20	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0	dmg-elem	0		0	lcha												
+1012	Shimmering	All Resistances +#	100	1	1	65		60				1	116	41	0	13	15	223	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0	dmg-elem	0		0	lcha												
+1013	Lizard's	+# to Mana	100	1	0	1	20	1				24	115	11	0	3	7	62	0	5	5	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lizard's	mana	0	regen-mana	0		0	lcha												
+1014	Lizard's	+# to Mana	100	1	0	7	35	5				24	115	11	0	8	13	62	0	5	5	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lizard's	mana	0	regen-mana	0		0	lcha												
+1015	Lizard's	+# to Mana	100	1	0	15	45	10				24	115	11	0	14	20	62	0	5	5	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lizard's	mana	0	regen-mana	0		0	lcha												
+1016	Snake's	+# to Mana	100	1	0	24	60	20				12	115	11	0	21	26	62	0	7	7	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Snake's	mana	0	regen-mana	0		0	lcha												
+1017	Snake's	+# to Mana	100	1	0	31	70	30				12	115	11	0	27	33	62	0	7	7	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Snake's	mana	0	regen-mana	0		0	lcha												
+1018	Snake's	+# to Mana	100	1	0	40	80	40				12	115	11	0	34	39	62	0	7	7	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Snake's	mana	0	regen-mana	0		0	lcha												
+1019	Serpent's	+# to Mana	100	1	1	48		50				6	115	11	0	40	46	62	0	10	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Serpent's	mana	0	regen-mana	0		0	lcha												
+1020	Serpent's	+# to Mana	100	1	1	60		65				6	115	11	0	47	52	62	0	10	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Serpent's	mana	0	regen-mana	0		0	lcha												
+1021	Serpent's	+# to Mana	100	1	1	81		85				3	115	11	0	53	59	62	0	10	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Serpent's	mana	0	regen-mana	0		0	lcha												
+1022	Lucky	#% Better Chance of Getting Magic Items	100	1	0	21	50	10				24	114	59	0	10	15	58	0	20	30	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lucky	mag%	0	gold%	0		0	lcha												
+1023	Lucky	#% Better Chance of Getting Magic Items	100	1	1	38		35				12	114	59	0	15	20	58	0	30	40	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lucky	mag%	0	gold%	0		0	lcha												
+1024	Lucky	#% Better Chance of Getting Magic Items	100	1	1	55		50				6	114	59	0	20	25	58	0	40	50	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	Lucky	mag%	0	gold%	0		0	lcha												

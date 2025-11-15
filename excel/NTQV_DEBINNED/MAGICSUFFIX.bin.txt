@@ -1,0 +1,733 @@
+INDEX	Name	___ Description	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add	code	mod1code__STR	mod1param__STR	mod2code__STR	mod2param__STR	mod3code__STR	mod3param__STR	itype1__STR	itype2__STR	itype3__STR	itype4__STR	itype5__STR	itype6__STR	itype7__STR	etype1__STR	etype2__STR	etype3__STR	etype4__STR	etype5__STR	
+1	of Defense1	+# Defense & +#% Enhanced Damage	100	1	1	12		8				60	61	0	0	5	10	-1	0	0	0	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of Defense1	ac	0		0		0	ring	amul											
+2	of Defense1	+# Defense & +#% Enhanced Damage	100	1	1	33		27				60	61	0	0	11	25	-1	0	0	0	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of Defense1	ac	0		0		0	ring	amul											
+3	of Guarding	+# Defense & +#% Enhanced Damage	100	1	1	51		46				60	61	0	0	26	50	-1	0	0	0	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of Guarding	ac	0		0		0	ring	amul											
+4	of Craftsmanship	+# to Maximum Damage	100	1	1	1	55	1				96	14	28	0	1	2	-1	0	0	0	-1	0	0	0		12	10	0	0	0	0	0	0	0	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	amul	ring											
+5	of Craftsmanship	+# to Maximum Damage	100	1	1	22		19				96	14	28	0	3	4	-1	0	0	0	-1	0	0	0		12	10	0	0	0	0	0	0	0	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	amul	ring											
+6	of Quality	+# to Maximum Damage	100	1	1	53		49				96	14	28	0	5	7	-1	0	0	0	-1	0	0	0		12	10	0	0	0	0	0	0	0	0	0	0	0	0	of Quality	dmg-max	0		0		0	amul	ring											
+7	of Quality	+# to Maximum Damage	100	1	1	77		61				96	14	28	0	8	10	-1	0	0	0	-1	0	0	0		12	10	0	0	0	0	0	0	0	0	0	0	0	0	of Quality	dmg-max	0		0		0	amul	ring											
+8	of Craftsmanship	+# to Maximum Damage	100	1	1	1	20	1				192	14	28	0	1	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	weap							wand	orb				
+9	of Quality	+# to Maximum Damage	100	1	1	4	30	3				192	14	28	0	3	4	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Quality	dmg-max	0		0		0	weap							wand	orb				
+10	of Maiming	+# to Maximum Damage	100	1	1	7	40	5				192	14	28	0	5	6	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Maiming	dmg-max	0		0		0	weap							wand	orb				
+11	of Slaying	+# to Maximum Damage	100	1	1	11	55	8				192	14	28	0	7	8	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Slaying	dmg-max	0		0		0	weap							wand	orb				
+12	of Gore	+# to Maximum Damage	100	1	1	14	65	10				192	14	28	0	9	10	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Gore	dmg-max	0		0		0	weap							wand	orb				
+13	of Carnage	+# to Maximum Damage	100	1	1	19	80	14				176	14	28	0	11	14	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Carnage	dmg-max	0		0		0	weap							wand	orb				
+14	of Slaughter	+# to Maximum Damage	100	1	1	25		18				168	14	28	0	15	20	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Slaughter	dmg-max	0		0		0	weap							wand	orb				
+15	of Butchery	+# to Maximum Damage	100	1	1	35		27				160	14	28	0	21	40	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Butchery	dmg-max	0		0		0	weap							wand	orb				
+16	of Evisceration	+# to Maximum Damage	100	1	1	45		37				144	14	28	0	41	63	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Evisceration	dmg-max	0		0		0	weap							wand	orb				
+17	of Evisceration	+# to Maximum Damage	100	1	1	60		50				128	14	28	0	64	80	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	26	68	0	0	0	0	of Evisceration	dmg-max	0		0		0	weap							wand	staf	orb			
+18	of Evisceration	+# to Maximum Damage	100	1	1	73		65				112	14	28	0	81	100	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	26	68	0	0	0	0	of Evisceration	dmg-max	0		0		0	weap							wand	staf	orb			
+19	of Evisceration	+# to Maximum Damage	100	1	1	85		79				88	14	28	0	101	120	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	25	26	68	0	0	0	0	of Evisceration	dmg-max	0		0		0	weap							wand	staf	orb			
+20	of Maiming	+# to Maximum Damage	100	1	1	42		34				48	14	28	0	1	4	-1	0	0	0	-1	0	0	0		51	0	0	0	0	0	0	0	0	0	0	0	0	0	of Maiming	dmg-max	0		0		0	shld												
+21	of Maiming	+# to Maximum Damage	100	1	1	65		51				36	14	28	0	5	8	-1	0	0	0	-1	0	0	0		51	0	0	0	0	0	0	0	0	0	0	0	0	0	of Maiming	dmg-max	0		0		0	shld												
+22	of Maiming	+# to Maximum Damage	100	1	1	80		68				36	14	28	0	9	12	-1	0	0	0	-1	0	0	0		51	0	0	0	0	0	0	0	0	0	0	0	0	0	of Maiming	dmg-max	0		0		0	shld												
+23	of Craftsmanship	+# to Maximum Damage	100	1	1	1	7	1				48	14	28	0	1	2	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	circ												
+24	of Craftsmanship	+# to Maximum Damage	100	1	1	12	14	10				48	14	28	0	2	3	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	circ												
+25	of Craftsmanship	+# to Maximum Damage	100	1	1	24	29	22				48	14	28	0	4	5	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	circ												
+26	of Quality	+# to Maximum Damage	100	1	1	37		35				48	14	28	0	6	7	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Quality	dmg-max	0		0		0	circ												
+27	of Quality	+# to Maximum Damage	100	1	1	48		46				48	14	28	0	8	9	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Quality	dmg-max	0		0		0	circ												
+28	of Maiming	+# to Maximum Damage	100	1	1	66		62				48	14	28	0	10	12	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Maiming	dmg-max	0		0		0	circ												
+29	of Maiming	+# to Maximum Damage	100	1	1	79		74				48	14	28	0	13	15	-1	0	0	0	-1	0	0	0		75	0	0	0	0	0	0	0	0	0	0	0	0	0	of Maiming	dmg-max	0		0		0	circ												
+30	of Ire	+# to Maximum Damage	100	1	1	4		3				48	14	28	0	2	5	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Ire	dmg-max	0		0		0	jewl												
+31	of Wrath	+# to Maximum Damage	100	1	1	16		11				48	14	28	0	6	9	-1	0	0	0	-1	0	0	0	blac	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Wrath	dmg-max	0		0		0	jewl												
+32	of Carnage	+# to Maximum Damage	100	1	1	35		30				48	14	28	0	10	15	-1	0	0	0	-1	0	0	0	blac	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Carnage	dmg-max	0		0		0	jewl												
+33	of Carnage	+# to Maximum Damage	100	1	1	67		55				48	14	28	0	16	20	-1	0	0	0	-1	0	0	0	blac	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Carnage	dmg-max	0		0		0	jewl												
+34	of Worth	+# to Minimum Damage	100	1	1	1	20	1				96	15	27	0	1	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Worth	dmg-min	0		0		0	weap							orb	wand				
+35	of Measure	+# to Minimum Damage	100	1	1	12	30	9				84	15	27	0	3	4	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Measure	dmg-min	0		0		0	weap							orb	wand				
+36	of Excellence	+# to Minimum Damage	100	1	1	24	45	18				72	15	27	0	5	8	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Excellence	dmg-min	0		0		0	weap							orb	wand				
+37	of Performance	+# to Minimum Damage	100	1	1	48	55	40				60	15	27	0	9	14	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Performance	dmg-min	0		0		0	weap							orb	wand				
+38	of Transcendence	+# to Minimum Damage	100	1	1	76	65	68				48	15	27	0	15	20	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Transcendence	dmg-min	0		0		0	weap							orb	wand				
+39	of Transcendence	+# to Minimum Damage	100	1	1	82		75				36	15	27	0	30	40	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Transcendence	dmg-min	0		0		0	weap							orb	wand				
+40	of Transcendence	+# to Minimum Damage	100	1	1	85		83				24	15	27	0	50	60	-1	0	0	0	-1	0	0	0	blac	45	0	0	0	0	0	0	68	25	0	0	0	0	0	of Transcendence	dmg-min	0		0		0	weap							orb	wand				
+41	of Worth	+# to Minimum Damage	100	1	1	15		11				32	15	27	0	2	3	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	of Worth	dmg-min	0		0		0	ring	amul	circ										
+42	of Measure	+# to Minimum Damage	100	1	1	37		29				32	15	27	0	4	5	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	of Measure	dmg-min	0		0		0	ring	amul	circ										
+43	of Excellence	+# to Minimum Damage	100	1	1	59		51				32	15	27	0	6	9	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	of Excellence	dmg-min	0		0		0	ring	amul	circ										
+44	of Performance	+# to Minimum Damage	100	1	1	81		73				32	15	27	0	10	13	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	of Performance	dmg-min	0		0		0	ring	amul	circ										
+45	of Joyfulness	+# to Minimum Damage	100	1	1	5	50	3				32	15	27	0	1	4	-1	0	0	0	-1	0	0	0	whit	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Joyfulness	dmg-min	0		0		0	jewl												
+46	of Bliss	+# to Minimum Damage	100	1	1	43		37				32	15	27	0	5	10	-1	0	0	0	-1	0	0	0	whit	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Bliss	dmg-min	0		0		0	jewl												
+47	of Frost	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	4	35	3				60	10	17	0	1	1	18	0	1	2	19	0	50	50		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Frost	cold-min	0	cold-max	0	cold-len	0	weap							wand	orb				
+48	of the Icicle	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	13	50	9				48	10	17	0	1	1	18	0	3	4	19	0	75	75		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of the Icicle	cold-min	0	cold-max	0	cold-len	0	weap							wand	orb				
+49	of the Glacier	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	27	70	20				36	10	17	0	2	4	18	0	4	15	19	0	100	100	dblu	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of the Glacier	cold-min	0	cold-max	0	cold-len	0	weap							wand	orb				
+50	of Winter	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	45		37				24	10	17	0	5	9	18	0	16	50	19	0	150	150	dblu	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Winter	cold-min	0	cold-max	0	cold-len	0	weap							wand	orb				
+51	of Winter	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	60		50				12	10	17	0	20	30	18	0	75	100	19	0	150	150	dblu	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Winter	cold-min	0	cold-max	0	cold-len	0	weap							wand	orb				
+52	of Winter	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	80		75				12	10	17	0	35	45	18	0	100	150	19	0	150	150	dblu	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Winter	cold-min	0	cold-max	0	cold-len	0	weap							wand	orb				
+53	of Frost	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	55		41				24	10	17	0	1	1	18	0	3	6	19	0	75	75	dblu	19	12	0	0	0	0	0	0	0	0	0	0	0	0	of Frost	cold-min	0	cold-max	0	cold-len	0	belt	amul											
+54	of Frigidity	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	65		55				24	10	17	0	1	1	18	0	7	10	19	0	100	100	dblu	19	12	0	0	0	0	0	0	0	0	0	0	0	0	of Frigidity	cold-min	0	cold-max	0	cold-len	0	belt	amul											
+55	of the Icicle	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	75		68				24	10	17	0	2	3	18	0	11	15	19	0	125	125	dblu	19	12	0	0	0	0	0	0	0	0	0	0	0	0	of the Icicle	cold-min	0	cold-max	0	cold-len	0	belt	amul											
+56	of the Glacier	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	85		81				24	10	17	0	4	5	18	0	16	25	19	0	150	150	dblu	19	12	0	0	0	0	0	0	0	0	0	0	0	0	of the Glacier	cold-min	0	cold-max	0	cold-len	0	belt	amul											
+57	of Frigidity	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	16		12				24	10	17	0	1	1	18	0	3	5	19	0	50	50	dblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frigidity	cold-min	0	cold-max	0	cold-len	0	jewl												
+58	of the Icicle	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	37		29				24	10	17	0	2	3	18	0	6	10	19	0	75	75	dblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Icicle	cold-min	0	cold-max	0	cold-len	0	jewl												
+59	of the Glacier	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	58		50				24	10	17	0	4	5	18	0	11	15	19	0	100	100	dblu	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Glacier	cold-min	0	cold-max	0	cold-len	0	jewl												
+60	of Flame	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	4	35	3				60	12	20	0	1	1	21	0	2	5	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Flame	fire-min	0	fire-max	0		0	weap							wand	orb				
+61	of Fire	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	15	50	11				48	12	20	0	1	4	21	0	6	11	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Fire	fire-min	0	fire-max	0		0	weap							wand	orb				
+62	of Burning	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	25	70	18				36	12	20	0	5	9	21	0	10	20	-1	0	0	0	dred	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Burning	fire-min	0	fire-max	0		0	weap							wand	orb				
+63	of Incineration	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	43		35				24	12	20	0	10	20	21	0	21	75	-1	0	0	0	dred	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Incineration	fire-min	0	fire-max	0		0	weap							wand	orb				
+64	of Incineration	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	60		50				12	12	20	0	40	60	21	0	170	200	-1	0	0	0	dred	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Incineration	fire-min	0	fire-max	0		0	weap							wand	orb				
+65	of Incineration	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	80		75				12	12	20	0	75	100	21	0	200	250	-1	0	0	0	dred	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Incineration	fire-min	0	fire-max	0		0	weap							wand	orb				
+66	of Flame	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	40		30				24	12	20	0	1	1	21	0	2	5	-1	0	0	0	dred	16	10	12	0	0	0	0	0	0	0	0	0	0	0	of Flame	fire-min	0	fire-max	0		0	glov	ring	amul										
+67	of Passion	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	55		51				24	12	20	0	1	3	21	0	6	10	-1	0	0	0	dred	16	10	12	0	0	0	0	0	0	0	0	0	0	0	of Passion	fire-min	0	fire-max	0		0	glov	ring	amul										
+68	of Fire	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	65		62				24	12	20	0	4	10	21	0	11	30	-1	0	0	0	dred	16	10	12	0	0	0	0	0	0	0	0	0	0	0	of Fire	fire-min	0	fire-max	0		0	glov	ring	amul										
+69	of Burning	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	80		74				24	12	20	0	11	25	21	0	31	50	-1	0	0	0	dred	16	10	12	0	0	0	0	0	0	0	0	0	0	0	of Burning	fire-min	0	fire-max	0		0	glov	ring	amul										
+70	of Passion	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	15		11				24	12	20	0	1	3	21	0	6	10	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Passion	fire-min	0	fire-max	0		0	jewl												
+71	of Fire	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	36		28				24	12	20	0	4	10	21	0	11	30	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire	fire-min	0	fire-max	0		0	jewl												
+72	of Burning	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	57		49				24	12	20	0	11	25	21	0	31	50	-1	0	0	0	dred	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Burning	fire-min	0	fire-max	0		0	jewl												
+73	of Shock	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	4	35	3				60	13	22	0	1	1	23	0	6	8	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Shock	ltng-min	0	ltng-max	0		0	weap							wand	orb				
+74	of Lightning	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	15	50	11				48	13	22	0	1	1	23	0	9	16	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Lightning	ltng-min	0	ltng-max	0		0	weap							wand	orb				
+75	of Thunder	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	25	70	18				36	13	22	0	1	1	23	0	17	40	-1	0	0	0	dyel	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Thunder	ltng-min	0	ltng-max	0		0	weap							wand	orb				
+76	of Storms	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	34		26				24	13	22	0	1	6	23	0	41	120	-1	0	0	0	dyel	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Storms	ltng-min	0	ltng-max	0		0	weap							wand	orb				
+77	of Storms	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	50		49				12	13	22	0	1	12	23	0	250	300	-1	0	0	0	dyel	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Storms	ltng-min	0	ltng-max	0		0	weap							wand	orb				
+78	of Storms	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	75		68				12	13	22	0	1	20	23	0	300	350	-1	0	0	0	dyel	45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Storms	ltng-min	0	ltng-max	0		0	weap							wand	orb				
+79	of Shock	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	50		37				24	13	22	0	1	1	23	0	11	23	-1	0	0	0		15	10	12	0	0	0	0	0	0	0	0	0	0	0	of Shock	ltng-min	0	ltng-max	0		0	boot	ring	amul										
+80	of Lightning	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	65		57				24	13	22	0	1	1	23	0	24	50	-1	0	0	0	dyel	15	10	12	0	0	0	0	0	0	0	0	0	0	0	of Lightning	ltng-min	0	ltng-max	0		0	boot	ring	amul										
+81	of Thunder	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	75		70				24	13	22	0	1	1	23	0	51	75	-1	0	0	0	dyel	15	10	12	0	0	0	0	0	0	0	0	0	0	0	of Thunder	ltng-min	0	ltng-max	0		0	boot	ring	amul										
+82	of Storms	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	86		80				24	13	22	0	1	1	23	0	76	100	-1	0	0	0	dyel	15	10	12	0	0	0	0	0	0	0	0	0	0	0	of Storms	ltng-min	0	ltng-max	0		0	boot	ring	amul										
+83	of Ennui	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	15		11				24	13	22	0	1	1	23	0	10	20	-1	0	0	0	dyel	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Ennui	ltng-min	0	ltng-max	0		0	jewl												
+84	of Lightning	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	36		28				24	13	22	0	1	1	23	0	21	60	-1	0	0	0	dyel	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning	ltng-min	0	ltng-max	0		0	jewl												
+85	of Thunder	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	57		49				24	13	22	0	1	1	23	0	61	100	-1	0	0	0	dyel	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Thunder	ltng-min	0	ltng-max	0		0	jewl												
+86	of Blight	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	5	35	3				60	16	134	75	24	24	-1	0	0	0	-1	0	0	0		45	75	0	0	0	0	0	55	68	0	0	0	0	0	of Blight	dmg-pois		0		0	weap	circ						rod	orb				
+87	of Venom	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	15	50	11				48	16	134	100	54	54	-1	0	0	0	-1	0	0	0		45	75	0	0	0	0	0	55	68	0	0	0	0	0	of Venom	dmg-pois		0		0	weap	circ						rod	orb				
+88	of Pestilence	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	25	70	18				36	16	134	125	103	103	-1	0	0	0	-1	0	0	0	dgrn	45	75	0	0	0	0	0	55	68	0	0	0	0	0	of Pestilence	dmg-pois		0		0	weap	circ						rod	orb				
+89	of Anthrax	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	33		25				24	16	134	150	171	171	-1	0	0	0	-1	0	0	0	dgrn	45	75	0	0	0	0	0	55	68	0	0	0	0	0	of Anthrax	dmg-pois		0		0	weap	circ						rod	orb				
+90	of Blight	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	45		33				24	16	134	75	171	171	-1	0	0	0	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of Blight	dmg-pois		0		0	ring	amul											
+91	of Venom	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	65		55				12	16	134	75	266	266	-1	0	0	0	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of Venom	dmg-pois		0		0	ring	amul											
+92	of Blight	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	85		72				12	16	134	75	377	377	-1	0	0	0	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of Blight	dmg-pois		0		0	ring	amul											
+93	of Anthrax	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	1		1				24	16	134	50	103	103	-1	0	0	0	-1	0	0	0	dgrn	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Anthrax	dmg-pois		0		0	jewl												
+94	of Anthrax	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	44		33				24	16	134	50	206	206	-1	0	0	0	-1	0	0	0	dgrn	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Anthrax	dmg-pois		0		0	jewl												
+95	of Anthrax	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	77		66				24	16	134	50	309	309	-1	0	0	0	-1	0	0	0	dgrn	58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Anthrax	dmg-pois		0		0	jewl												
+96	of Warmth	Half Freeze Duration	100	1	1	10		7				48	11	95	0	1	1	-1	0	0	0	-1	0	0	0		51	15	16	10	12	75	68	0	0	0	0	0	0	0	of Warmth	half-freeze	0		0		0	shld	boot	glov	ring	amul	circ	orb						
+97	of Warmth	Cannot Be Frozen	100	1	1	77		69				24	11	115	0	1	1	-1	0	0	0	-1	0	0	0		51	15	16	10	12	75	68	0	0	0	0	0	0	0	of Warmth	nofreeze	0		0		0	shld	boot	glov	ring	amul	circ	orb						
+98	of Defiance	Poison Length Reduced by #%	100	1	1	44		39				24	29	88	0	75	90	-1	0	0	0	-1	0	0	0	dred	3	51	12	75	0	0	0	0	0	0	0	0	0	0	of Defiance	res-pois-len	0		0		0	tors	shld	amul	circ									
+99	of Amelioration	Poison Length Reduced by #%	100	1	1	25		18				36	29	88	0	50	74	-1	0	0	0	-1	0	0	0		3	51	12	75	0	0	0	0	0	0	0	0	0	0	of Amelioration	res-pois-len	0		0		0	tors	shld	amul	circ									
+100	of Remedy	Poison Length Reduced by #%	100	1	1	18	50	13				36	29	88	0	25	49	-1	0	0	0	-1	0	0	0		50	10	12	75	0	0	0	0	0	0	0	0	0	0	of Remedy	res-pois-len	0		0		0	armo	ring	amul	circ									
+101	of Remedy	Poison Length Reduced by #%	100	1	1	1	25	1				36	29	88	0	10	24	-1	0	0	0	-1	0	0	0		50	10	12	75	0	0	0	0	0	0	0	0	0	0	of Remedy	res-pois-len	0		0		0	armo	ring	amul	circ									
+102	of the Leech	#% Life stolen per hit	100	1	1	6		4				84	27	66	0	4	5	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	of the Leech	lifesteal	0		0		0	weap							orb					
+103	of the Locust	#% Life stolen per hit	100	1	1	20		15				84	27	66	0	6	7	-1	0	0	0	-1	0	0	0	cred	45	0	0	0	0	0	0	68	0	0	0	0	0	0	of the Locust	lifesteal	0		0		0	weap							orb					
+104	of the Lamprey	#% Life stolen per hit	100	1	1	55		43				84	27	66	0	8	9	-1	0	0	0	-1	0	0	0	cred	46	0	0	0	0	0	0	68	0	0	0	0	0	0	of the Lamprey	lifesteal	0		0		0	mele							orb					
+105	of the Leech	#% Life stolen per hit	100	1	1	14		10				48	27	66	0	3	4	-1	0	0	0	-1	0	0	0		10	75	0	0	0	0	0	0	0	0	0	0	0	0	of the Leech	lifesteal	0		0		0	ring	circ											
+106	of the Locust	#% Life stolen per hit	100	1	1	47		35				48	27	66	0	5	6	-1	0	0	0	-1	0	0	0		10	75	0	0	0	0	0	0	0	0	0	0	0	0	of the Locust	lifesteal	0		0		0	ring	circ											
+107	of the Lamprey	#% Life stolen per hit	100	1	1	77		65				48	27	66	0	7	8	-1	0	0	0	-1	0	0	0	cred	10	75	0	0	0	0	0	0	0	0	0	0	0	0	of the Lamprey	lifesteal	0		0		0	ring	circ											
+108	of the Leech	#% Life stolen per hit	100	1	1	34		26				48	27	66	0	3	3	-1	0	0	0	-1	0	0	0	cred	16	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Leech	lifesteal	0		0		0	glov												
+109	of the Leech	#% Life stolen per hit	100	1	1	24		20				24	27	66	0	2	3	-1	0	0	0	-1	0	0	0		12	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Leech	lifesteal	0		0		0	amul												
+110	of the Locust	#% Life stolen per hit	100	1	1	57		45				24	27	66	0	4	5	-1	0	0	0	-1	0	0	0		12	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Locust	lifesteal	0		0		0	amul												
+111	of the Lamprey	#% Life stolen per hit	100	1	1	85		73				24	27	66	0	6	6	-1	0	0	0	-1	0	0	0	cred	12	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Lamprey	lifesteal	0		0		0	amul												
+112	of the Bat	#% Mana stolen per hit	100	1	1	7		4				84	28	65	0	4	5	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	68	0	0	0	0	0	0	of the Bat	manasteal	0		0		0	weap							orb					
+113	of the Wraith	#% Mana stolen per hit	100	1	1	21		16				84	28	65	0	6	7	-1	0	0	0	-1	0	0	0	cred	45	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Wraith	manasteal	0		0		0	weap												
+114	of the Vampire	#% Mana stolen per hit	100	1	1	56		48				84	28	65	0	8	9	-1	0	0	0	-1	0	0	0	cred	46	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Vampire	manasteal	0		0		0	mele												
+115	of the Bat	#% Mana stolen per hit	100	1	1	15		11				48	28	65	0	3	4	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	of the Bat	manasteal	0		0		0	amul	circ											
+116	of the Wraith	#% Mana stolen per hit	100	1	1	58		40				48	28	65	0	5	6	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	of the Wraith	manasteal	0		0		0	amul	circ											
+117	of the Vampire	#% Mana stolen per hit	100	1	1	78		66				48	28	65	0	7	8	-1	0	0	0	-1	0	0	0	cred	12	75	0	0	0	0	0	0	0	0	0	0	0	0	of the Vampire	manasteal	0		0		0	amul	circ											
+118	of the Bat	#% Mana stolen per hit	100	1	1	35		27				48	28	65	0	3	3	-1	0	0	0	-1	0	0	0	cred	16	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Bat	manasteal	0		0		0	glov												
+119	of the Bat	#% Mana stolen per hit	100	1	1	25		21				24	28	65	0	2	3	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Bat	manasteal	0		0		0	ring												
+120	of the Wraith	#% Mana stolen per hit	100	1	1	58		46				24	28	65	0	4	5	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Wraith	manasteal	0		0		0	ring												
+121	of the Vampire	#% Mana stolen per hit	100	1	1	86		74				24	28	65	0	6	8	-1	0	0	0	-1	0	0	0	cred	10	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Vampire	manasteal	0		0		0	ring												
+122	of the Lich	#% Mana stolen per hit & #% Life stolen per hit	100	1	1	44		38				12	60	65	0	3	5	66	0	5	7	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of the Lich	manasteal	0	lifesteal	0		0	ring	amul											
+123	of the Lich	#% Mana stolen per hit & #% Life stolen per hit	100	1	1	66		60				12	60	65	0	6	7	66	0	8	9	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of the Lich	manasteal	0	lifesteal	0		0	ring	amul											
+124	of the Lich	#% Mana stolen per hit & #% Life stolen per hit	100	1	1	87		84				12	60	65	0	8	9	66	0	10	12	-1	0	0	0		10	12	0	0	0	0	0	0	0	0	0	0	0	0	of the Lich	manasteal	0	lifesteal	0		0	ring	amul											
+125	of Health	Damage Reduced by #	100	1	1	7	20	5				48	1	3	0	1	1	-1	0	0	0	-1	0	0	0		3	51	10	12	75	0	0	0	0	0	0	0	0	0	of Health	red-dmg	0		0		0	tors	shld	ring	amul	circ								
+126	of Protection	Damage Reduced by #	100	1	1	18	40	13				48	1	3	0	2	2	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	of Protection	red-dmg	0		0		0	ring	amul	circ										
+127	of Absorption	Damage Reduced by #	100	1	1	26	50	19				48	1	3	0	3	5	-1	0	0	0	-1	0	0	0		12	75	10	0	0	0	0	0	0	0	0	0	0	0	of Absorption	red-dmg	0		0		0	amul	circ	ring										
+128	of Life	Damage Reduced by #	100	1	1	35		26				48	1	3	0	6	10	-1	0	0	0	-1	0	0	0	dblu	12	75	10	0	0	0	0	0	0	0	0	0	0	0	of Life	red-dmg	0		0		0	amul	circ	ring										
+129	of Life Everlasting	Damage Reduced by #	100	1	1	45		37				48	1	3	0	10	25	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	of Life Everlasting	red-dmg	0		0		0	amul	circ											
+130	of Protection	Damage Reduced by #	100	1	1	24	25	18				48	1	3	0	2	3	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of Protection	red-dmg	0		0		0	tors	shld	circ										
+131	of Absorption	Damage Reduced by #	100	1	1	32	55	24				48	1	3	0	4	5	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of Absorption	red-dmg	0		0		0	tors	shld	circ										
+132	of Life	Damage Reduced by #	100	1	1	41		33				48	1	3	0	6	7	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of Life	red-dmg	0		0		0	tors	shld	circ										
+133	of Anima	Damage Reduced by #	100	1	1	51		43				48	1	3	0	8	15	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of Anima	red-dmg	0		0		0	tors	shld	circ										
+134	of Warding	Magic Damage Reduced by #	100	1	1	7	25	5				48	2	6	0	1	2	-1	0	0	0	-1	0	0	0		3	51	10	12	68	75	0	0	0	0	0	0	0	0	of Warding	red-mag	0		0		0	tors	shld	ring	amul	orb	circ							
+135	of the Sentinel	Magic Damage Reduced by #	100	1	1	18		12				48	2	6	0	3	4	-1	0	0	0	-1	0	0	0		10	12	68	75	0	0	0	0	0	0	0	0	0	0	of the Sentinel	red-mag	0		0		0	ring	amul	orb	circ									
+136	of Guarding	Magic Damage Reduced by #	100	1	1	26		19				48	2	6	0	5	6	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Guarding	red-mag	0		0		0	amul	orb	circ	ring									
+137	of Negation	Magic Damage Reduced by #	100	1	1	42		35				48	2	6	0	7	8	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Negation	red-mag	0		0		0	amul	orb	circ	ring									
+138	of the Sentinel	Magic Damage Reduced by #	100	1	1	24	40	18				48	2	6	0	2	4	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of the Sentinel	red-mag	0		0		0	tors	shld	circ										
+139	of Guarding	Magic Damage Reduced by #	100	1	1	32		24				48	2	6	0	5	8	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of Guarding	red-mag	0		0		0	tors	shld	circ										
+140	of Negation	Magic Damage Reduced by #	100	1	1	41		33				48	2	6	0	9	15	-1	0	0	0	-1	0	0	0		3	51	75	0	0	0	0	0	0	0	0	0	0	0	of Negation	red-mag	0		0		0	tors	shld	circ										
+141	of Warding	Magic Resist +#%	100	1	1	26	37	19				48	2	37	0	2	5	-1	0	0	0	-1	0	0	0		3	51	10	12	68	75	0	0	0	0	0	0	0	0	of Warding	res-mag	0		0		0	tors	shld	ring	amul	orb	circ							
+142	of the Sentinel	Magic Resist +#%	100	1	1	42		31				48	2	37	0	6	9	-1	0	0	0	-1	0	0	0		10	12	68	75	3	51	0	0	0	0	0	0	0	0	of the Sentinel	res-mag	0		0		0	ring	amul	orb	circ	tors	shld							
+143	of Guarding	Magic Resist +#%	100	1	1	66		53				48	2	37	0	10	13	-1	0	0	0	-1	0	0	0		12	68	75	3	51	0	0	0	0	0	0	0	0	0	of Guarding	res-mag	0		0		0	amul	orb	circ	tors	shld								
+144	of Negation	Magic Resist +#%	100	1	1	84		72				48	2	37	0	14	20	-1	0	0	0	-1	0	0	0		51	68	75	3	0	0	0	0	0	0	0	0	0	0	of Negation	res-mag	0		0		0	shld	orb	circ	tors									
+145	of Coolness	Fire Absorb #%	100	1	1	11	35	8				12	3	44	0	2	3	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Coolness	abs-fire	0		0		0	tors	shld	boot	circ									
+146	of Incombustibility	Fire Absorb #%	100	1	1	19	70	17				12	3	44	0	4	6	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Incombustibility	abs-fire	0		0		0	tors	shld	boot	circ									
+147	of Amianthus	Fire Absorb #%	100	1	1	35		29				12	3	44	0	7	9	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Amianthus	abs-fire	0		0		0	tors	shld	boot	circ									
+148	of Fire Quenching	Fire Absorb #%	100	1	1	50		47				12	3	44	0	10	15	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Fire Quenching	abs-fire	0		0		0	tors	shld	boot	circ									
+149	of Coolness	Fire Absorb #%	100	1	1	13		9				12	3	44	0	1	2	-1	0	0	0	-1	0	0	0		10	12	68	75	0	0	0	0	0	0	0	0	0	0	of Coolness	abs-fire	0		0		0	ring	amul	orb	circ									
+150	of Incombustibility	Fire Absorb #%	100	1	1	22		16				12	3	44	0	3	4	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Incombustibility	abs-fire	0		0		0	amul	orb	circ	ring									
+151	of Amianthus	Fire Absorb #%	100	1	1	33		25				12	3	44	0	5	6	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Amianthus	abs-fire	0		0		0	amul	orb	circ	ring									
+152	of Fire Quenching	Fire Absorb #%	100	1	1	46		38				12	3	44	0	8	10	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Fire Quenching	abs-fire	0		0		0	amul	orb	circ	ring									
+153	of Faith	Fire Absorb #%	100	1	1	23		17				12	3	44	0	2	3	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Faith	abs-fire	0		0		0	jewl												
+154	of Faith	Fire Absorb #%	100	1	1	56		50				12	3	44	0	4	7	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Faith	abs-fire	0		0		0	jewl												
+155	of Fire Coalescence1	+# Fire Absorb	100	1	1	33		29				12	3	43	0	3	7	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Fire Coalescence1	abs-fire%	0		0		0	weap	amul	ring	shld									
+156	of Fire Coalescence1	+# Fire Absorb	100	1	1	66		54				12	3	43	0	8	15	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Fire Coalescence1	abs-fire%	0		0		0	weap	amul	ring	shld									
+157	of Fire Coalescence1	+# Fire Absorb	100	1	1	87		80				12	3	43	0	16	25	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Fire Coalescence1	abs-fire%	0		0		0	weap	amul	ring	shld									
+158	of Resistance	Lightning Absorb #%	100	1	1	11	35	8				12	3	46	0	2	3	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Resistance	abs-ltng	0		0		0	tors	shld	boot	circ									
+159	of Insulation	Lightning Absorb #%	100	1	1	19	70	14				12	3	46	0	4	6	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Insulation	abs-ltng	0		0		0	tors	shld	boot	circ									
+160	of Grounding	Lightning Absorb #%	100	1	1	35		29				12	3	46	0	7	9	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Grounding	abs-ltng	0		0		0	tors	shld	boot	circ									
+161	of the Dynamo	Lightning Absorb #%	100	1	1	50		47				12	3	46	0	10	15	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of the Dynamo	abs-ltng	0		0		0	tors	shld	boot	circ									
+162	of Resistance	Lightning Absorb #%	100	1	1	13		9				12	3	46	0	1	2	-1	0	0	0	-1	0	0	0		10	12	68	75	0	0	0	0	0	0	0	0	0	0	of Resistance	abs-ltng	0		0		0	ring	amul	orb	circ									
+163	of Insulation	Lightning Absorb #%	100	1	1	22		16				12	3	46	0	3	4	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Insulation	abs-ltng	0		0		0	amul	orb	circ	ring									
+164	of Grounding	Lightning Absorb #%	100	1	1	33		25				12	3	46	0	5	6	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Grounding	abs-ltng	0		0		0	amul	orb	circ	ring									
+165	of the Dynamo	Lightning Absorb #%	100	1	1	46		38				12	3	46	0	8	10	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of the Dynamo	abs-ltng	0		0		0	amul	orb	circ	ring									
+166	of Stoicism	Lightning Absorb #%	100	1	1	22		16				12	3	46	0	2	3	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Stoicism	abs-ltng	0		0		0	jewl												
+167	of Stoicism	Lightning Absorb #%	100	1	1	56		50				12	3	46	0	4	7	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Stoicism	abs-ltng	0		0		0	jewl												
+168	of Lightning Coalescence1	+# Lightning Absorb	100	1	1	33		29				12	3	45	0	3	7	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Lightning Coalescence1	abs-ltng%	0		0		0	weap	amul	ring	shld									
+169	of Lightning Coalescence1	+# Lightning Absorb	100	1	1	66		54				12	3	45	0	8	15	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Lightning Coalescence1	abs-ltng%	0		0		0	weap	amul	ring	shld									
+170	of Lightning Coalescence1	+# Lightning Absorb	100	1	1	87		80				12	3	45	0	16	25	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Lightning Coalescence1	abs-ltng%	0		0		0	weap	amul	ring	shld									
+171	of Warming	Cold Absorb #%	100	1	1	11	35	8				12	3	50	0	2	3	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Warming	abs-cold	0		0		0	tors	shld	boot	circ									
+172	of Thawing	Cold Absorb #%	100	1	1	19	70	14				12	3	50	0	4	6	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of Thawing	abs-cold	0		0		0	tors	shld	boot	circ									
+173	of the Dunes	Cold Absorb #%	100	1	1	35		29				12	3	50	0	7	9	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of the Dunes	abs-cold	0		0		0	tors	shld	boot	circ									
+174	of the Sirocco	Cold Absorb #%	100	1	1	50		47				12	3	50	0	10	15	-1	0	0	0	-1	0	0	0		3	51	15	75	0	0	0	0	0	0	0	0	0	0	of the Sirocco	abs-cold	0		0		0	tors	shld	boot	circ									
+175	of Warming	Cold Absorb #%	100	1	1	13		9				12	3	50	0	1	2	-1	0	0	0	-1	0	0	0		10	12	68	75	0	0	0	0	0	0	0	0	0	0	of Warming	abs-cold	0		0		0	ring	amul	orb	circ									
+176	of Thawing	Cold Absorb #%	100	1	1	22		16				12	3	50	0	3	4	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of Thawing	abs-cold	0		0		0	amul	orb	circ	ring									
+177	of the Dunes	Cold Absorb #%	100	1	1	33		25				12	3	50	0	5	6	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of the Dunes	abs-cold	0		0		0	amul	orb	circ	ring									
+178	of the Sirocco	Cold Absorb #%	100	1	1	46		38				12	3	50	0	8	10	-1	0	0	0	-1	0	0	0		12	68	75	10	0	0	0	0	0	0	0	0	0	0	of the Sirocco	abs-cold	0		0		0	amul	orb	circ	ring									
+179	of Desire	Cold Absorb #%	100	1	1	23		17				12	3	50	0	2	3	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Desire	abs-cold	0		0		0	jewl												
+180	of Desire	Cold Absorb #%	100	1	1	56		50				12	3	50	0	4	7	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Desire	abs-cold	0		0		0	jewl												
+181	of Chilling Coalescence1	+# Cold Absorb	100	1	1	33		29				12	3	49	0	3	7	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Chilling Coalescence1	abs-cold%	0		0		0	weap	amul	ring	shld									
+182	of Chilling Coalescence1	+# Cold Absorb	100	1	1	66		54				12	3	49	0	8	15	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Chilling Coalescence1	abs-cold%	0		0		0	weap	amul	ring	shld									
+183	of Chilling Coalescence1	+# Cold Absorb	100	1	1	87		80				12	3	49	0	16	25	-1	0	0	0	-1	0	0	0		45	12	10	51	0	0	0	0	0	0	0	0	0	0	of Chilling Coalescence1	abs-cold%	0		0		0	weap	amul	ring	shld									
+184	of the Yeti	Cold Resist +#% (Based on Character Level)	100	1	1	1	20	1				12	43	153	4	0	0	-1	0	0	0	-1	0	0	0	lblu	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Yeti	res-cold/lvl		0		0	armo	ring	amul										
+185	of the Yeti	Cold Resist +#% (Based on Character Level)	100	1	1	20		1				12	43	153	6	0	0	-1	0	0	0	-1	0	0	0	lblu	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Yeti	res-cold/lvl		0		0	armo	ring	amul										
+186	of the Phoenix	Fire Resist +#% (Based on Character Level)	100	1	1	1	20	1				12	43	154	4	0	0	-1	0	0	0	-1	0	0	0	cred	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Phoenix	res-fire/lvl		0		0	armo	ring	amul										
+187	of the Phoenix	Fire Resist +#% (Based on Character Level)	100	1	1	20		1				12	43	154	6	0	0	-1	0	0	0	-1	0	0	0	cred	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Phoenix	res-fire/lvl		0		0	armo	ring	amul										
+188	of the Efreeti	Lightning Resist +#% (Based on Character Level)	100	1	1	1	20	1				12	43	155	4	0	0	-1	0	0	0	-1	0	0	0	cblu	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Efreeti	res-ltng/lvl		0		0	armo	ring	amul										
+189	of the Efreeti	Lightning Resist +#% (Based on Character Level)	100	1	1	20		1				12	43	155	6	0	0	-1	0	0	0	-1	0	0	0	cblu	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Efreeti	res-ltng/lvl		0		0	armo	ring	amul										
+190	of the Cobra	Poison Resist +#% (Based on Character Level)	100	1	1	1	20	1				12	43	156	4	0	0	-1	0	0	0	-1	0	0	0	dyel	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Cobra	res-pois/lvl		0		0	armo	ring	amul										
+191	of the Cobra	Poison Resist +#% (Based on Character Level)	100	1	1	20		1				12	43	156	6	0	0	-1	0	0	0	-1	0	0	0	dyel	50	10	12	0	0	0	0	0	0	0	0	0	0	0	of the Cobra	res-pois/lvl		0		0	armo	ring	amul										
+192	of the Elements	Cold Resist +#% (Based on Character Level) & Fire Resist +#% (Based on Character Level) & Lightning Resist +#% (Based on Character Level)	100	1	1	1		1				24	43	153	2	0	0	154	2	0	0	155	2	0	0	dgld	75	51	0	0	0	0	0	0	0	0	0	0	0	0	of the Elements	res-cold/lvl	res-fire/lvl	res-ltng/lvl	circ	shld											
+193	of the Elements	Cold Resist +#% (Based on Character Level) & Fire Resist +#% (Based on Character Level) & Lightning Resist +#% (Based on Character Level)	100	1	1	44		41				24	43	153	4	0	0	154	4	0	0	155	4	0	0	dgld	75	51	0	0	0	0	0	0	0	0	0	0	0	0	of the Elements	res-cold/lvl	res-fire/lvl	res-ltng/lvl	circ	shld											
+194	of the Elements	Cold Resist +#% (Based on Character Level) & Fire Resist +#% (Based on Character Level) & Lightning Resist +#% (Based on Character Level)	100	1	1	77		71				24	43	153	5	0	0	154	5	0	0	155	5	0	0	dgld	75	51	0	0	0	0	0	0	0	0	0	0	0	0	of the Elements	res-cold/lvl	res-fire/lvl	res-ltng/lvl	circ	shld											
+195	of Winter2	+#% to Maximum Cold Resist	100	1	1	54		45				24	67	36	0	1	10	-1	0	0	0	-1	0	0	0		50	51	10	12	0	0	0	0	0	0	0	0	0	0	of Winter2	res-cold-max	0		0		0	armo	shld	ring	amul									
+196	of Summer2	+#% to Maximum Fire Resist	100	1	1	54		45				24	67	32	0	1	10	-1	0	0	0	-1	0	0	0		50	51	10	12	0	0	0	0	0	0	0	0	0	0	of Summer2	res-fire-max	0		0		0	armo	shld	ring	amul									
+197	of Spring2	+#% to Maximum Lightning Resist	100	1	1	54		45				24	67	34	0	1	10	-1	0	0	0	-1	0	0	0		50	51	10	12	0	0	0	0	0	0	0	0	0	0	of Spring2	res-ltng-max	0		0		0	armo	shld	ring	amul									
+198	of Autumn2	+#% to Maximum Poison Resist	100	1	1	54		45				24	67	40	0	1	10	-1	0	0	0	-1	0	0	0		50	51	10	12	0	0	0	0	0	0	0	0	0	0	of Autumn2	res-pois-max	0		0		0	armo	shld	ring	amul									
+199	of the Four Seasons2	#% All Maximum Resistances	100	1	1	68		58				24	67	42	0	1	3	-1	0	0	0	-1	0	0	0		50	51	10	12	0	0	0	0	0	0	0	0	0	0	of the Four Seasons2	res-all-max	0		0		0	armo	shld	ring	amul									
+200	of the Four Seasons2	#% All Maximum Resistances	100	1	1	87		75				12	67	42	0	4	6	-1	0	0	0	-1	0	0	0		50	51	10	12	0	0	0	0	0	0	0	0	0	0	of the Four Seasons2	res-all-max	0		0		0	armo	shld	ring	amul									
+201	of Dexterity	+# to Dexterity	100	1	1	1	20	1				48	17	8	0	1	2	-1	0	0	0	-1	0	0	0		12	47	75	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0		0		0	amul	miss	circ										
+202	of Skill	+# to Dexterity	100	1	1	11	40	8				36	17	8	0	3	5	-1	0	0	0	-1	0	0	0		12	47	75	0	0	0	0	0	0	0	0	0	0	0	of Skill	dex	0		0		0	amul	miss	circ										
+203	of Accuracy	+# to Dexterity	100	1	1	27	55	20				36	17	8	0	6	9	-1	0	0	0	-1	0	0	0		12	47	75	0	0	0	0	0	0	0	0	0	0	0	of Accuracy	dex	0		0		0	amul	miss	circ										
+204	of Precision	+# to Dexterity	100	1	1	43	75	35				36	17	8	0	10	15	-1	0	0	0	-1	0	0	0		12	47	75	0	0	0	0	0	0	0	0	0	0	0	of Precision	dex	0		0		0	amul	miss	circ										
+205	of Perfection	+# to Dexterity	100	1	1	59		51				36	17	8	0	16	20	-1	0	0	0	-1	0	0	0	dgld	12	47	75	0	0	0	0	0	0	0	0	0	0	0	of Perfection	dex	0		0		0	amul	miss	circ										
+206	of Nirvana	+# to Dexterity	100	1	1	72		64				36	17	8	0	21	30	-1	0	0	0	-1	0	0	0	dgld	12	47	75	0	0	0	0	0	0	0	0	0	0	0	of Nirvana	dex	0		0		0	amul	miss	circ										
+207	of Dexterity	+# to Dexterity	100	1	1	6	30	4				48	17	8	0	1	2	-1	0	0	0	-1	0	0	0		10	16	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0		0		0	ring	glov											
+208	of Skill	+# to Dexterity	100	1	1	22	50	16				36	17	8	0	3	5	-1	0	0	0	-1	0	0	0		10	16	0	0	0	0	0	0	0	0	0	0	0	0	of Skill	dex	0		0		0	ring	glov											
+209	of Accuracy	+# to Dexterity	100	1	1	39	70	31				36	17	8	0	6	9	-1	0	0	0	-1	0	0	0		10	16	0	0	0	0	0	0	0	0	0	0	0	0	of Accuracy	dex	0		0		0	ring	glov											
+210	of Precision	+# to Dexterity	100	1	1	56		48				36	17	8	0	10	15	-1	0	0	0	-1	0	0	0		10	16	0	0	0	0	0	0	0	0	0	0	0	0	of Precision	dex	0		0		0	ring	glov											
+211	of Perfection	+# to Dexterity	100	1	1	75		67				36	17	8	0	16	20	-1	0	0	0	-1	0	0	0	dgld	10	16	0	0	0	0	0	0	0	0	0	0	0	0	of Perfection	dex	0		0		0	ring	glov											
+212	of Dexterity	+# to Dexterity	100	1	1	13	35	9				36	17	8	0	2	3	-1	0	0	0	-1	0	0	0		3	15	0	0	0	0	0	16	0	0	0	0	0	0	of Dexterity	dex	0		0		0	tors	boot						glov					
+213	of Skill	+# to Dexterity	100	1	1	34	55	26				36	17	8	0	4	5	-1	0	0	0	-1	0	0	0		3	15	0	0	0	0	0	16	0	0	0	0	0	0	of Skill	dex	0		0		0	tors	boot						glov					
+214	of Accuracy	+# to Dexterity	100	1	1	46	75	38				36	17	8	0	6	9	-1	0	0	0	-1	0	0	0		3	15	0	0	0	0	0	16	0	0	0	0	0	0	of Accuracy	dex	0		0		0	tors	boot						glov					
+215	of Precision	+# to Dexterity	100	1	1	60		52				36	17	8	0	10	15	-1	0	0	0	-1	0	0	0	dgld	3	15	0	0	0	0	0	16	0	0	0	0	0	0	of Precision	dex	0		0		0	tors	boot						glov					
+216	of Daring	+# to Dexterity	100	1	1	7		5				48	17	8	0	1	5	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Daring	dex	0		0		0	jewl												
+217	of Daring	+# to Dexterity	100	1	1	19		14				48	17	8	0	4	6	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Daring	dex	0		0		0	jewl												
+218	of Daring	+# to Dexterity	100	1	1	36		28				48	17	8	0	7	9	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Daring	dex	0		0		0	jewl												
+219	of Dexterity	+# to Dexterity	100	1	1	1	12	1				48	17	8	0	1	1	-1	0	0	0	-1	0	0	0		15	16	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0		0		0	boot	glov											
+220	of Dexterity	+# to Dexterity	100	1	1	1	5	1				48	17	8	0	1	1	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0		0		0	ring												
+221	of Perfection	+# to Dexterity	100	1	1	80		75				36	17	8	0	20	30	-1	0	0	0	-1	0	0	0	dgld	3	15	0	0	0	0	0	16	0	0	0	0	0	0	of Perfection	dex	0		0		0	tors	boot						glov					
+222	of Strength	+# to Strength	100	1	1	1	25	1				48	31	7	0	1	2	-1	0	0	0	-1	0	0	0		12	19	29	31	75	0	0	0	0	0	0	0	0	0	of Strength	str	0		0		0	amul	belt	club	hamm	circ								
+223	of Might	+# to Strength	100	1	1	10	40	8				36	31	7	0	3	5	-1	0	0	0	-1	0	0	0		12	19	29	31	75	0	0	0	0	0	0	0	0	0	of Might	str	0		0		0	amul	belt	club	hamm	circ								
+224	of the Ox	+# to Strength	100	1	1	26	70	19				48	31	7	0	6	9	-1	0	0	0	-1	0	0	0		12	19	29	31	75	0	0	0	0	0	0	0	0	0	of the Ox	str	0		0		0	amul	belt	club	hamm	circ								
+225	of the Giant	+# to Strength	100	1	1	42		34				36	31	7	0	10	15	-1	0	0	0	-1	0	0	0		12	19	29	31	75	0	0	0	0	0	0	0	0	0	of the Giant	str	0		0		0	amul	belt	club	hamm	circ								
+226	of the Titan	+# to Strength	100	1	1	58		50				36	31	7	0	16	20	-1	0	0	0	-1	0	0	0	dgld	12	19	29	31	75	0	0	0	0	0	0	0	0	0	of the Titan	str	0		0		0	amul	belt	club	hamm	circ								
+227	of Atlus	+# to Strength	100	1	1	71		63				36	31	7	0	21	30	-1	0	0	0	-1	0	0	0	dgld	12	19	29	31	75	0	0	0	0	0	0	0	0	0	of Atlus	str	0		0		0	amul	belt	club	hamm	circ								
+228	of Strength	+# to Strength	100	1	1	5	30	3				48	31	7	0	1	2	-1	0	0	0	-1	0	0	0		10	24	36	3	0	0	0	0	0	0	0	0	0	0	of Strength	str	0		0		0	ring	scep	mace	tors									
+229	of Might	+# to Strength	100	1	1	21	65	15				36	31	7	0	3	5	-1	0	0	0	-1	0	0	0		10	24	36	3	0	0	0	0	0	0	0	0	0	0	of Might	str	0		0		0	ring	scep	mace	tors									
+230	of the Ox	+# to Strength	100	1	1	38		30				36	31	7	0	6	9	-1	0	0	0	-1	0	0	0		10	24	36	3	0	0	0	0	0	0	0	0	0	0	of the Ox	str	0		0		0	ring	scep	mace	tors									
+231	of the Giant	+# to Strength	100	1	1	55		47				36	31	7	0	10	15	-1	0	0	0	-1	0	0	0		10	24	36	3	0	0	0	0	0	0	0	0	0	0	of the Giant	str	0		0		0	ring	scep	mace	tors									
+232	of the Titan	+# to Strength	100	1	1	74		66				36	31	7	0	16	20	-1	0	0	0	-1	0	0	0	dgld	10	24	36	3	0	0	0	0	0	0	0	0	0	0	of the Titan	str	0		0		0	ring	scep	mace	tors									
+233	of Strength	+# to Strength	100	1	1	12	30	8				36	31	7	0	1	2	-1	0	0	0	-1	0	0	0		46	16	51	0	0	0	0	57	0	0	0	0	0	0	of Strength	str	0		0		0	mele	glov	shld					blun					
+234	of Might	+# to Strength	100	1	1	33	60	25				36	31	7	0	3	5	-1	0	0	0	-1	0	0	0		46	16	51	0	0	0	0	57	0	0	0	0	0	0	of Might	str	0		0		0	mele	glov	shld					blun					
+235	of the Ox	+# to Strength	100	1	1	45		37				36	31	7	0	6	9	-1	0	0	0	-1	0	0	0		46	16	51	0	0	0	0	57	0	0	0	0	0	0	of the Ox	str	0		0		0	mele	glov	shld					blun					
+236	of the Giant	+# to Strength	100	1	1	59		51				36	31	7	0	10	15	-1	0	0	0	-1	0	0	0	dgld	46	16	0	0	0	0	0	57	0	0	0	0	0	0	of the Giant	str	0		0		0	mele	glov						blun					
+237	of Virility	+# to Strength	100	1	1	18		13				48	31	7	0	1	5	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Virility	str	0		0		0	jewl												
+238	of Virility	+# to Strength	100	1	1	33		25				48	31	7	0	5	6	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Virility	str	0		0		0	jewl												
+239	of Virility	+# to Strength	100	1	1	50		42				48	31	7	0	7	9	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Virility	str	0		0		0	jewl												
+240	of Strength	+# to Strength	100	1	1	1	11	1				48	31	7	0	1	1	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	of Strength	str	0		0		0	glov												
+241	of Strength	+# to Strength	100	1	1	1	4	1				48	31	7	0	1	1	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of Strength	str	0		0		0	ring												
+242	of Energy	+# to Energy	100	1	1	1	25	1				48	23	10	0	1	3	-1	0	0	0	-1	0	0	0		12	68	75	25	26	0	0	0	0	0	0	0	0	0	of Energy	enr	0		0		0	amul	orb	circ	wand	staf								
+243	of the Mind	+# to Energy	100	1	1	7	50	3				48	23	10	0	4	6	-1	0	0	0	-1	0	0	0		12	68	75	25	26	0	0	0	0	0	0	0	0	0	of the Mind	enr	0		0		0	amul	orb	circ	wand	staf								
+244	of Brilliance	+# to Energy	100	1	1	13	75	9				36	23	10	0	7	10	-1	0	0	0	-1	0	0	0		12	68	75	25	26	0	0	0	0	0	0	0	0	0	of Brilliance	enr	0		0		0	amul	orb	circ	wand	staf								
+245	of Sorcery	+# to Energy	100	1	1	21		16				36	23	10	0	11	15	-1	0	0	0	-1	0	0	0		12	68	75	25	26	0	0	0	0	0	0	0	0	0	of Sorcery	enr	0		0		0	amul	orb	circ	wand	staf								
+246	of Wizardry	+# to Energy	100	1	1	31		23				36	23	10	0	16	20	-1	0	0	0	-1	0	0	0	dgld	12	68	75	25	26	0	0	0	0	0	0	0	0	0	of Wizardry	enr	0		0		0	amul	orb	circ	wand	staf								
+247	of Enlightenment	+# to Energy	100	1	1	41		33				36	23	10	0	21	30	-1	0	0	0	-1	0	0	0	dgld	12	68	75	25	26	0	0	0	0	0	0	0	0	0	of Enlightenment	enr	0		0		0	amul	orb	circ	wand	staf								
+248	of Energy	+# to Energy	100	1	1	7	25	5				48	23	10	0	1	3	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of Energy	enr	0		0		0	ring												
+249	of the Mind	+# to Energy	100	1	1	13	50	9				36	23	10	0	4	6	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Mind	enr	0		0		0	ring												
+250	of Brilliance	+# to Energy	100	1	1	21	75	16				36	23	10	0	7	10	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of Brilliance	enr	0		0		0	ring												
+251	of Sorcery	+# to Energy	100	1	1	31		23				36	23	10	0	11	15	-1	0	0	0	-1	0	0	0		10	0	0	0	0	0	0	0	0	0	0	0	0	0	of Sorcery	enr	0		0		0	ring												
+252	of Wizardry	+# to Energy	100	1	1	41		33				36	23	10	0	16	20	-1	0	0	0	-1	0	0	0	dgld	10	0	0	0	0	0	0	0	0	0	0	0	0	0	of Wizardry	enr	0		0		0	ring												
+253	of Energy	+# to Energy	100	1	1	4	25	3				36	23	10	0	1	3	-1	0	0	0	-1	0	0	0		104	24	0	0	0	0	0	0	0	0	0	0	0	0	of Energy	enr	0		0		0	helm	scep											
+254	of the Mind	+# to Energy	100	1	1	10	50	7				36	23	10	0	4	6	-1	0	0	0	-1	0	0	0		104	24	0	0	0	0	0	0	0	0	0	0	0	0	of the Mind	enr	0		0		0	helm	scep											
+255	of Brilliance	+# to Energy	100	1	1	16	70	12				36	23	10	0	7	10	-1	0	0	0	-1	0	0	0		104	24	0	0	0	0	0	0	0	0	0	0	0	0	of Brilliance	enr	0		0		0	helm	scep											
+256	of Sorcery	+# to Energy	100	1	1	26		21				36	23	10	0	11	15	-1	0	0	0	-1	0	0	0	dgld	104	24	0	0	0	0	0	0	0	0	0	0	0	0	of Sorcery	enr	0		0		0	helm	scep											
+257	of Knowledge	+# to Energy	100	1	1	9	50	6				36	23	10	0	1	5	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Knowledge	enr	0		0		0	jewl												
+258	of Knowledge	+# to Energy	100	1	1	24		18				36	23	10	0	4	6	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Knowledge	enr	0		0		0	jewl												
+259	of Knowledge	+# to Energy	100	1	1	41		33				36	23	10	0	7	9	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Knowledge	enr	0		0		0	jewl												
+260	of Energy	+# to Energy	100	1	1	1	4	1				48	23	10	0	1	1	-1	0	0	0	-1	0	0	0		12	68	75	25	26	104	10	0	0	0	0	0	0	0	of Energy	enr	0		0		0	amul	orb	circ	wand	staf	helm	ring						
+261	of Grace	+# to Dexterity (Based on Character Level)	100	1	1	1		1				12	42	144	3	0	0	-1	0	0	0	-1	0	0	0	dgld	104	12	0	0	0	0	0	0	0	0	0	0	0	0	of Grace	dex/lvl		0		0	helm	amul											
+262	of Power	+# to Strength (Based on Character Level)	100	1	1	1		1				12	42	143	3	0	0	-1	0	0	0	-1	0	0	0	dgld	19	12	0	0	0	0	0	0	0	0	0	0	0	0	of Power	str/lvl		0		0	belt	amul											
+263	of Grace and Power	+# to Strength (Based on Character Level) & +# to Dexterity (Based on Character Level)	100	1	1	50		48				12	42	143	3	0	0	144	3	0	0	-1	0	0	0	dgld	12	0	0	0	0	0	0	0	0	0	0	0	0	0	of Grace and Power	str/lvl	dex/lvl		0	amul												
+264	of Agility2	+%# to Dexterity	100	0	1	35	55	35				12	42	244	0	5	10	-1	0	0	0	-1	0	0	0		45	15	0	0	0	0	0	0	0	0	0	0	0	0	of Agility2	dex%	0		0		0	weap	boot											
+265	of Agility2	+%# to Dexterity	100	0	1	55	75	55				12	42	244	0	11	20	-1	0	0	0	-1	0	0	0		45	15	0	0	0	0	0	0	0	0	0	0	0	0	of Agility2	dex%	0		0		0	weap	boot											
+266	of Agility2	+%# to Dexterity	100	0	1	75		75				12	42	244	0	21	30	-1	0	0	0	-1	0	0	0		45	15	0	0	0	0	0	0	0	0	0	0	0	0	of Agility2	dex%	0		0		0	weap	boot											
+267	of Power2	+%# to Strength	100	0	1	35	55	35				12	42	243	0	5	10	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Power2	str%	0		0		0	weap	glov											
+268	of Power2	+%# to Strength	100	0	1	55	75	55				12	42	243	0	11	20	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Power2	str%	0		0		0	weap	glov											
+269	of Power2	+%# to Strength	100	0	1	75		75				12	42	243	0	21	30	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Power2	str%	0		0		0	weap	glov											
+270	of Endurance2	+%# to Vitality	100	0	1	35	55	35				12	42	245	0	5	10	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Endurance2	vit%	0		0		0	weap	glov											
+271	of Endurance2	+%# to Vitality	100	0	1	55	75	55				12	42	245	0	11	20	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Endurance2	vit%	0		0		0	weap	glov											
+272	of Endurance2	+%# to Vitality	100	0	1	75		75				12	42	245	0	21	30	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Endurance2	vit%	0		0		0	weap	glov											
+273	of Spirit2	+%# to Energy	100	0	1	35	55	35				12	42	246	0	5	10	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Spirit2	enr%	0		0		0	weap	glov											
+274	of Spirit2	+%# to Energy	100	0	1	55	75	55				12	42	246	0	11	20	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Spirit2	enr%	0		0		0	weap	glov											
+275	of Spirit2	+%# to Energy	100	0	1	75		75				12	42	246	0	21	30	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	of Spirit2	enr%	0		0		0	weap	glov											
+276	of the Sky	+# to all Attributes	100	1	1	20		18				12	42	226	0	5	10	-1	0	0	0	-1	0	0	0		12	10	75	68	26	25	0	0	0	0	0	0	0	0	of the Sky	all-stats	0		0		0	amul	ring	circ	orb	staf	wand							
+277	of the Stars	+# to all Attributes	100	1	1	44		40				12	42	226	0	11	15	-1	0	0	0	-1	0	0	0		12	10	75	68	26	25	0	0	0	0	0	0	0	0	of the Stars	all-stats	0		0		0	amul	ring	circ	orb	staf	wand							
+278	of the Heavens	+# to all Attributes	100	1	1	69		64				12	42	226	0	16	20	-1	0	0	0	-1	0	0	0		12	10	75	68	26	25	0	0	0	0	0	0	0	0	of the Heavens	all-stats	0		0		0	amul	ring	circ	orb	staf	wand							
+279	of the Zodiac	+# to all Attributes	100	1	1	86		83				12	42	226	0	21	30	-1	0	0	0	-1	0	0	0		12	10	75	68	26	25	0	0	0	0	0	0	0	0	of the Zodiac	all-stats	0		0		0	amul	ring	circ	orb	staf	wand							
+280	of the Jackal	+# to Life	100	1	1	1	20	1				36	26	13	0	1	5	-1	0	0	0	-1	0	0	0		3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Jackal	hp	0		0		0	tors	belt	amul	phlm	circ								
+281	of the Fox	+# to Life	100	1	1	7	30	5				36	26	13	0	6	10	-1	0	0	0	-1	0	0	0		3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Fox	hp	0		0		0	tors	belt	amul	phlm	circ								
+282	of the Wolf	+# to Life	100	1	1	15	50	11				36	26	13	0	11	20	-1	0	0	0	-1	0	0	0		3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Wolf	hp	0		0		0	tors	belt	amul	phlm	circ								
+283	of the Tiger	+# to Life	100	1	1	20	65	15				36	26	13	0	21	30	-1	0	0	0	-1	0	0	0		3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Tiger	hp	0		0		0	tors	belt	amul	phlm	circ								
+284	of the Mammoth	+# to Life	100	1	1	25		18				36	26	13	0	31	40	-1	0	0	0	-1	0	0	0	cred	3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Mammoth	hp	0		0		0	tors	belt	amul	phlm	circ								
+285	of the Colosuss	+# to Life	100	1	1	30		22				36	26	13	0	41	60	-1	0	0	0	-1	0	0	0	cred	3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Colosuss	hp	0		0		0	tors	belt	amul	phlm	circ								
+286	of the Squid	+# to Life	100	1	1	40		30				36	26	13	0	61	80	-1	0	0	0	-1	0	0	0	cred	3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Squid	hp	0		0		0	tors	belt	amul	phlm	circ								
+287	of the Whale	+# to Life	100	1	1	50		37				36	26	13	0	81	100	-1	0	0	0	-1	0	0	0	cred	3	19	12	71	75	0	0	0	0	0	0	0	0	0	of the Whale	hp	0		0		0	tors	belt	amul	phlm	circ								
+288	of the Jackal	+# to Life	100	1	1	4	25	3				36	26	13	0	1	5	-1	0	0	0	-1	0	0	0		51	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Jackal	hp	0		0		0	shld	pelt											
+289	of the Fox	+# to Life	100	1	1	11	50	8				36	26	13	0	6	10	-1	0	0	0	-1	0	0	0		51	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Fox	hp	0		0		0	shld	pelt											
+290	of the Wolf	+# to Life	100	1	1	27	75	20				36	26	13	0	11	20	-1	0	0	0	-1	0	0	0		51	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Wolf	hp	0		0		0	shld	pelt											
+291	of the Tiger	+# to Life	100	1	1	43		35				36	26	13	0	21	30	-1	0	0	0	-1	0	0	0		51	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Tiger	hp	0		0		0	shld	pelt											
+292	of the Mammoth	+# to Life	100	1	1	59		51				36	26	13	0	31	40	-1	0	0	0	-1	0	0	0	cred	51	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Mammoth	hp	0		0		0	shld	pelt											
+293	of the Colosuss	+# to Life	100	1	1	75		67				36	26	13	0	41	60	-1	0	0	0	-1	0	0	0	cred	51	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Colosuss	hp	0		0		0	shld	pelt											
+294	of the Jackal	+# to Life	100	1	1	8	40	6				36	26	13	0	1	5	-1	0	0	0	-1	0	0	0		29	31	36	10	104	0	0	0	0	0	0	0	0	0	of the Jackal	hp	0		0		0	club	hamm	mace	ring	helm								
+295	of the Fox	+# to Life	100	1	1	17	70	13				36	26	13	0	6	10	-1	0	0	0	-1	0	0	0		29	31	36	10	104	0	0	0	0	0	0	0	0	0	of the Fox	hp	0		0		0	club	hamm	mace	ring	helm								
+296	of the Wolf	+# to Life	100	1	1	34		26				36	26	13	0	11	20	-1	0	0	0	-1	0	0	0		29	31	36	10	104	0	0	0	0	0	0	0	0	0	of the Wolf	hp	0		0		0	club	hamm	mace	ring	helm								
+297	of the Tiger	+# to Life	100	1	1	51		43				36	26	13	0	21	30	-1	0	0	0	-1	0	0	0		29	31	36	10	104	0	0	0	0	0	0	0	0	0	of the Tiger	hp	0		0		0	club	hamm	mace	ring	helm								
+298	of the Mammoth	+# to Life	100	1	1	68		60				36	26	13	0	31	40	-1	0	0	0	-1	0	0	0	cred	29	31	36	10	104	0	0	0	0	0	0	0	0	0	of the Mammoth	hp	0		0		0	club	hamm	mace	ring	helm								
+299	of Spirit	+# to Life	100	1	1	1	50	1				48	26	13	0	3	8	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Spirit	hp	0		0		0	jewl												
+300	of Hope	+# to Life	100	1	1	45		37				48	26	13	0	9	20	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Hope	hp	0		0		0	jewl												
+301	of the Elephant	+# to Life (Based on Character Level) & +# to Mana (Based on Character Level)	100	1	1	66		58				24	41	139	4	0	0	140	2	0	0	-1	0	0	0	cred	10	12	0	0	0	0	0	0	0	0	0	0	0	0	of the Elephant	hp/lvl	mana/lvl		0	ring	amul											
+302	of the Elephant	+# to Life (Based on Character Level) & +# to Mana (Based on Character Level)	100	1	1	37		7				24	41	139	4	0	0	140	2	0	0	-1	0	0	0	cred	75	72	0	0	0	0	0	0	0	0	0	0	0	0	of the Elephant	hp/lvl	mana/lvl		0	circ	pelt											
+303	of the Kraken	+# to Life (Based on Character Level)	100	1	1	20		1				12	41	139	6	0	0	-1	0	0	0	-1	0	0	0	cred	3	12	72	71	0	0	0	0	0	0	0	0	0	0	of the Kraken	hp/lvl		0		0	tors	amul	pelt	phlm									
+304	of Memory	+# to Mana (Based on Character Level)	100	1	1	20		1				12	41	140	6	0	0	-1	0	0	0	-1	0	0	0	cred	75	12	72	0	0	0	0	0	0	0	0	0	0	0	of Memory	mana/lvl		0		0	circ	amul	pelt										
+305	of Regeneration	Replenish Life +#	100	1	1	10	35	7				48	19	53	0	3	5	-1	0	0	0	-1	0	0	0		24	19	10	12	75	0	0	0	0	0	0	0	0	0	of Regeneration	regen	0		0		0	scep	belt	ring	amul	circ								
+306	of Regeneration	Replenish Life +#	100	1	1	40		30				48	19	53	0	3	5	-1	0	0	0	-1	0	0	0		51	16	0	0	0	0	0	0	0	0	0	0	0	0	of Regeneration	regen	0		0		0	shld	glov											
+307	of Regeneration	Replenish Life +#	100	1	1	70		52				48	19	53	0	3	5	-1	0	0	0	-1	0	0	0		3	45	15	0	0	0	0	24	0	0	0	0	0	0	of Regeneration	regen	0		0		0	tors	weap	boot					scep					
+308	of Regrowth	Replenish Life +#	100	1	1	17		12				48	19	53	0	6	10	-1	0	0	0	-1	0	0	0	cred	24	12	75	0	0	0	0	0	0	0	0	0	0	0	of Regrowth	regen	0		0		0	scep	amul	circ										
+309	of Regrowth	Replenish Life +#	100	1	1	55		41				48	19	53	0	6	9	-1	0	0	0	-1	0	0	0	cred	19	10	0	0	0	0	0	0	0	0	0	0	0	0	of Regrowth	regen	0		0		0	belt	ring											
+310	of Revivification	Replenish Life +#	100	1	1	38		30				48	19	53	0	11	15	-1	0	0	0	-1	0	0	0	cred	24	12	75	0	0	0	0	0	0	0	0	0	0	0	of Revivification	regen	0		0		0	scep	amul	circ										
+311	of Honor	Replenish Life +#	100	1	1	47		35				48	19	53	0	1	4	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Honor	regen	0		0		0	jewl												
+312	of Regeneration	Replenish Life +#	100	1	1	1	9	1				36	19	53	0	2	2	-1	0	0	0	-1	0	0	0		12	75	0	0	0	0	0	0	0	0	0	0	0	0	of Regeneration	regen	0		0		0	amul	circ											
+313	of Vampiric Essence2	+# Life after each Kill	100	1	1	22		18				24	67	228	0	3	5	-1	0	0	0	-1	0	0	0		45	19	10	12	75	0	0	0	0	0	0	0	0	0	of Vampiric Essence2	heal-kill	0		0		0	weap	belt	ring	amul	circ								
+314	of the Wight2	+# Life after each Kill	100	1	1	39		31				24	67	228	0	6	8	-1	0	0	0	-1	0	0	0		45	19	10	12	75	0	0	0	0	0	0	0	0	0	of the Wight2	heal-kill	0		0		0	weap	belt	ring	amul	circ								
+315	of the Dragon's Spirit2	+# Life after each Kill	100	1	1	55		48				24	67	228	0	9	15	-1	0	0	0	-1	0	0	0		45	19	10	12	75	0	0	0	0	0	0	0	0	0	of the Dragon's Spirit2	heal-kill	0		0		0	weap	belt	ring	amul	circ								
+316	of the Soul2	+# Life after each Kill	100	1	1	75		75				24	67	228	0	16	25	-1	0	0	0	-1	0	0	0		45	19	10	12	75	0	0	0	0	0	0	0	0	0	of the Soul2	heal-kill	0		0		0	weap	belt	ring	amul	circ								
+317	of Pacing	+#% Faster Run/Walk	100	1	1	12	50	8				36	35	76	0	10	10	-1	0	0	0	-1	0	0	0		15	75	0	0	0	0	0	0	0	0	0	0	0	0	of Pacing	move1	0		0		0	boot	circ											
+318	of Haste	+#% Faster Run/Walk	100	1	1	22		16				48	35	77	0	20	20	-1	0	0	0	-1	0	0	0		15	75	0	0	0	0	0	0	0	0	0	0	0	0	of Haste	move2	0		0		0	boot	circ											
+319	of Speed	+#% Faster Run/Walk	100	1	1	37		29				48	35	78	0	30	30	-1	0	0	0	-1	0	0	0		15	75	0	0	0	0	0	0	0	0	0	0	0	0	of Speed	move3	0		0		0	boot	circ											
+320	of Traveling	+#% Faster Run/Walk	100	0	1	65		57				48	35	78	0	30	30	116	0	80	90	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	of Traveling	move3	0	stamdrain	0		0	boot												
+321	of Acceleration	+#% Faster Run/Walk	100	1	1	51		43				48	35	78	0	40	40	-1	0	0	0	-1	0	0	0		15	0	0	0	0	0	0	0	0	0	0	0	0	0	of Acceleration	move3	0		0		0	boot												
+322	of Balance	+#% Faster Hit Recovery	100	1	1	5		3				48	18	79	0	10	10	-1	0	0	0	-1	0	0	0		50	0	0	0	0	0	0	16	0	0	0	0	0	0	of Balance	balance1	0		0		0	armo							glov					
+323	of Equilibrium	+#% Faster Hit Recovery	100	1	1	9		6				48	18	80	0	20	20	-1	0	0	0	-1	0	0	0		3	19	51	0	0	0	0	0	0	0	0	0	0	0	of Equilibrium	balance2	0		0		0	tors	belt	shld										
+324	of Stability	+#% Faster Hit Recovery	100	1	1	18		13				48	18	81	0	25	25	-1	0	0	0	-1	0	0	0	dyel	3	19	0	0	0	0	0	0	0	0	0	0	0	0	of Stability	balance3	0		0		0	tors	belt											
+325	of Truth	+#% Faster Hit Recovery	100	1	1	44		36				48	18	79	0	7	7	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Truth	balance1	0		0		0	jewl												
+326	of Readiness	+#% Increased Attack Speed	100	1	1	5		3				72	7	55	0	10	10	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Readiness	swing1	0		0		0	weap							wand	orb				
+327	of Alacrity	+#% Increased Attack Speed	100	1	1	25		17				72	7	56	0	20	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	25	68	0	0	0	0	0	of Alacrity	swing2	0		0		0	weap							wand	orb				
+328	of Swiftness	+#% Increased Attack Speed	100	1	1	34		26				72	7	56	0	30	30	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	25	26	68	0	0	0	0	of Swiftness	swing2	0		0		0	mele							wand	staf	orb			
+329	of Quickness	+#% Increased Attack Speed	100	1	1	46		38				60	7	57	0	40	40	-1	0	0	0	-1	0	0	0	dyel	46	0	0	0	0	0	0	25	26	68	0	0	0	0	of Quickness	swing3	0		0		0	mele							wand	staf	orb			
+330	of Alacrity	+#% Increased Attack Speed	100	1	1	43		35				48	7	56	0	20	20	-1	0	0	0	-1	0	0	0	dyel	16	0	0	0	0	0	0	0	0	0	0	0	0	0	of Alacrity	swing2	0		0		0	glov												
+331	of Fervor	+#% Increased Attack Speed	100	1	1	39		31				48	7	55	0	15	15	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fervor	swing1	0		0		0	glov												
+332	of Readiness	+#% Increased Attack Speed	100	1	1	20		15				24	7	55	0	10	10	-1	0	0	0	-1	0	0	0		16	0	0	0	0	0	0	0	0	0	0	0	0	0	of Readiness	swing1	0		0		0	glov												
+333	of Fervor	+#% Increased Attack Speed	100	1	1	39		31				48	7	55	0	15	15	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fervor	swing1	0		0		0	jewl												
+334	of Thorns	Attacker Takes Damage of #	100	1	1	14	35	10				48	6	54	0	1	3	-1	0	0	0	-1	0	0	0		3	51	19	75	0	0	0	0	0	0	0	0	0	0	of Thorns	thorns	0		0		0	tors	shld	belt	circ									
+335	of Spikes	Attacker Takes Damage of #	100	1	1	21	60	15				48	6	54	0	4	6	-1	0	0	0	-1	0	0	0	oran	3	51	19	75	0	0	0	0	0	0	0	0	0	0	of Spikes	thorns	0		0		0	tors	shld	belt	circ									
+336	of Razors	Attacker Takes Damage of #	100	1	1	34	80	26				48	6	54	0	7	9	-1	0	0	0	-1	0	0	0	oran	3	51	75	19	0	0	0	0	0	0	0	0	0	0	of Razors	thorns	0		0		0	tors	shld	circ	belt									
+337	of Swords	Attacker Takes Damage of #	100	1	1	47		39				48	6	54	0	10	20	-1	0	0	0	-1	0	0	0	oran	3	51	75	19	0	0	0	0	0	0	0	0	0	0	of Swords	thorns	0		0		0	tors	shld	circ	belt									
+338	of Thorns	Attacker Takes Damage of # (Based on Character Level)	100	1	1	40		35				48	6	161	8	0	0	-1	0	0	0	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	of Thorns	thorns/lvl		0		0	tors	shld											
+339	of Thorns	Attacker Takes Damage of # (Based on Character Level)	100	1	1	67		62				48	6	161	12	0	0	-1	0	0	0	-1	0	0	0		3	51	0	0	0	0	0	0	0	0	0	0	0	0	of Thorns	thorns/lvl		0		0	tors	shld											
+340	of Malice	Attacker Takes Damage of #	100	1	1	37	40	29				48	6	54	0	1	5	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Malice	thorns	0		0		0	jewl												
+341	of Thorns	Attacker Takes Damage of #	100	1	1	1	13	1				48	6	54	0	1	1	-1	0	0	0	-1	0	0	0		3	19	51	0	0	0	0	0	0	0	0	0	0	0	of Thorns	thorns	0		0		0	tors	belt	shld										
+342	of Swords	Attacker Takes Damage of #	100	1	1	55		45				36	6	54	0	21	40	-1	0	0	0	-1	0	0	0	oran	3	51	75	19	0	0	0	0	0	0	0	0	0	0	of Swords	thorns	0		0		0	tors	shld	circ	belt									
+343	of Swords	Attacker Takes Damage of #	100	1	1	65		55				24	6	54	0	41	50	-1	0	0	0	-1	0	0	0	oran	3	51	75	19	0	0	0	0	0	0	0	0	0	0	of Swords	thorns	0		0		0	tors	shld	circ	belt									
+344	of Malice	Attacker Takes Damage of #	100	1	1	60		48				48	6	54	0	8	15	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Malice	thorns	0		0		0	jewl												
+345	of Light	+# to Light Radius & +# to Attack Rating	100	1	1	1	5	1				48	25	73	0	1	1	15	0	10	10	-1	0	0	0		10	12	55	50	0	0	0	0	0	0	0	0	0	0	of Light	light	0	att	0		0	ring	amul	rod	armo									
+346	of Light	+# to Light Radius & +# to Attack Rating	100	1	1	6	45	4				12	25	73	0	1	1	15	0	15	15	-1	0	0	0		50	55	10	12	0	0	0	0	0	0	0	0	0	0	of Light	light	0	att	0		0	armo	rod	ring	amul									
+347	of Radiance	+# to Light Radius & +# to Attack Rating	100	1	1	15	65	11				12	25	73	0	3	3	15	0	30	30	-1	0	0	0		55	50	10	12	0	0	0	0	0	0	0	0	0	0	of Radiance	light	0	att	0		0	rod	armo	ring	amul									
+348	of the Sun	+# to Light Radius & #% Bonus to Attack Rating	100	1	1	17		12				12	25	73	0	5	5	96	0	5	5	-1	0	0	0		55	50	12	10	0	0	0	0	0	0	0	0	0	0	of the Sun	light	0	att%	0		0	rod	armo	amul	ring									
+349	of Chance	#% Better Chance of Getting Magic Items	100	1	1	12	50	9				48	22	59	0	5	12	-1	0	0	0	-1	0	0	0		15	16	10	12	75	0	0	0	0	0	0	0	0	0	of Chance	mag%	0		0		0	boot	glov	ring	amul	circ								
+350	of Fortune	#% Better Chance of Getting Magic Items	100	1	1	16		12				48	22	59	0	13	20	-1	0	0	0	-1	0	0	0	lgld	15	16	12	75	10	0	0	0	0	0	0	0	0	0	of Fortune	mag%	0		0		0	boot	glov	amul	circ	ring								
+351	of Fortune	#% Better Chance of Getting Magic Items	100	1	1	26		19				48	22	59	0	21	25	-1	0	0	0	-1	0	0	0	lgld	15	16	12	75	10	0	0	0	0	0	0	0	0	0	of Fortune	mag%	0		0		0	boot	glov	amul	circ	ring								
+352	of Luck	#% Better Chance of Getting Magic Items	100	1	1	36		31				48	22	59	0	26	35	-1	0	0	0	-1	0	0	0	lgld	15	12	75	0	0	0	0	0	0	0	0	0	0	0	of Luck	mag%	0		0		0	boot	amul	circ										
+353	of Luck	#% Better Chance of Getting Magic Items	100	1	1	53		48				48	22	59	0	36	50	-1	0	0	0	-1	0	0	0	lgld	12	75	0	0	0	0	0	0	0	0	0	0	0	0	of Luck	mag%	0		0		0	amul	circ											
+354	of Prosperity	#% Better Chance of Getting Magic Items	100	1	1	26	35	19				24	22	59	0	5	10	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Prosperity	mag%	0		0		0	jewl												
+355	of Prosperity	#% Better Chance of Getting Magic Items	100	1	1	50		47				24	22	59	0	11	15	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Prosperity	mag%	0		0		0	jewl												
+356	of Prosperity	#% Better Chance of Getting Magic Items	100	1	1	80		75				12	22	59	0	16	20	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Prosperity	mag%	0		0		0	jewl												
+357	of Greed	#% Extra Gold from Monsters	100	1	1	1		1				48	21	58	0	25	40	-1	0	0	0	-1	0	0	0		10	12	75	0	0	0	0	0	0	0	0	0	0	0	of Greed	gold%	0		0		0	ring	amul	circ										
+358	of Wealth	#% Extra Gold from Monsters	100	1	1	17		12				48	21	58	0	41	80	-1	0	0	0	-1	0	0	0	lgld	15	16	19	12	75	0	0	0	0	0	0	0	0	0	of Wealth	gold%	0		0		0	boot	glov	belt	amul	circ								
+359	of Avarice	#% Extra Gold from Monsters	100	1	1	1		1				48	21	58	0	10	30	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Avarice	gold%	0		0		0	jewl												
+360	of Simplicity	Requirements -#%	100	1	1	25		18				24	30	75	0	-30	-30	-1	0	0	0	-1	0	0	0		3	45	51	0	0	0	0	55	68	0	0	0	0	0	of Simplicity	ease	0		0		0	tors	weap	shld					rod	orb				
+361	of Ease	Requirements -#%	100	1	1	15		11				36	30	75	0	-20	-20	-1	0	0	0	-1	0	0	0		3	45	51	0	0	0	0	55	68	0	0	0	0	0	of Ease	ease	0		0		0	tors	weap	shld					rod	orb				
+362	of Freedom	Requirements -#%	100	1	1	1		1				36	30	75	0	-15	-15	-1	0	0	0	-1	0	0	0		58	0	0	0	0	0	0	0	0	0	0	0	0	0	of Freedom	ease	0		0		0	jewl												
+363	of Self-Repair	Repairs 1 durability in # seconds	100	1	1	3	40	1				36	37	174	3	0	0	-1	0	0	0	-1	0	0	0		45	50	51	0	0	0	0	48	47	0	0	0	0	0	of Self-Repair	rep-dur		0		0	weap	armo	shld					thro	miss				
+364	of Fast Repair	Repairs 1 durability in # seconds	100	1	1	20		12				12	37	174	5	0	0	-1	0	0	0	-1	0	0	0		45	50	51	0	0	0	0	48	47	0	0	0	0	0	of Fast Repair	rep-dur		0		0	weap	armo	shld					thro	miss				
+365	of Ages	Indestructible	100	1	1	50		42				12	39	217	0	1	1	-1	0	0	0	-1	0	0	0		45	50	51	0	0	0	0	48	47	0	0	0	0	0	of Ages	indestruct	0		0		0	weap	armo	shld					thro	miss				
+366	of Replenishing	Replenishes quantity	100	1	1	5		3				72	39	175	5	0	0	-1	0	0	0	-1	0	0	0		48	0	0	0	0	0	0	0	0	0	0	0	0	0	of Replenishing	rep-quant		0		0	thro												
+367	of Propogation	Replenishes quantity	100	1	1	24		18				60	39	175	10	0	0	-1	0	0	0	-1	0	0	0		48	0	0	0	0	0	0	0	0	0	0	0	0	0	of Propogation	rep-quant		0		0	thro												
+368	of Piercing	Ignore Target's Defense	100	1	1	25		18				24	4	92	0	1	1	-1	0	0	0	-1	0	0	0		55	32	67	0	0	0	0	0	0	0	0	0	0	0	of Piercing	ignore-ac	0		0		0	rod	knif	h2h										
+369	of Piercing	Ignore Target's Defense	100	1	1	77		70				24	4	92	0	1	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Piercing	ignore-ac	0		0		0	weap												
+370	of Bashing	-#% Target Defense	100	1	1	16		12				48	5	93	0	5	10	-1	0	0	0	-1	0	0	0		57	47	0	0	0	0	0	25	26	68	0	0	0	0	of Bashing	reduce-ac	0		0		0	blun	miss						wand	staf	orb			
+371	of Puncturing	-#% Target Defense	100	1	1	6		4				48	5	93	0	11	20	-1	0	0	0	-1	0	0	0		33	32	67	47	0	0	0	0	0	0	0	0	0	0	of Puncturing	reduce-ac	0		0		0	spea	knif	h2h	miss									
+372	of Blocking	#% Increased Chance of Blocking	100	1	1	1		1				84	8	16	0	10	19	83	0	15	15	-1	0	0	0		51	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blocking	block	0	block2	0		0	shld												
+373	of Deflecting	#% Increased Chance of Blocking	100	1	1	11		8				76	8	16	0	20	30	83	0	30	30	-1	0	0	0		51	0	0	0	0	0	0	0	0	0	0	0	0	0	of Deflecting	block	0	block2	0		0	shld												
+374	of the Apprentice	+#% Faster Cast Rate	100	1	1	5		3				72	9	85	0	10	10	-1	0	0	0	-1	0	0	0		55	10	12	68	75	0	0	0	0	0	0	0	0	0	of the Apprentice	cast1	0		0		0	rod	ring	amul	orb	circ								
+375	of the Magus	+#% Faster Cast Rate	100	1	1	29		21				60	9	87	0	20	20	-1	0	0	0	-1	0	0	0		55	68	75	0	0	0	0	24	0	0	0	0	0	0	of the Magus	cast3	0		0		0	rod	orb	circ					scep					
+376	of Vileness	Prevent Monster Heal	100	1	1	9		6				36	20	94	0	1	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	55	68	0	0	0	0	0	of Vileness	noheal	0		0		0	weap							rod	orb				
+377	of Vileness	Prevent Monster Heal	100	1	1	44		37				36	20	94	0	1	1	-1	0	0	0	-1	0	0	0		16	19	0	0	0	0	0	0	0	0	0	0	0	0	of Vileness	noheal	0		0		0	glov	belt											
+378	of the Bear	Knockback	100	1	1	8		6				36	24	60	0	1	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Bear	knock	0		0		0	weap												
+379	of Bartering1	Reduces all Vendor Prices #%	100	1	1	13		9				12	63	229	0	1	2	-1	0	0	0	-1	0	0	0		45	10	12	0	0	0	0	0	0	0	0	0	0	0	of Bartering1	cheap	0		0		0	weap	ring	amul										
+380	of Haggling1	Reduces all Vendor Prices #%	100	1	1	33		28				8	63	229	0	3	4	-1	0	0	0	-1	0	0	0		45	10	12	0	0	0	0	0	0	0	0	0	0	0	of Haggling1	cheap	0		0		0	weap	ring	amul										
+381	of Charming1	Reduces all Vendor Prices #%	100	1	1	57		45				6	63	229	0	5	6	-1	0	0	0	-1	0	0	0		45	10	12	0	0	0	0	0	0	0	0	0	0	0	of Charming1	cheap	0		0		0	weap	ring	amul										
+382	Startling	Slows Target by #%	100	1	1	16		13				24	64	114	0	5	10	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Startling	slow	0		0		0	weap	glov											
+383	Stunning1	Slows Target by #%	100	1	1	32		27				24	64	114	0	11	15	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Stunning1	slow	0		0		0	weap	glov											
+384	Daze1	Slows Target by #%	100	1	1	46		41				24	64	114	0	16	20	-1	0	0	0	-1	0	0	0		45	16	0	0	0	0	0	0	0	0	0	0	0	0	Daze1	slow	0		0		0	weap	glov											
+385	Paralysis1	Slows Target by #%	100	1	1	62		56				24	64	114	0	21	25	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	Paralysis1	slow	0		0		0	weap												
+386	of Blindness1	Hit Blinds Target +#	100	1	1	23		20				12	65	91	0	1	1	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blindness1	stupidity	0		0		0	weap												
+387	of Blindness1	Hit Blinds Target +#	100	1	1	44		38				12	65	91	0	2	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blindness1	stupidity	0		0		0	weap												
+388	of Blindness1	Hit Blinds Target +#	100	1	1	61		57				12	65	91	0	3	3	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blindness1	stupidity	0		0		0	weap												
+389	of Reanimation1	Reanimate As: [Returned]	100	1	1	51		47				12	66	117	5	3	5	-1	0	0	0	-1	0	0	0		45	16	12	0	0	0	0	0	0	0	0	0	0	0	of Reanimation1	reanimate	5		0		0	weap	glov	amul										
+390	of Inner Sight	#% Chance to cast level # [Skill] when struck	100	1	1	19		19		ama	1	1	77	128	8	4	6	-1	0	0	0	-1	0	0	0		12	60	75	16	0	0	0	0	0	0	0	0	0	0	of Inner Sight	gethit-skill	8		0		0	amul	amaz	circ	glov									
+391	of Slow Missiles	#% Chance to cast level # [Skill] when struck	100	1	1	12	34	12		ama	12	1	77	128	17	5	1	-1	0	0	0	-1	0	0	0		60	16	12	0	0	0	0	0	0	0	0	0	0	0	of Slow Missiles	gethit-skill	17		0		0	amaz	glov	amul										
+392	of Slow Missiles	#% Chance to cast level # [Skill] when struck	100	1	1	34	65	33		ama	12	1	77	128	17	8	5	-1	0	0	0	-1	0	0	0		60	16	12	0	0	0	0	0	0	0	0	0	0	0	of Slow Missiles	gethit-skill	17		0		0	amaz	glov	amul										
+393	of Slow Missiles	#% Chance to cast level # [Skill] when struck	100	1	1	65		33		ama	12	1	77	128	17	10	8	-1	0	0	0	-1	0	0	0		60	16	12	0	0	0	0	0	0	0	0	0	0	0	of Slow Missiles	gethit-skill	17		0		0	amaz	glov	amul										
+394	of Freezing Arrows	#% Chance to cast level # [Skill] when struck	100	1	1	30	65	33		ama	30	1	77	128	31	25	3	-1	0	0	0	-1	0	0	0		47	85	16	0	0	0	0	0	0	0	0	0	0	0	of Freezing Arrows	gethit-skill	31		0		0	miss	abow	glov										
+395	of Freezing Arrows	#% Chance to cast level # [Skill] when struck	100	1	1	65		67		ama	30	1	77	128	31	100	5	-1	0	0	0	-1	0	0	0		85	47	0	0	0	0	0	0	0	0	0	0	0	0	of Freezing Arrows	gethit-skill	31		0		0	abow	miss											
+396	of Fire Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	1	11	1		sor	1	1	77	128	36	3	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Fire Bolts	gethit-skill	36		0		0	weap	ring	circ										
+397	of Fire Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	11	22	10		sor	1	1	77	128	36	5	4	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Fire Bolts	gethit-skill	36		0		0	weap	ring	circ										
+398	of Fire Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	22	36	20		sor	1	1	77	128	36	7	7	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Fire Bolts	gethit-skill	36		0		0	weap	ring	circ										
+399	of Charged Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	1	11	1		sor	1	1	77	128	38	3	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Charged Bolts	gethit-skill	38		0		0	weap	ring	circ										
+400	of Charged Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	11	22	10		sor	1	1	77	128	38	5	4	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Charged Bolts	gethit-skill	38		0		0	weap	ring	circ										
+401	of Charged Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	22	36	20		sor	1	1	77	128	38	7	7	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Charged Bolts	gethit-skill	38		0		0	weap	ring	circ										
+402	of Ice Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	1	11	1		sor	1	1	77	128	39	3	1	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Bolts	gethit-skill	39		0		0	weap	ring	circ										
+403	of Ice Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	11	22	10		sor	1	1	77	128	39	5	4	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Bolts	gethit-skill	39		0		0	weap	ring	circ										
+404	of Ice Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	22	36	20		sor	1	1	77	128	39	7	7	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Bolts	gethit-skill	39		0		0	weap	ring	circ										
+405	of Frozen Armor	#% Chance to cast level # [Skill] when struck	100	1	1	1	30	1		sor	1	1	77	128	40	8	1	-1	0	0	0	-1	0	0	0		68	3	0	0	0	0	0	0	0	0	0	0	0	0	of Frozen Armor	gethit-skill	40		0		0	orb	tors											
+406	of Frozen Armor	#% Chance to cast level # [Skill] when struck	100	1	1	30		35		sor	1	1	77	128	40	13	4	-1	0	0	0	-1	0	0	0		68	3	0	0	0	0	0	0	0	0	0	0	0	0	of Frozen Armor	gethit-skill	40		0		0	orb	tors											
+407	of Static Field	#% Chance to cast level # [Skill] when struck	100	1	1	6	40	6		sor	6	1	77	128	42	3	4	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Static Field	gethit-skill	42		0		0	weap	ring	circ										
+408	of Static Field	#% Chance to cast level # [Skill] when struck	100	1	1	40		45		sor	6	1	77	128	42	7	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Static Field	gethit-skill	42		0		0	weap	ring	circ										
+409	of Frost Novas	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		sor	6	1	77	128	44	6	3	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	of Frost Novas	gethit-skill	44		0		0	weap	amul	circ										
+410	of Frost Novas	#% Chance to cast level # [Skill] when struck	100	1	1	24		23		sor	6	1	77	128	44	8	7	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	of Frost Novas	gethit-skill	44		0		0	weap	amul	circ										
+411	of Ice Blasts	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		sor	6	1	77	128	45	4	2	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Blasts	gethit-skill	45		0		0	weap	ring	circ										
+412	of Ice Blasts	#% Chance to cast level # [Skill] when struck	100	1	1	24		24		sor	6	1	77	128	45	9	8	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Blasts	gethit-skill	45		0		0	weap	ring	circ										
+413	of Blazing	#% Chance to cast level # [Skill] when struck	100	1	1	18	34	18		sor	12	1	77	128	46	20	4	-1	0	0	0	-1	0	0	0		26	68	15	0	0	0	0	0	0	0	0	0	0	0	of Blazing	gethit-skill	46		0		0	staf	orb	boot										
+414	of Fire Balls	#% Chance to cast level # [Skill] when struck	100	1	1	18	32	18		sor	12	1	77	128	47	5	5	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Balls	gethit-skill	47		0		0	weap												
+415	of Fire Balls	#% Chance to cast level # [Skill] when struck	100	1	1	32	60	33		sor	12	1	77	128	47	7	12	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Balls	gethit-skill	47		0		0	weap												
+416	of Fire Balls	#% Chance to cast level # [Skill] when struck	100	1	1	60		63		sor	12	1	77	128	47	8	20	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Balls	gethit-skill	47		0		0	weap												
+417	of Novas	#% Chance to cast level # [Skill] when struck	100	1	1	28	60	32		sor	12	1	77	128	48	6	9	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	of Novas	gethit-skill	48		0		0	weap	shld											
+418	of Novas	#% Chance to cast level # [Skill] when struck	100	1	1	60		61		sor	12	1	77	128	48	12	15	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	of Novas	gethit-skill	48		0		0	weap	shld											
+419	of Lightning	#% Chance to cast level # [Skill] when struck	100	1	1	24	48	18		sor	12	1	77	128	49	8	7	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning	gethit-skill	49		0		0	weap												
+420	of Lightning	#% Chance to cast level # [Skill] when struck	100	1	1	48	40	48		sor	12	1	77	128	49	8	17	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning	gethit-skill	49		0		0	weap												
+421	of Shiver Armor	#% Chance to cast level # [Skill] when struck	100	1	1	20		20		sor	12	1	77	128	50	12	9	-1	0	0	0	-1	0	0	0		45	3	0	0	0	0	0	0	0	0	0	0	0	0	of Shiver Armor	gethit-skill	50		0		0	weap	tors											
+422	of Fire Walls	#% Chance to cast level # [Skill] when struck	100	1	1	24	45	24		sor	18	1	77	128	51	4	7	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Walls	gethit-skill	51		0		0	weap												
+423	of Fire Walls	#% Chance to cast level # [Skill] when struck	100	1	1	45		45		sor	18	1	77	128	51	7	16	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Walls	gethit-skill	51		0		0	weap												
+424	of Enchantment	#% Chance to cast level # [Skill] when struck	100	1	1	18	36	18		sor	18	1	77	128	52	8	11	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Enchantment	gethit-skill	52		0		0	weap												
+425	of Enchantment	#% Chance to cast level # [Skill] when struck	100	1	1	36		36		sor	18	1	77	128	52	11	19	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Enchantment	gethit-skill	52		0		0	weap												
+426	of Chain Lightning	#% Chance to cast level # [Skill] when struck	100	1	1	24	46	24		sor	18	1	77	128	53	6	6	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Chain Lightning	gethit-skill	53		0		0	weap												
+427	of Chain Lightning	#% Chance to cast level # [Skill] when struck	100	1	1	46		45		sor	18	1	77	128	53	9	17	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Chain Lightning	gethit-skill	53		0		0	weap												
+428	of Teleportation	#% Chance to cast level # [Skill] when struck	100	1	1	30		30		sor	18	1	77	128	54	10	1	-1	0	0	0	-1	0	0	0		45	12	0	0	0	0	0	0	0	0	0	0	0	0	of Teleportation	gethit-skill	54		0		0	weap	amul											
+429	of Glacial Spikes	#% Chance to cast level # [Skill] when struck	100	1	1	18	40	18		sor	18	1	77	128	55	6	9	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Glacial Spikes	gethit-skill	55		0		0	weap												
+430	of Glacial Spikes	#% Chance to cast level # [Skill] when struck	100	1	1	40		40		sor	18	1	77	128	55	9	16	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Glacial Spikes	gethit-skill	55		0		0	weap												
+431	of Meteors	#% Chance to cast level # [Skill] when struck	100	1	1	32	62	32		sor	24	1	77	128	56	4	7	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Meteors	gethit-skill	56		0		0	weap												
+432	of Meteors	#% Chance to cast level # [Skill] when struck	100	1	1	62		65		sor	24	1	77	128	56	8	18	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Meteors	gethit-skill	56		0		0	weap												
+433	of Thunder Storm	#% Chance to cast level # [Skill] when struck	100	1	1	24	55	25		sor	24	1	77	128	57	12	9	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Thunder Storm	gethit-skill	57		0		0	weap												
+434	of Energy Shield	#% Chance to cast level # [Skill] when struck	100	1	1	24	45	25		sor	24	1	77	128	58	7	6	-1	0	0	0	-1	0	0	0		45	104	0	0	0	0	0	0	0	0	0	0	0	0	of Energy Shield	gethit-skill	58		0		0	weap	helm											
+435	of Energy Shield	#% Chance to cast level # [Skill] when struck	100	1	1	45		45		sor	24	1	77	128	58	10	13	-1	0	0	0	-1	0	0	0		104	45	0	0	0	0	0	0	0	0	0	0	0	0	of Energy Shield	gethit-skill	58		0		0	helm	weap											
+436	of Blizzards	#% Chance to cast level # [Skill] when struck	100	1	1	29	57	29		sor	24	1	77	128	59	9	6	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blizzards	gethit-skill	59		0		0	weap												
+437	of Blizzards	#% Chance to cast level # [Skill] when struck	100	1	1	57		60		sor	24	1	77	128	59	14	17	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blizzards	gethit-skill	59		0		0	weap												
+438	of Chilling Armor	#% Chance to cast level # [Skill] when struck	100	1	1	36		38		sor	24	1	77	128	60	15	12	-1	0	0	0	-1	0	0	0		45	3	0	0	0	0	0	0	0	0	0	0	0	0	of Chilling Armor	gethit-skill	60		0		0	weap	tors											
+439	of Hydras	#% Chance to cast level # [Skill] when struck	100	1	1	34	80	34		sor	30	1	77	128	62	6	3	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Hydras	gethit-skill	62		0		0	weap												
+440	of Hydras	#% Chance to cast level # [Skill] when struck	100	1	1	80		85		sor	30	1	77	128	62	12	19	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Hydras	gethit-skill	62		0		0	weap												
+441	of Frozen Orbs	#% Chance to cast level # [Skill] when struck	100	1	1	30	80	33		sor	30	1	77	128	64	4	3	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frozen Orbs	gethit-skill	64		0		0	weap												
+442	of Frozen Orbs	#% Chance to cast level # [Skill] when struck	100	1	1	80		85		sor	30	1	77	128	64	4	22	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frozen Orbs	gethit-skill	64		0		0	weap												
+443	of Amplify Damage	#% Chance to cast level # [Skill] when struck	100	1	1	1	18	1		nec	1	1	77	128	66	4	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Amplify Damage	gethit-skill	66		0		0	weap	head											
+444	of Amplify Damage	#% Chance to cast level # [Skill] when struck	100	1	1	18		20		nec	1	1	77	128	66	8	12	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Amplify Damage	gethit-skill	66		0		0	weap	head											
+445	of Teeth	#% Chance to cast level # [Skill] when struck	100	1	1	1	18	1		nec	1	1	77	128	67	17	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Teeth	gethit-skill	67		0		0	weap	head											
+446	of Teeth	#% Chance to cast level # [Skill] when struck	100	1	1	18		18		nec	1	1	77	128	67	8	20	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Teeth	gethit-skill	67		0		0	weap	head											
+447	of Bone Armor	#% Chance to cast level # [Skill] when struck	100	1	1	1	30	1		nec	1	1	77	128	68	5	1	-1	0	0	0	-1	0	0	0		45	3	69	0	0	0	0	0	0	0	0	0	0	0	of Bone Armor	gethit-skill	68		0		0	weap	tors	head										
+448	of Bone Armor	#% Chance to cast level # [Skill] when struck	100	1	1	30		35		nec	1	1	77	128	68	9	15	-1	0	0	0	-1	0	0	0		3	45	69	0	0	0	0	0	0	0	0	0	0	0	of Bone Armor	gethit-skill	68		0		0	tors	weap	head										
+449	of Dim Vision	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		nec	6	1	77	128	71	5	1	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	of Dim Vision	gethit-skill	71		0		0	ring	circ	head	weap									
+450	of Dim Vision	#% Chance to cast level # [Skill] when struck	100	1	1	24		20		nec	6	1	77	128	71	7	10	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	of Dim Vision	gethit-skill	71		0		0	ring	circ	head	weap									
+451	of Weaken	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		nec	6	1	77	128	72	5	1	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	of Weaken	gethit-skill	72		0		0	weap	glov	head										
+452	of Weaken	#% Chance to cast level # [Skill] when struck	100	1	1	24		24		nec	6	1	77	128	72	8	12	-1	0	0	0	-1	0	0	0		16	45	69	0	0	0	0	0	0	0	0	0	0	0	of Weaken	gethit-skill	72		0		0	glov	weap	head										
+453	of Corpse Explosions	#% Chance to cast level # [Skill] when struck	100	1	1	6	40	6		nec	6	1	77	128	74	4	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Corpse Explosions	gethit-skill	74		0		0	weap	head											
+454	of Corpse Explosions	#% Chance to cast level # [Skill] when struck	100	1	1	40		45		nec	6	1	77	128	74	7	18	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Corpse Explosions	gethit-skill	74		0		0	weap	head											
+455	of Iron Maiden	#% Chance to cast level # [Skill] when struck	100	1	1	12	30	12		nec	12	1	77	128	76	3	1	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Iron Maiden	gethit-skill	76		0		0	shld	weap	head										
+456	of Iron Maiden	#% Chance to cast level # [Skill] when struck	100	1	1	30		30		nec	12	1	77	128	76	6	10	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Iron Maiden	gethit-skill	76		0		0	shld	weap	head										
+457	of Terror	#% Chance to cast level # [Skill] when struck	100	1	1	12	30	12		nec	12	1	77	128	77	4	1	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Terror	gethit-skill	77		0		0	shld	weap	head										
+458	of Terror	#% Chance to cast level # [Skill] when struck	100	1	1	30		30		nec	12	1	77	128	77	9	12	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Terror	gethit-skill	77		0		0	shld	weap	head										
+459	of Bone Walls	#% Chance to cast level # [Skill] when struck	100	1	1	12	35	12		nec	12	1	77	128	78	5	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Bone Walls	gethit-skill	78		0		0	weap	head											
+460	of Bone Walls	#% Chance to cast level # [Skill] when struck	100	1	1	35		37		nec	12	1	77	128	78	4	25	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Bone Walls	gethit-skill	78		0		0	weap	head											
+461	of Confusion	#% Chance to cast level # [Skill] when struck	100	1	1	18	36	18		nec	18	1	77	128	81	35	1	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	of Confusion	gethit-skill	81		0		0	ring	circ	head	weap									
+462	of Confusion	#% Chance to cast level # [Skill] when struck	100	1	1	36		35		nec	18	1	77	128	81	35	5	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	of Confusion	gethit-skill	81		0		0	ring	circ	head	weap									
+463	of Life Tap	#% Chance to cast level # [Skill] when struck	100	1	1	18	40	18		nec	18	1	77	128	82	12	1	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	of Life Tap	gethit-skill	82		0		0	weap	ring	head										
+464	of Life Tap	#% Chance to cast level # [Skill] when struck	100	1	1	40		41		nec	18	1	77	128	82	19	5	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	of Life Tap	gethit-skill	82		0		0	weap	ring	head										
+465	of Poison Explosion	#% Chance to cast level # [Skill] when struck	100	1	1	18	36	18		nec	18	1	77	128	83	4	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Poison Explosion	gethit-skill	83		0		0	weap	head											
+466	of Poison Explosion	#% Chance to cast level # [Skill] when struck	100	1	1	36		36		nec	18	1	77	128	83	5	10	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Poison Explosion	gethit-skill	83		0		0	weap	head											
+467	of Bone Spears	#% Chance to cast level # [Skill] when struck	100	1	1	18	55	18		nec	18	1	77	128	84	7	1	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Bone Spears	gethit-skill	84		0		0	weap	head											
+468	of Bone Spears	#% Chance to cast level # [Skill] when struck	100	1	1	55		55		nec	18	1	77	128	84	11	20	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Bone Spears	gethit-skill	84		0		0	weap	head											
+469	of Attraction	#% Chance to cast level # [Skill] when struck	100	1	1	24	48	25		nec	24	1	77	128	86	5	2	-1	0	0	0	-1	0	0	0		10	12	69	75	45	0	0	0	0	0	0	0	0	0	of Attraction	gethit-skill	86		0		0	ring	amul	head	circ	weap								
+470	of Attraction	#% Chance to cast level # [Skill] when struck	100	1	1	48	77	44		nec	24	1	77	128	86	7	16	-1	0	0	0	-1	0	0	0		10	12	75	69	45	0	0	0	0	0	0	0	0	0	of Attraction	gethit-skill	86		0		0	ring	amul	circ	head	weap								
+471	of Decrepification	#% Chance to cast level # [Skill] when struck	100	1	1	24	70	25		nec	24	1	77	128	87	11	2	-1	0	0	0	-1	0	0	0		45	51	69	0	0	0	0	0	0	0	0	0	0	0	of Decrepification	gethit-skill	87		0		0	weap	shld	head										
+472	of Decrepification	#% Chance to cast level # [Skill] when struck	100	1	1	70		75		nec	24	1	77	128	87	10	15	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Decrepification	gethit-skill	87		0		0	shld	weap	head										
+473	of Bone Imprisonment	#% Chance to cast level # [Skill] when struck	100	1	1	24	46	25		nec	24	1	77	128	88	8	2	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	of Bone Imprisonment	gethit-skill	88		0		0	weap	ring	head										
+474	of Bone Imprisonment	#% Chance to cast level # [Skill] when struck	100	1	1	46		44		nec	24	1	77	128	88	8	14	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	of Bone Imprisonment	gethit-skill	88		0		0	weap	ring	head										
+475	of Lower Resistance	#% Chance to cast level # [Skill] when struck	100	1	1	30	77	33		nec	30	1	77	128	91	6	3	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Lower Resistance	gethit-skill	91		0		0	weap	head											
+476	of Lower Resistance	#% Chance to cast level # [Skill] when struck	100	1	1	77		80		nec	30	1	77	128	91	6	18	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Lower Resistance	gethit-skill	91		0		0	weap	head											
+477	of Poison Novas	#% Chance to cast level # [Skill] when struck	100	1	1	30	48	33		nec	30	1	77	128	92	5	3	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	of Poison Novas	gethit-skill	92		0		0	weap	glov	head										
+478	of Poison Novas	#% Chance to cast level # [Skill] when struck	100	1	1	48		48		nec	30	1	77	128	92	7	14	-1	0	0	0	-1	0	0	0		16	45	16	0	0	0	0	0	0	0	0	0	0	0	of Poison Novas	gethit-skill	92		0		0	glov	weap	glov										
+479	of Bone Spirits	#% Chance to cast level # [Skill] when struck	100	1	1	30	48	33		nec	30	1	77	128	93	4	3	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	of Bone Spirits	gethit-skill	93		0		0	amul	circ	head	weap									
+480	of Bone Spirits	#% Chance to cast level # [Skill] when struck	100	1	1	48		48		nec	30	1	77	128	93	6	23	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	of Bone Spirits	gethit-skill	93		0		0	amul	circ	head	weap									
+481	of Revivification	#% Chance to cast level # [Skill] when struck	100	1	1	30	80	33		nec	30	1	77	128	95	4	3	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Revivification	gethit-skill	95		0		0	weap	head											
+482	of Revivification	#% Chance to cast level # [Skill] when struck	100	1	1	80		85		nec	30	1	77	128	95	7	10	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Revivification	gethit-skill	95		0		0	weap	head											
+483	of Holy Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		pal	6	1	77	128	101	12	1	-1	0	0	0	-1	0	0	0		46	70	12	75	0	0	0	0	0	0	0	0	0	0	of Holy Bolts	gethit-skill	101		0		0	mele	ashd	amul	circ									
+484	of Holy Bolts	#% Chance to cast level # [Skill] when struck	100	1	1	24	50	24		pal	6	1	77	128	101	12	16	-1	0	0	0	-1	0	0	0		12	75	46	75	0	0	0	0	0	0	0	0	0	0	of Holy Bolts	gethit-skill	101		0		0	amul	circ	mele	circ									
+485	of Blessed Hammers	#% Chance to cast level # [Skill] when struck	100	1	1	18	50	18		pal	18	1	77	128	112	5	1	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	of Blessed Hammers	gethit-skill	112		0		0	mele	ashd											
+486	of Blessed Hammers	#% Chance to cast level # [Skill] when struck	100	1	1	50		45		pal	18	1	77	128	112	9	20	-1	0	0	0	-1	0	0	0		46	70	0	0	0	0	0	0	0	0	0	0	0	0	of Blessed Hammers	gethit-skill	112		0		0	mele	ashd											
+487	of Fist of the Heavens	#% Chance to cast level # [Skill] when struck	100	1	1	30	60	33		pal	30	1	77	128	121	4	3	-1	0	0	0	-1	0	0	0		46	70	16	0	0	0	0	0	0	0	0	0	0	0	of Fist of the Heavens	gethit-skill	121		0		0	mele	ashd	glov										
+488	of Fist of the Heavens	#% Chance to cast level # [Skill] when struck	100	1	1	60		60		pal	30	1	77	128	121	7	14	-1	0	0	0	-1	0	0	0		16	46	16	0	0	0	0	0	0	0	0	0	0	0	of Fist of the Heavens	gethit-skill	121		0		0	glov	mele	glov										
+489	of Howling	#% Chance to cast level # [Skill] when struck	100	1	1	1	18	1		bar	1	1	77	128	130	7	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Howling	gethit-skill	130		0		0	phlm	mele											
+490	of Howling	#% Chance to cast level # [Skill] when struck	100	1	1	18	55	18		bar	1	1	77	128	130	8	12	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Howling	gethit-skill	130		0		0	phlm	mele											
+491	of Taunting	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		bar	6	1	77	128	137	4	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Taunting	gethit-skill	137		0		0	phlm	mele											
+492	of Taunting	#% Chance to cast level # [Skill] when struck	100	1	1	24	51	24		bar	6	1	77	128	137	8	13	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Taunting	gethit-skill	137		0		0	phlm	mele											
+493	of Shouting	#% Chance to cast level # [Skill] when struck	100	1	1	6	40	6		bar	6	1	77	128	138	6	3	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Shouting	gethit-skill	138		0		0	phlm	mele											
+494	of Shouting	#% Chance to cast level # [Skill] when struck	100	1	1	40		45		bar	6	1	77	128	138	8	17	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Shouting	gethit-skill	138		0		0	phlm	mele											
+495	of Battle Cry	#% Chance to cast level # [Skill] when struck	100	1	1	18	36	18		bar	18	1	77	128	146	20	1	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Cry	gethit-skill	146		0		0	phlm	mele											
+496	of Battle Cry	#% Chance to cast level # [Skill] when struck	100	1	1	36	65	36		bar	18	1	77	128	146	15	18	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Cry	gethit-skill	146		0		0	phlm	mele											
+497	of Battle Orders	#% Chance to cast level # [Skill] when struck	100	1	1	24	55	25		bar	24	1	77	128	149	5	2	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Orders	gethit-skill	149		0		0	phlm	mele											
+498	of Battle Orders	#% Chance to cast level # [Skill] when struck	100	1	1	55		55		bar	24	1	77	128	149	7	22	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Orders	gethit-skill	149		0		0	phlm	mele											
+499	of Madawcs Fury	#% Chance to cast level # [Skill] when struck	100	1	1	24	50	25		bar	24	1	77	128	150	4	2	-1	0	0	0	-1	0	0	0		71	46	12	0	0	0	0	0	0	0	0	0	0	0	of Madawcs Fury	gethit-skill	150		0		0	phlm	mele	amul										
+500	of Madawcs Fury	#% Chance to cast level # [Skill] when struck	100	1	1	50		55		bar	24	1	77	128	150	8	15	-1	0	0	0	-1	0	0	0		12	71	46	0	0	0	0	0	0	0	0	0	0	0	of Madawcs Fury	gethit-skill	150		0		0	amul	phlm	mele										
+501	of War Cry	#% Chance to cast level # [Skill] when struck	100	1	1	30	55	33		bar	30	1	77	128	154	7	3	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of War Cry	gethit-skill	154		0		0	phlm	mele											
+502	of War Cry	#% Chance to cast level # [Skill] when struck	100	1	1	55		63		bar	30	1	77	128	154	10	13	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of War Cry	gethit-skill	154		0		0	phlm	mele											
+503	of Battle Command	#% Chance to cast level # [Skill] when struck	100	1	1	30	48	33		bar	30	1	77	128	155	4	3	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Command	gethit-skill	155		0		0	phlm	mele											
+504	of Battle Command	#% Chance to cast level # [Skill] when struck	100	1	1	48		53		bar	30	1	77	128	155	8	10	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Command	gethit-skill	155		0		0	phlm	mele											
+505	of Firestorms	#% Chance to cast level # [Skill] when struck	100	1	1	1	18	1		dru	1	1	77	128	225	33	1	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Firestorms	gethit-skill	225		0		0	mele												
+506	of Firestorms	#% Chance to cast level # [Skill] when struck	100	1	1	18	56	18		dru	1	1	77	128	225	33	9	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Firestorms	gethit-skill	225		0		0	mele												
+507	of Molten Boulders	#% Chance to cast level # [Skill] when struck	100	1	1	6	24	6		dru	6	1	77	128	229	4	1	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Molten Boulders	gethit-skill	229		0		0	mele												
+508	of Molten Boulders	#% Chance to cast level # [Skill] when struck	100	1	1	24	53	21		dru	6	1	77	128	229	7	9	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Molten Boulders	gethit-skill	229		0		0	mele												
+509	of Eruption	#% Chance to cast level # [Skill] when struck	100	1	1	12	36	12		dru	12	1	77	128	234	5	1	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Eruption	gethit-skill	234		0		0	mele												
+510	of Eruption	#% Chance to cast level # [Skill] when struck	100	1	1	36	68	36		dru	12	1	77	128	234	8	15	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Eruption	gethit-skill	234		0		0	mele												
+511	of Cyclone Armor	#% Chance to cast level # [Skill] when struck	100	1	1	12	35	12		dru	12	1	77	128	235	6	1	-1	0	0	0	-1	0	0	0		46	3	0	0	0	0	0	0	0	0	0	0	0	0	of Cyclone Armor	gethit-skill	235		0		0	mele	tors											
+512	of Cyclone Armor	#% Chance to cast level # [Skill] when struck	100	1	1	35		37		dru	12	1	77	128	235	9	14	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	of Cyclone Armor	gethit-skill	235		0		0	tors	mele											
+513	of Twister	#% Chance to cast level # [Skill] when struck	100	1	1	18	36	18		dru	18	1	77	128	240	4	1	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	of Twister	gethit-skill	240		0		0	mele	amul	circ										
+514	of Twister	#% Chance to cast level # [Skill] when struck	100	1	1	36		38		dru	18	1	77	128	240	8	17	-1	0	0	0	-1	0	0	0		12	75	46	0	0	0	0	0	0	0	0	0	0	0	of Twister	gethit-skill	240		0		0	amul	circ	mele										
+515	of Volcano	#% Chance to cast level # [Skill] when struck	100	1	1	24	42	25		dru	24	1	77	128	244	4	2	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Volcano	gethit-skill	244		0		0	mele												
+516	of Volcano	#% Chance to cast level # [Skill] when struck	100	1	1	42		44		dru	24	1	77	128	244	7	15	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Volcano	gethit-skill	244		0		0	mele												
+517	of Tornado	#% Chance to cast level # [Skill] when struck	100	1	1	24	49	25		dru	24	1	77	128	245	6	2	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	of Tornado	gethit-skill	245		0		0	mele	amul	circ										
+518	of Tornado	#% Chance to cast level # [Skill] when struck	100	1	1	49		50		dru	24	1	77	128	245	7	16	-1	0	0	0	-1	0	0	0		12	75	46	0	0	0	0	0	0	0	0	0	0	0	of Tornado	gethit-skill	245		0		0	amul	circ	mele										
+519	of Armageddon	#% Chance to cast level # [Skill] when struck	100	1	1	30	60	33		dru	30	1	77	128	249	4	4	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Armageddon	gethit-skill	249		0		0	mele												
+520	of Armageddon	#% Chance to cast level # [Skill] when struck	100	1	1	60		70		dru	30	1	77	128	249	6	19	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Armageddon	gethit-skill	249		0		0	mele												
+521	of Hurricane	#% Chance to cast level # [Skill] when struck	100	1	1	30	65	33		dru	30	1	77	128	250	11	3	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	of Hurricane	gethit-skill	250		0		0	mele	amul	circ										
+522	of Hurricane	#% Chance to cast level # [Skill] when struck	100	1	1	65		65		dru	30	1	77	128	250	8	21	-1	0	0	0	-1	0	0	0		12	75	46	0	0	0	0	0	0	0	0	0	0	0	of Hurricane	gethit-skill	250		0		0	amul	circ	mele										
+523	of Burst of Speed2	#% Chance to cast level # [Skill] when struck	100	1	1	6	40	6		ass	6	1	77	128	258	5	2	-1	0	0	0	-1	0	0	0		15	46	0	0	0	0	0	0	0	0	0	0	0	0	of Burst of Speed2	gethit-skill	258		0		0	boot	mele											
+524	of Burst of Speed2	#% Chance to cast level # [Skill] when struck	100	1	1	40		45		ass	6	1	77	128	258	8	8	-1	0	0	0	-1	0	0	0		15	46	0	0	0	0	0	0	0	0	0	0	0	0	of Burst of Speed2	gethit-skill	258		0		0	boot	mele											
+525	of Cloak of Shadows2	#% Chance to cast level # [Skill] when struck	100	1	1	18	36	18		ass	18	1	77	128	264	5	1	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	of Cloak of Shadows2	gethit-skill	264		0		0	amul	mele											
+526	of Cloak of Shadows2	#% Chance to cast level # [Skill] when struck	100	1	1	36		38		ass	18	1	77	128	264	9	13	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	of Cloak of Shadows2	gethit-skill	264		0		0	amul	mele											
+527	of Fading2	#% Chance to cast level # [Skill] when struck	100	1	1	18	50	18		ass	18	1	77	128	267	4	1	-1	0	0	0	-1	0	0	0		3	12	46	0	0	0	0	0	0	0	0	0	0	0	of Fading2	gethit-skill	267		0		0	tors	amul	mele										
+528	of Fading2	#% Chance to cast level # [Skill] when struck	100	1	1	50		53		ass	18	1	77	128	267	8	12	-1	0	0	0	-1	0	0	0		3	12	46	0	0	0	0	0	0	0	0	0	0	0	of Fading2	gethit-skill	267		0		0	tors	amul	mele										
+529	of Mind Blasting2	#% Chance to cast level # [Skill] when struck	100	1	1	24	48	25		ass	24	1	77	128	273	3	2	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	of Mind Blasting2	gethit-skill	273		0		0	helm	mele											
+530	of Mind Blasting2	#% Chance to cast level # [Skill] when struck	100	1	1	48		48		ass	24	1	77	128	273	7	18	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	of Mind Blasting2	gethit-skill	273		0		0	helm	mele											
+531	of Blade Shield2	#% Chance to cast level # [Skill] when struck	100	1	1	30	48	33		ass	30	1	77	128	277	6	3	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	of Blade Shield2	gethit-skill	277		0		0	tors	mele											
+532	of Blade Shield2	#% Chance to cast level # [Skill] when struck	100	1	1	48		50		ass	30	1	77	128	277	9	17	-1	0	0	0	-1	0	0	0		3	46	0	0	0	0	0	0	0	0	0	0	0	0	of Blade Shield2	gethit-skill	277		0		0	tors	mele											
+533	of Venom	#% Chance to cast level # [Skill] when struck	100	1	1	30	57	33		ass	30	1	77	128	278	12	3	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	of Venom	gethit-skill	278		0		0	glov	mele											
+534	of Venom	#% Chance to cast level # [Skill] when struck	100	1	1	57		61		ass	30	1	77	128	278	8	19	-1	0	0	0	-1	0	0	0		16	46	0	0	0	0	0	0	0	0	0	0	0	0	of Venom	gethit-skill	278		0		0	glov	mele											
+535	of Inner Sight	#% Chance to cast level # [Skill] on striking	100	1	1	1	46	1		ama	1	1	78	127	8	3	3	-1	0	0	0	-1	0	0	0		12	60	75	16	0	0	0	0	0	0	0	0	0	0	of Inner Sight	hit-skill	8		0		0	amul	amaz	circ	glov									
+536	of Inner Sight	#% Chance to cast level # [Skill] on striking	100	1	1	46		46		ama	1	1	78	127	8	10	11	-1	0	0	0	-1	0	0	0		12	60	75	16	0	0	0	0	0	0	0	0	0	0	of Inner Sight	hit-skill	8		0		0	amul	amaz	circ	glov									
+537	of Slow Missiles	#% Chance to cast level # [Skill] on striking	100	1	1	34		33		ama	12	1	78	127	17	4	2	-1	0	0	0	-1	0	0	0		60	16	12	0	0	0	0	0	0	0	0	0	0	0	of Slow Missiles	hit-skill	17		0		0	amaz	glov	amul										
+538	of Lightning Fury	#% Chance to cast level # [Skill] on striking	100	1	1	30	70	33		ama	30	1	78	127	35	5	7	-1	0	0	0	-1	0	0	0		44	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning Fury	hit-skill	35		0		0	jave												
+539	of Lightning Fury	#% Chance to cast level # [Skill] on striking	100	1	1	70		71		ama	30	1	78	127	35	9	15	-1	0	0	0	-1	0	0	0		44	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning Fury	hit-skill	35		0		0	jave												
+540	of Fire Bolts	#% Chance to cast level # [Skill] on striking	100	1	1	1	11	1		sor	1	1	78	127	36	5	2	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Fire Bolts	hit-skill	36		0		0	weap	ring	circ										
+541	of Fire Bolts	#% Chance to cast level # [Skill] on striking	100	1	1	11	44	11		sor	1	1	78	127	36	8	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Fire Bolts	hit-skill	36		0		0	weap	ring	circ										
+542	of Charged Bolts	#% Chance to cast level # [Skill] on striking	100	1	1	1	11	1		sor	1	1	78	127	38	5	2	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Charged Bolts	hit-skill	38		0		0	weap	ring	circ										
+543	of Charged Bolts	#% Chance to cast level # [Skill] on striking	100	1	1	11	44	11		sor	1	1	78	127	38	8	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Charged Bolts	hit-skill	38		0		0	weap	ring	circ										
+544	of Ice Bolts	#% Chance to cast level # [Skill] on striking	100	1	1	1	11	1		sor	1	1	78	127	39	5	2	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Bolts	hit-skill	39		0		0	weap	ring	circ										
+545	of Ice Bolts	#% Chance to cast level # [Skill] on striking	100	1	1	11	44	11		sor	1	1	78	127	39	8	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Bolts	hit-skill	39		0		0	weap	ring	circ										
+546	of Static Field	#% Chance to cast level # [Skill] on striking	100	1	1	18	40	18		sor	6	1	78	127	42	3	4	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Static Field	hit-skill	42		0		0	weap	ring	circ										
+547	of Static Field	#% Chance to cast level # [Skill] on striking	100	1	1	40		41		sor	6	1	78	127	42	6	9	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Static Field	hit-skill	42		0		0	weap	ring	circ										
+548	of Frost Novas	#% Chance to cast level # [Skill] on striking	100	1	1	6	42	6		sor	6	1	78	127	44	6	3	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	of Frost Novas	hit-skill	44		0		0	weap	amul	circ										
+549	of Frost Novas	#% Chance to cast level # [Skill] on striking	100	1	1	42		42		sor	6	1	78	127	44	6	13	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	of Frost Novas	hit-skill	44		0		0	weap	amul	circ										
+550	of Ice Blasts	#% Chance to cast level # [Skill] on striking	100	1	1	6	32	6		sor	6	1	78	127	45	4	2	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Blasts	hit-skill	45		0		0	weap	ring	circ										
+551	of Ice Blasts	#% Chance to cast level # [Skill] on striking	100	1	1	32		32		sor	6	1	78	127	45	7	12	-1	0	0	0	-1	0	0	0		45	10	75	0	0	0	0	0	0	0	0	0	0	0	of Ice Blasts	hit-skill	45		0		0	weap	ring	circ										
+552	of Fire Balls	#% Chance to cast level # [Skill] on striking	100	1	1	18	32	18		sor	12	1	78	127	47	5	5	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Balls	hit-skill	47		0		0	weap												
+553	of Fire Balls	#% Chance to cast level # [Skill] on striking	100	1	1	32		32		sor	12	1	78	127	47	5	19	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Balls	hit-skill	47		0		0	weap												
+554	of Novas	#% Chance to cast level # [Skill] on striking	100	1	1	28	60	32		sor	12	1	78	127	48	6	9	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	of Novas	hit-skill	48		0		0	weap	shld											
+555	of Novas	#% Chance to cast level # [Skill] on striking	100	1	1	60		60		sor	12	1	78	127	48	6	21	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	of Novas	hit-skill	48		0		0	weap	shld											
+556	of Lightning	#% Chance to cast level # [Skill] on striking	100	1	1	48		48		sor	12	1	78	127	49	8	14	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning	hit-skill	49		0		0	weap												
+557	of Fire Walls	#% Chance to cast level # [Skill] on striking	100	1	1	24	45	24		sor	18	1	78	127	51	4	7	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Walls	hit-skill	51		0		0	weap												
+558	of Fire Walls	#% Chance to cast level # [Skill] on striking	100	1	1	45		45		sor	18	1	78	127	51	6	14	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire Walls	hit-skill	51		0		0	weap												
+559	of Chain Lightning	#% Chance to cast level # [Skill] on striking	100	1	1	46		46		sor	18	1	78	127	53	6	16	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Chain Lightning	hit-skill	53		0		0	weap												
+560	of Glacial Spikes	#% Chance to cast level # [Skill] on striking	100	1	1	18	40	18		sor	18	1	78	127	55	6	2	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Glacial Spikes	hit-skill	55		0		0	weap												
+561	of Glacial Spikes	#% Chance to cast level # [Skill] on striking	100	1	1	40		40		sor	18	1	78	127	55	7	11	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Glacial Spikes	hit-skill	55		0		0	weap												
+562	of Meteors	#% Chance to cast level # [Skill] on striking	100	1	1	32	62	32		sor	24	1	78	127	56	4	7	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Meteors	hit-skill	56		0		0	weap												
+563	of Meteors	#% Chance to cast level # [Skill] on striking	100	1	1	62		62		sor	24	1	78	127	56	5	19	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Meteors	hit-skill	56		0		0	weap												
+564	of Blizzards	#% Chance to cast level # [Skill] on striking	100	1	1	29	57	29		sor	24	1	78	127	59	9	6	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blizzards	hit-skill	59		0		0	weap												
+565	of Blizzards	#% Chance to cast level # [Skill] on striking	100	1	1	57		57		sor	24	1	78	127	59	5	18	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blizzards	hit-skill	59		0		0	weap												
+566	of Hydras	#% Chance to cast level # [Skill] on striking	100	1	1	34	80	34		sor	30	1	78	127	62	3	3	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Hydras	hit-skill	62		0		0	weap												
+567	of Hydras	#% Chance to cast level # [Skill] on striking	100	1	1	80		80		sor	30	1	78	127	62	2	21	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Hydras	hit-skill	62		0		0	weap												
+568	of Frozen Orbs	#% Chance to cast level # [Skill] on striking	100	1	1	48		48		sor	30	1	78	127	64	7	12	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frozen Orbs	hit-skill	64		0		0	weap												
+569	of Amplify Damage	#% Chance to cast level # [Skill] on striking	100	1	1	1	35	1		nec	1	1	78	127	66	4	2	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Amplify Damage	hit-skill	66		0		0	weap	head											
+570	of Amplify Damage	#% Chance to cast level # [Skill] on striking	100	1	1	35		35		nec	1	1	78	127	66	5	9	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Amplify Damage	hit-skill	66		0		0	weap	head											
+571	of Teeth	#% Chance to cast level # [Skill] on striking	100	1	1	1	18	4		nec	1	1	78	127	67	10	4	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Teeth	hit-skill	67		0		0	weap	head											
+572	of Dim Vision	#% Chance to cast level # [Skill] on striking	100	1	1	24		24		nec	6	1	78	127	71	5	9	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	of Dim Vision	hit-skill	71		0		0	ring	circ	head	weap									
+573	of Weaken	#% Chance to cast level # [Skill] on striking	100	1	1	24		24		nec	6	1	78	127	72	5	10	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	of Weaken	hit-skill	72		0		0	weap	glov	head										
+574	of Corpse Explosions	#% Chance to cast level # [Skill] on striking	100	1	1	30		30		nec	6	1	78	127	74	4	11	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Corpse Explosions	hit-skill	74		0		0	weap	head											
+575	of Iron Maiden	#% Chance to cast level # [Skill] on striking	100	1	1	30		30		nec	12	1	78	127	76	5	8	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Iron Maiden	hit-skill	76		0		0	shld	weap	head										
+576	of Terror	#% Chance to cast level # [Skill] on striking	100	1	1	24		24		nec	12	1	78	127	77	4	7	-1	0	0	0	-1	0	0	0		51	45	69	0	0	0	0	0	0	0	0	0	0	0	of Terror	hit-skill	77		0		0	shld	weap	head										
+577	of Confusion	#% Chance to cast level # [Skill] on striking	100	1	1	22		22		nec	18	1	78	127	81	7	5	-1	0	0	0	-1	0	0	0		10	75	69	45	0	0	0	0	0	0	0	0	0	0	of Confusion	hit-skill	81		0		0	ring	circ	head	weap									
+578	of Life Tap	#% Chance to cast level # [Skill] on striking	100	1	1	32		32		nec	18	1	78	127	82	8	7	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	of Life Tap	hit-skill	82		0		0	weap	ring	head										
+579	of Poison Explosion	#% Chance to cast level # [Skill] on striking	100	1	1	27		27		nec	18	1	78	127	83	4	9	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Poison Explosion	hit-skill	83		0		0	weap	head											
+580	of Bone Spears	#% Chance to cast level # [Skill] on striking	100	1	1	30		30		nec	18	1	78	127	84	4	11	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Bone Spears	hit-skill	84		0		0	weap	head											
+581	of Decrepification	#% Chance to cast level # [Skill] on striking	100	1	1	38		38		nec	24	1	78	127	87	6	9	-1	0	0	0	-1	0	0	0		45	51	69	0	0	0	0	0	0	0	0	0	0	0	of Decrepification	hit-skill	87		0		0	weap	shld	head										
+582	of Bone Imprisonment	#% Chance to cast level # [Skill] on striking	100	1	1	30		30		nec	24	1	78	127	88	5	5	-1	0	0	0	-1	0	0	0		45	10	69	0	0	0	0	0	0	0	0	0	0	0	of Bone Imprisonment	hit-skill	88		0		0	weap	ring	head										
+583	of Lower Resistance	#% Chance to cast level # [Skill] on striking	100	1	1	45		45		nec	30	1	78	127	91	6	13	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Lower Resistance	hit-skill	91		0		0	weap	head											
+584	of Poison Novas	#% Chance to cast level # [Skill] on striking	100	1	1	55		55		nec	30	1	78	127	92	5	22	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	of Poison Novas	hit-skill	92		0		0	weap	glov	head										
+585	of Bone Spirits	#% Chance to cast level # [Skill] on striking	100	1	1	48		48		nec	30	1	78	127	93	4	18	-1	0	0	0	-1	0	0	0		12	75	69	45	0	0	0	0	0	0	0	0	0	0	of Bone Spirits	hit-skill	93		0		0	amul	circ	head	weap									
+586	of Revivification	#% Chance to cast level # [Skill] on striking	100	1	1	51		51		nec	30	1	78	127	95	3	8	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Revivification	hit-skill	95		0		0	weap	head											
+587	of Firestorms	#% Chance to cast level # [Skill] on striking	100	1	1	1	18	1		dru	1	1	78	127	225	12	4	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Firestorms	hit-skill	225		0		0	mele												
+588	of Firestorms	#% Chance to cast level # [Skill] on striking	100	1	1	18	36	18		dru	1	1	78	127	225	6	12	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Firestorms	hit-skill	225		0		0	mele												
+589	of Molten Boulders	#% Chance to cast level # [Skill] on striking	100	1	1	18		18		dru	6	1	78	127	229	4	9	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Molten Boulders	hit-skill	229		0		0	mele												
+590	of Eruption	#% Chance to cast level # [Skill] on striking	100	1	1	36		36		dru	12	1	78	127	234	5	21	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Eruption	hit-skill	234		0		0	mele												
+591	of Twister	#% Chance to cast level # [Skill] on striking	100	1	1	24	48	24		dru	18	1	78	127	240	7	7	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	of Twister	hit-skill	240		0		0	mele	amul	circ										
+592	of Volcano	#% Chance to cast level # [Skill] on striking	100	1	1	48		48		dru	24	1	78	127	244	3	22	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Volcano	hit-skill	244		0		0	mele												
+593	of Tornado	#% Chance to cast level # [Skill] on striking	100	1	1	36		36		dru	24	1	78	127	245	7	12	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	of Tornado	hit-skill	245		0		0	mele	amul	circ										
+594	of Armageddon	#% Chance to cast level # [Skill] on striking	100	1	1	60		60		dru	30	1	78	127	249	3	24	-1	0	0	0	-1	0	0	0		46	0	0	0	0	0	0	0	0	0	0	0	0	0	of Armageddon	hit-skill	249		0		0	mele												
+595	of Cloak of Shadows2	#% Chance to cast level # [Skill] on striking	100	1	1	18		18		ass	18	1	78	127	264	5	3	-1	0	0	0	-1	0	0	0		12	46	0	0	0	0	0	0	0	0	0	0	0	0	of Cloak of Shadows2	hit-skill	264		0		0	amul	mele											
+596	of Mind Blasting2	#% Chance to cast level # [Skill] on striking	100	1	1	30		30		ass	24	1	78	127	273	3	7	-1	0	0	0	-1	0	0	0		104	46	0	0	0	0	0	0	0	0	0	0	0	0	of Mind Blasting2	hit-skill	273		0		0	helm	mele											
+597	of Inner Sight	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	6		6		ama	1	4	79	235	8	100	17	-1	0	0	0	-1	0	0	0		12	60	75	16	0	0	0	0	0	0	0	0	0	0	of Inner Sight	levelup-skill	Inner Sight		0		0	amul	amaz	circ	glov									
+598	of Enchantment	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	18		18		sor	18	4	79	235	52	100	27	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Enchantment	levelup-skill	Enchant		0		0	weap												
+599	of Thunder Storm	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	24		24		sor	24	4	79	235	57	100	24	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Thunder Storm	levelup-skill	Thunder Storm		0		0	weap												
+600	of Chilling Armor	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	24		24		sor	24	4	79	235	60	100	17	-1	0	0	0	-1	0	0	0		45	3	0	0	0	0	0	0	0	0	0	0	0	0	of Chilling Armor	levelup-skill	Chilling Armor		0		0	weap	tors											
+601	of Bone Armor	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	20		20		nec	1	4	79	235	68	100	20	-1	0	0	0	-1	0	0	0		45	3	69	0	0	0	0	0	0	0	0	0	0	0	of Bone Armor	levelup-skill	Bone Armor		0		0	weap	tors	head										
+602	of Shouting	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	6		6		bar	6	4	79	235	138	100	9	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Shouting	levelup-skill	Shout		0		0	phlm	mele											
+603	of Shouting	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	36		36		bar	6	4	79	235	138	100	20	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Shouting	levelup-skill	Shout		0		0	phlm	mele											
+604	of Battle Orders	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	30		30		bar	24	4	79	235	149	100	7	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Orders	levelup-skill	Battle Orders		0		0	phlm	mele											
+605	of Battle Orders	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	55		55		bar	24	4	79	235	149	100	39	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Orders	levelup-skill	Battle Orders		0		0	phlm	mele											
+606	of Battle Command	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	39		39		bar	30	4	79	235	155	100	28	-1	0	0	0	-1	0	0	0		71	46	0	0	0	0	0	0	0	0	0	0	0	0	of Battle Command	levelup-skill	Battle Command		0		0	phlm	mele											
+607	of Cyclone Armor	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	24		24		dru	12	4	79	235	235	100	24	-1	0	0	0	-1	0	0	0		46	3	0	0	0	0	0	0	0	0	0	0	0	0	of Cyclone Armor	levelup-skill	Cyclone Armor		0		0	mele	tors											
+608	of Hurricane	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	55		55		dru	30	4	79	235	250	100	22	-1	0	0	0	-1	0	0	0		46	12	75	0	0	0	0	0	0	0	0	0	0	0	of Hurricane	levelup-skill	Hurricane		0		0	mele	amul	circ										
+609	of Burst of Speed2	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	6		6		ass	6	4	79	235	258	100	4	-1	0	0	0	-1	0	0	0		15	46	0	0	0	0	0	0	0	0	0	0	0	0	of Burst of Speed2	levelup-skill	Quickness		0		0	boot	mele											
+610	of Burst of Speed2	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	36		36		ass	6	4	79	235	258	100	30	-1	0	0	0	-1	0	0	0		15	46	0	0	0	0	0	0	0	0	0	0	0	0	of Burst of Speed2	levelup-skill	Quickness		0		0	boot	mele											
+611	of Fading2	#% Chance to cast level # [Skill] when you Level-Up	100	1	1	30		30		ass	18	4	79	235	267	100	14	-1	0	0	0	-1	0	0	0		3	12	46	0	0	0	0	0	0	0	0	0	0	0	of Fading2	levelup-skill	Fade		0		0	tors	amul	mele										
+612	of Frost Novas	#% Chance to cast level # [Skill] when you Die	100	1	1	36		36		sor	6	2	79	234	44	100	48	-1	0	0	0	-1	0	0	0		45	12	75	0	0	0	0	0	0	0	0	0	0	0	of Frost Novas	death-skill	Frost Nova		0		0	weap	amul	circ										
+613	of Novas	#% Chance to cast level # [Skill] when you Die	100	1	1	36		36		sor	12	2	79	234	48	100	48	-1	0	0	0	-1	0	0	0		45	51	0	0	0	0	0	0	0	0	0	0	0	0	of Novas	death-skill	Nova		0		0	weap	shld											
+614	of Chain Lightning	#% Chance to cast level # [Skill] when you Die	100	1	1	36		36		sor	18	2	79	234	53	100	48	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Chain Lightning	death-skill	Chain Lightning		0		0	weap												
+615	of Meteors	#% Chance to cast level # [Skill] when you Die	100	1	1	42		42		sor	24	2	79	234	56	100	48	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Meteors	death-skill	Meteor		0		0	weap												
+616	of Blizzards	#% Chance to cast level # [Skill] when you Die	100	1	1	42		42		sor	24	2	79	234	59	100	48	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blizzards	death-skill	Blizzard		0		0	weap												
+617	of Frozen Orbs	#% Chance to cast level # [Skill] when you Die	100	1	1	48		48		sor	30	2	79	234	64	100	48	-1	0	0	0	-1	0	0	0		45	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frozen Orbs	death-skill	Frozen Orb		0		0	weap												
+618	of Corpse Explosions	#% Chance to cast level # [Skill] when you Die	100	1	1	36		36		nec	6	2	79	234	74	100	36	-1	0	0	0	-1	0	0	0		45	69	0	0	0	0	0	0	0	0	0	0	0	0	of Corpse Explosions	death-skill	Corpse Explosion		0		0	weap	head											
+619	of Poison Novas	#% Chance to cast level # [Skill] when you Die	100	1	1	48		48		nec	30	2	79	234	92	100	48	-1	0	0	0	-1	0	0	0		45	16	69	0	0	0	0	0	0	0	0	0	0	0	of Poison Novas	death-skill	Poison Nova		0		0	weap	glov	head										
+620	of Armageddon	#% Chance to cast level # [Skill] when you Die	100	1	1	48		48		dru	30	2	79	234	249	100	48	-1	0	0	0	-1	0	0	0		46	60	0	0	0	0	0	0	0	0	0	0	0	0	of Armageddon	death-skill	Armageddon		0		0	mele	amaz											
+621	of Draining	Life gained after each hit	100	1	1	20		20				8	80	335	0	1	3	-1	0	0	0	-1	0	0	0	dred	46	60	0	0	0	0	0	0	0	0	0	0	0	0	of Draining	healperhit	0		0		0	mele	amaz											
+622	of Funneling	Life gained after each hit	100	1	1	20		20				6	80	335	0	4	6	-1	0	0	0	-1	0	0	0	dred	46	60	0	0	0	0	0	0	0	0	0	0	0	0	of Funneling	healperhit	0		0		0	mele	amaz											
+623	of Pumping	Life gained after each hit	100	1	1	20		20				4	80	335	0	7	9	-1	0	0	0	-1	0	0	0	dred	46	60	0	0	0	0	0	0	0	0	0	0	0	0	of Pumping	healperhit	0		0		0	mele	amaz											
+624	of Siphoning	Life gained after each hit	100	1	1	20		20				2	80	335	0	10	12	-1	0	0	0	-1	0	0	0	dred	46	60	0	0	0	0	0	0	0	0	0	0	0	0	of Siphoning	healperhit	0		0		0	mele	amaz											
+625	of Splitting	+# Bone Spear Projectiles	100	1	1	30		30		nec	30	64	81	346	0	1	1	-1	0	0	0	-1	0	0	0		69	25	0	0	0	0	0	0	0	0	0	0	0	0	of Splitting	extra_bonespears	0		0		0	head	wand											
+626	of Splitting	+# Holy Bolt Projectiles	100	1	1	30		30		pal	30	64	81	353	0	1	1	-1	0	0	0	-1	0	0	0		24	70	0	0	0	0	0	0	0	0	0	0	0	0	of Splitting	extra_holybolt	0		0		0	scep	ashd											
+627	of Craftsmanship	+# to Maximum Damage	100	1	0	21	70	15				20	14	28	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Craftsmanship	dmg-max	0		0		0	scha												
+628	of Quality	+# to Maximum Damage	100	1	0	36		45				10	14	28	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Quality	dmg-max	0		0		0	scha												
+629	of Maiming	+# to Maximum Damage	100	1	0	60		75				3	14	28	0	10	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Maiming	dmg-max	0		0		0	scha												
+630	of Frost	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	0	14	70	10				20	10	17	0	1	1	18	0	1	5	19	0	25	25		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frost	cold-min	0	cold-max	0	cold-len	0	scha												
+631	of the Icicle	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	0	21		25				10	10	17	0	2	5	18	0	5	10	19	0	25	25		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Icicle	cold-min	0	cold-max	0	cold-len	0	scha												
+632	of the Glacier	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	0	60		40				3	10	17	0	3	10	18	0	10	20	19	0	25	25		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Glacier	cold-min	0	cold-max	0	cold-len	0	scha												
+633	of Winter	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	0	81		75				1	10	17	0	5	20	18	0	20	40	19	0	25	25		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Winter	cold-min	0	cold-max	0	cold-len	0	scha												
+634	of Flame	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	14	70	10				20	12	20	0	1	1	21	0	1	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Flame	fire-min	0	fire-max	0		0	scha												
+635	of Fire	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	21		25				10	12	20	0	2	5	21	0	5	10	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire	fire-min	0	fire-max	0		0	scha												
+636	of Burning	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	60		40				3	12	20	0	3	10	21	0	10	20	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Burning	fire-min	0	fire-max	0		0	scha												
+637	of Incineration	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	81		75				1	12	20	0	5	20	21	0	20	40	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Incineration	fire-min	0	fire-max	0		0	scha												
+638	of Shock	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	14	70	10				20	13	22	0	1	1	23	0	1	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Shock	ltng-min	0	ltng-max	0		0	scha												
+639	of Lightning	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	21		25				10	13	22	0	2	5	23	0	5	10	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning	ltng-min	0	ltng-max	0		0	scha												
+640	of Thunder	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	60		40				3	13	22	0	3	10	23	0	10	20	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Thunder	ltng-min	0	ltng-max	0		0	scha												
+641	of Storms	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	81		75				1	13	22	0	5	20	23	0	20	40	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Storms	ltng-min	0	ltng-max	0		0	scha												
+642	of Blight	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	15	70	10				20	16	134	75	20	20	88	0	2	3	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blight	dmg-pois	res-pois-len	0		0	scha												
+643	of Venom	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	30		25				10	16	134	75	60	60	88	0	4	5	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Venom	dmg-pois	res-pois-len	0		0	scha												
+644	of Pestilence	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	45		40				3	16	134	100	180	180	88	0	6	7	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Pestilence	dmg-pois	res-pois-len	0		0	scha												
+645	of Anthrax	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	81		75				1	16	134	125	360	360	88	0	8	9	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Anthrax	dmg-pois	res-pois-len	0		0	scha												
+646	of Life	+# to Life	100	1	0	1	70	14				20	26	13	0	5	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Life	hp	0		0		0	scha												
+647	of Substinence	+# to Life	100	1	0	23		17				10	26	13	0	10	15	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Substinence	hp	0		0		0	scha												
+648	of Vita	+# to Life	100	1	0	47		39				3	26	13	0	15	20	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vita	hp	0		0		0	scha												
+649	of Inertia	+#% Faster Run/Walk	100	1	0	35		27				5	35	76	0	3	3	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Inertia	move1	0		0		0	scha												
+650	of Balance	+#% Faster Hit Recovery	100	1	0	37		29				5	18	79	0	5	5	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Balance	balance1	0		0		0	scha												
+651	of Fortune	#% Better Chance of Getting Magic Items	100	1	0	20		20				5	22	59	0	3	6	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fortune	mag%	0		0		0	scha												
+652	of Good Luck	#% Better Chance of Getting Magic Items	100	1	0	60		60				1	22	59	0	6	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0	0	0	of Good Luck	mag%	0		0		0	scha												
+653	of Defense1	+# Defense	100	1	0	7	70	10				10	31	0	0	5	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of Defense1	ac	0		0		0	scha												
+654	of Defense1	+# Defense	100	1	0	25		30				5	31	0	0	10	15	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of Defense1	ac	0		0		0	scha												
+655	of Guarding	+# Defense	100	1	0	60		60				1	31	0	0	15	25	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of Guarding	ac	0		0		0	scha												
+656	of Energy	+# Mana	100	1	0	7	70	10				10	31	11	0	5	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of Energy	mana	0		0		0	scha												
+657	of Energy	+# Mana	100	1	0	25		30				5	31	11	0	10	15	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of Energy	mana	0		0		0	scha												
+658	of Sorcery	+# Mana	100	1	0	60		60				1	31	11	0	15	20	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of Sorcery	mana	0		0		0	scha												
+659	of the Weasel	+# Attack Rating	100	1	0	7	70	10				10	31	15	0	5	10	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of the Weasel	att	0		0		0	scha												
+660	of the Fox	+# Attack Rating	100	1	0	25		30				5	31	15	0	10	15	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of the Fox	att	0		0		0	scha												
+661	of the Jackal	+# Attack Rating	100	1	0	60		60				1	31	15	0	15	25	-1	0	0	0	-1	0	0	0		82	0	0	0	0	0	0	0	0	0	0	0			of the Jackal	att	0		0		0	scha												
+662	of Defense1	+# Defense	100	1	0	7	70	10				10	31	0	0	10	15	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of Defense1	ac	0		0		0	mcha												
+663	of Defense1	+# Defense	100	1	0	25		30				5	31	0	0	20	30	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of Defense1	ac	0		0		0	mcha												
+664	of Guarding	+# Defense	100	1	0	60		60				1	31	0	0	40	50	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of Guarding	ac	0		0		0	mcha												
+665	of the Mind	+# Mana	100	1	0	7	70	10				10	31	11	0	5	10	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of the Mind	mana	0		0		0	mcha												
+666	of the Mind	+# Mana	100	1	0	25		30				5	31	11	0	10	20	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of the Mind	mana	0		0		0	mcha												
+667	of Wizardry	+# Mana	100	1	0	60		60				1	31	11	0	25	40	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of Wizardry	mana	0		0		0	mcha												
+668	of the Wolf	+# Attack Rating	100	1	0	7	70	10				10	31	15	0	10	15	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of the Wolf	att	0		0		0	mcha												
+669	of the Tiger	+# Attack Rating	100	1	0	25		30				5	31	15	0	20	30	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of the Tiger	att	0		0		0	mcha												
+670	of the Bear	+# Attack Rating	100	1	0	60		60				1	31	15	0	40	50	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0			of the Bear	att	0		0		0	mcha												
+671	of Dexterity	+# to Dexterity	100	1	0	7		10				10	31	8	0	2	4	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0		0		0	mcha												
+672	of Dexterity	+# to Dexterity	100	1	0	25		30				10	31	8	0	4	6	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0		0		0	mcha												
+673	of Strength	+# to Strength	100	1	0	7		10				10	31	7	0	2	4	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Strength	str	0		0		0	mcha												
+674	of Strength	+# to Strength	100	1	0	25		30				10	31	7	0	4	6	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Strength	str	0		0		0	mcha												
+675	of Vitality	+# to Vitality	100	1	0	7		10				10	31	9	0	2	4	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vitality	vit	0		0		0	mcha												
+676	of Vitality	+# to Vitality	100	1	0	25		30				10	31	9	0	4	6	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vitality	vit	0		0		0	mcha												
+677	of Energy	+# to Energy	100	1	0	7		10				10	31	10	0	2	4	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Energy	enr	0		0		0	mcha												
+678	of Energy	+# to Energy	100	1	0	25		30				10	31	10	0	4	6	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Energy	enr	0		0		0	mcha												
+679	of the Swordsman	+# to Dexterity	100	1	0	7		10				1	31	8	0	2	4	7	2	4	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Swordsman	dex	0	str		0	mcha												
+680	of the Rogue	+# to Dexterity	100	1	0	7		10				1	31	8	0	4	6	9	4	6	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Rogue	dex	0	vit		0	mcha												
+681	of the Monk	+# to Dexterity	100	1	0	7		10				1	31	8	0	2	4	10	2	4	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Monk	dex	0	enr		0	mcha												
+682	of the Stalwart	+# to Strength	100	1	0	7		10				1	31	7	0	4	6	9	4	6	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Stalwart	str	0	vit		0	mcha												
+683	of the Proud	+# to Strength	100	1	0	7		10				1	31	7	0	2	4	10	2	4	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Proud	str	0	enr		0	mcha												
+684	of the Young	+# to Vitality	100	1	0	7		10				1	31	9	0	4	6	10	4	6	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Young	vit	0	enr		0	mcha												
+685	of the Swift	+#% Faster Run/Walk	100	1	0	12		10				10	32	77	0	5	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Swift	move2	0		0		0	mcha												
+686	of the Nimble	+#% Faster Hit Recovery	100	1	0	12		10				10	32	80	0	5	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Nimble	balance2	0		0		0	mcha												
+687	of the Stoic	+#% Faster Block Rate	100	1	0	12		10				10	32	83	0	5	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Stoic	block2	0		0		0	mcha												
+688	of the Blitz	+#% Faster Attack Speed	100	1	0	18		18				10	32	56	0	5	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Blitz	swing2	0		0		0	mcha												
+689	of the Fluent	+#% Faster Cast Rate	100	1	0	18		18				10	32	86	0	5	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Fluent	cast2	0		0		0	mcha												
+690	of Life	+# to Life	100	1	0	12	70	9				20	31	13	0	11	15	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Life	hp	0		0		0	mcha												
+691	of Substinence	+# to Life	100	1	0	42		34				10	31	13	0	21	25	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Substinence	hp	0		0		0	mcha												
+692	of Vita	+# to Life	100	1	0	74		66				5	31	13	0	31	35	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vita	hp	0		0		0	mcha												
+693	of Mastery	-#% to Enemy Fire Resistance	100	1	0	65		81				1	82	213	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	pierce-fire	0		0		0	mcha												
+694	of Mastery	-#% to Enemy Lightning Resistance	100	1	0	65		81				1	82	214	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	pierce-ltng	0		0		0	mcha												
+695	of Mastery	-#% to Enemy Cold Resistance	100	1	0	65		81				1	82	215	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	pierce-cold	0		0		0	mcha												
+696	of Mastery	-#% to Enemy Poison Resistance	100	1	0	65		81				1	82	216	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	pierce-pois	0		0		0	mcha												
+697	of Mastery	+#% to Fire Skill Damage	100	1	0	65		81				1	83	219	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	extra-fire	0		0		0	mcha												
+698	of Mastery	+#% to Lightning Skill Damage	100	1	0	65		81				1	83	220	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	extra-ltng	0		0		0	mcha												
+699	of Mastery	+#% to Cold Skill Damage	100	1	0	65		81				1	83	221	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	extra-cold	0		0		0	mcha												
+700	of Mastery	+#% to Poison Skill Damage	100	1	0	65		81				1	83	222	0	3	5	-1	0	0	0	-1	0	0	0		83	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mastery	extra-pois	0		0		0	mcha												
+701	of Frost	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	0	5	20	3				24	10	17	0	4	6	18	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Frost	cold-min	0	cold-max	0		0	lcha												
+702	of the Icicle	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	0	10		6				12	10	17	0	6	8	18	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Icicle	cold-min	0	cold-max	0		0	lcha												
+703	of the Glacier	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	30		11				12	10	17	0	8	10	18	0	12	18	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of the Glacier	cold-min	0	cold-max	0		0	lcha												
+704	of Winter	+# to Minimum Cold Damage & +# to Maximum Cold Damage & Cold Length # of Frames (25 Frames = 1 Second)	100	1	1	40		17				12	10	17	0	12	14	18	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Winter	cold-min	0	cold-max	0		0	lcha												
+705	of Flame	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	10		2				24	12	20	0	2	4	21	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Flame	fire-min	0	fire-max	0		0	lcha												
+706	of Fire	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	0	15		6				12	12	20	0	4	6	21	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Fire	fire-min	0	fire-max	0		0	lcha												
+707	of Burning	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	30		10				12	12	20	0	6	8	21	0	12	18	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Burning	fire-min	0	fire-max	0		0	lcha												
+708	of Incineration	+# to Minimum Fire Damage & +# to Maximum Fire Damage	100	1	1	40		16				12	12	20	0	10	15	21	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Incineration	fire-min	0	fire-max	0		0	lcha												
+709	of Shock	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	10	20	3				24	13	22	0	2	4	23	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Shock	ltng-min	0	ltng-max	0		0	lcha												
+710	of Lightning	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	0	15		5				12	13	22	0	4	6	23	0	10	15	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Lightning	ltng-min	0	ltng-max	0		0	lcha												
+711	of Thunder	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	30		11				12	13	22	0	6	8	23	0	12	18	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Thunder	ltng-min	0	ltng-max	0		0	lcha												
+712	of Storms	+# to Minimum Lightning Damage & +# to Maximum Lightning Damage	100	1	1	40		16				12	13	22	0	10	15	23	0	20	25	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Storms	ltng-min	0	ltng-max	0		0	lcha												
+713	of Blight	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	20		10				24	16	134	75	60	80	88	0	4	6	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Blight	dmg-pois	res-pois-len	0		0	lcha												
+714	of Venom	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	0	30		25				12	16	134	75	80	100	88	0	6	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Venom	dmg-pois	res-pois-len	0		0	lcha												
+715	of Pestilence	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	35		40				12	16	134	100	100	120	88	0	8	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Pestilence	dmg-pois	res-pois-len	0		0	lcha												
+716	of Anthrax	+# to Minimum Poison Damage & +# to Maximum Poison Damage	100	1	1	50		55				12	16	134	125	120	140	88	0	10	12	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Anthrax	dmg-pois	res-pois-len	0		0	lcha												
+717	of Dexterity	+# to Dexterity	100	1	0	1		1				12	31	8	0	5	8	9	0	5	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0	vit	0		0	lcha												
+718	of Dexterity	+# to Dexterity	100	1	1	35		10				12	31	8	0	8	10	10	0	8	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Dexterity	dex	0	enr	0		0	lcha												
+719	of Strength	+# to Strength	100	1	0	1	60	1				12	31	7	0	5	8	9	0	5	8	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Strength	str	0	vit	0		0	lcha												
+720	of Strength	+# to Strength	100	1	1	35		10				12	31	7	0	8	10	10	0	8	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Strength	str	0	enr	0		0	lcha												
+721	of Life	+# to Life	100	1	0	10	25	5				24	26	13	0	10	15	53	0	5	5	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Life	hp	0	regen	0		0	lcha												
+722	of Life	+# to Life	100	1	0	20	40	15				24	26	13	0	15	20	53	0	5	5	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Life	hp	0	regen	0		0	lcha												
+723	of Life	+# to Life	100	1	0	35	55	30				24	26	13	0	20	25	53	0	5	5	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Life	hp	0	regen	0		0	lcha												
+724	of Substinence	+# to Life	100	1	0	45		40				24	26	13	0	25	30	53	0	7	7	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Substinence	hp	0	regen	0		0	lcha												
+725	of Substinence	+# to Life	100	1	0	55		50				12	26	13	0	30	40	53	0	7	7	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Substinence	hp	0	regen	0		0	lcha												
+726	of Substinence	+# to Life	100	1	0	61		60				12	26	13	0	40	50	53	0	7	7	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Substinence	hp	0	regen	0		0	lcha												
+727	of Vita	+# to Life	100	1	1	75		70				12	26	13	0	50	75	53	0	10	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vita	hp	0	regen	0		0	lcha												
+728	of Vita	+# to Life	100	1	1	81		80				5	26	13	0	75	100	53	0	10	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vita	hp	0	regen	0		0	lcha												
+729	of Vita	+# to Life	100	1	1	88		88				5	26	13	0	100	150	53	0	10	10	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Vita	hp	0	regen	0		0	lcha												
+730	of Inertia	+#% Faster Run/Walk	100	1	1	15		14				5	35	78	0	10	15	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Inertia	move3	0		0		0	lcha												
+731	of Balance	+#% Faster Hit Recovery	100	1	1	10		1				5	18	81	0	12	15	-1	0	0	0	-1	0	0	0		84	0	0	0	0	0	0	0	0	0	0	0	0	0	of Balance	balance3	0		0		0	lcha												
+732	of Mosaic	+#% chance for finishing moves to not consume charges	100	1	1	30		30		ass	30	64	81	349	0	50	50	-1	0	0	0	-1	0	0	0		67	0	0	0	0	0	0	0	0	0	0	0	0	0	of Mosaic	charge-noconsume	0		0		0	h2h												

@@ -1,0 +1,6 @@
+INDEX	name	
+0	armo	
+1	weap	
+2	mag	
+3	misc	
+255		

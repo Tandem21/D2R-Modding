@@ -1,0 +1,389 @@
+INDEX	code	___Enabled	___Tooltip	func1	stat1	set1	val1	func2	stat2	set2	val2	func3	stat3	set3	val3	func4	stat4	set4	val4	func5	stat5	set5	val5	func6	stat6	set6	val6	func7	stat7	set7	val7	___Parameter	___Min	___Max	___Notes	___eol	stat1__STR	stat2__STR	stat3__STR	stat4__STR	stat5__STR	stat6__STR	stat7__STR	
+0	ac	1	+# Defense	1	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	armorclass							
+1	ac-miss	1	+# Defense vs. Missile	1	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	armorclass_vs_missile							
+2	ac-hth	1	+# Defense vs. Melee	1	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	armorclass_vs_hth							
+3	red-dmg	1	Damage Reduced by #	1	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	normal_damage_reduction							
+4	red-dmg%	1	Damage Reduced by #%	1	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	damageresist							
+5	ac%	1	+#% Enhanced Defense	2	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_armor_percent							
+6	red-mag	1	Magic Damage Reduced by #	1	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	magic_damage_reduction							
+7	str	1	+# to Strength	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	strength							
+8	dex	1	+# to Dexterity	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	dexterity							
+9	vit	1	+# to Vitality	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	vitality							
+10	enr	1	+# to Energy	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	energy							
+11	mana	1	+# to Mana	1	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	maxmana							
+12	mana%	1	Increase Maximum Mana #%	1	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_maxmana_percent							
+13	hp	1	+# to Life	1	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	maxhp							
+14	hp%	1	Increase Maximum Life #%	1	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_maxhp_percent							
+15	att	1	+# to Attack Rating	1	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	tohit							
+16	block	1	#% Increased Chance of Blocking	1	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	toblock							
+17	cold-min	1	+# to Minimum Cold Damage	1	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	coldmindam							
+18	cold-max	1	+# to Maximum Cold Damage	1	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	coldmaxdam							
+19	cold-len	1		1	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	# of Frames (25 Frames = 1 Second)	0	coldlength							
+20	fire-min	1	+# to Minimum Fire Damage	1	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	firemindam							
+21	fire-max	1	+# to Maximum Fire Damage	1	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	firemaxdam							
+22	ltng-min	1	+# to Minimum Lightning Damage	1	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	lightmindam							
+23	ltng-max	1	+# to Maximum Lightning Damage	1	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	lightmaxdam							
+24	pois-min	1	+# to Minimum Poison Damage	1	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	poisonmindam							
+25	pois-max	1	+# to Maximum Poison Damage	1	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	poisonmaxdam							
+26	pois-len	1		1	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	# of Frames (25 Frames = 1 Second)	0	poisonlength							
+27	dmg-min	1	+# to Minimum Damage	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0								
+28	dmg-max	1	+# to Maximum Damage	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0								
+29	dmg%	1	+#% Enhanced Damage	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0								
+30	dmg-to-mana	1	#% Damage Taken Goes To Mana	1	114	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_damagetomana							
+31	res-fire	1	Fire Resist +#%	1	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	fireresist							
+32	res-fire-max	1	+#% to Maximum Fire Resist	1	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	maxfireresist							
+33	res-ltng	1	Lightning Resist +#%	1	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	lightresist							
+34	res-ltng-max	1	+#% to Maximum Lightning Resist	1	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	maxlightresist							
+35	res-cold	1	Cold Resist +#%	1	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	coldresist							
+36	res-cold-max	1	+#% to Maximum Cold Resist	1	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	maxcoldresist							
+37	res-mag	1	Magic Resist +#%	1	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	magicresist							
+38	res-mag-max	1	+#% to Maximum Magic Resist	1	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	maxmagicresist							
+39	res-pois	1	Poison Resist +#%	1	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	poisonresist							
+40	res-pois-max	1	+#% to Maximum Poison Resist	1	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	maxpoisonresist							
+41	res-all	1	All Resistances +#	1	39	0	0	3	41	0	0	3	43	0	0	3	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	fireresist	lightresist	coldresist	poisonresist				
+42	res-all-max	1		1	40	0	0	3	42	0	0	3	44	0	0	3	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %	#% All Maximum Resistances	0	maxfireresist	maxlightresist	maxcoldresist	maxpoisonresist				
+43	abs-fire%	1	+# Fire Absorb	1	142	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_absorbfire_percent							
+44	abs-fire	1	Fire Absorb #%	1	143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_absorbfire							
+45	abs-ltng%	1	+# Lightning Absorb	1	144	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_absorblight_percent							
+46	abs-ltng	1	Lightning Absorb #%	1	145	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_absorblight							
+47	abs-mag%	1	+# Magic Absorb	1	146	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_absorbmagic_percent							
+48	abs-mag	1	Magic Absorb #%	1	147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_absorbmagic							
+49	abs-cold%	1	+# Cold Absorb	1	148	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_absorbcold_percent							
+50	abs-cold	1	Cold Absorb #%	1	149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_absorbcold							
+51	dur	1	Durability: # of #	1	73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	maxdurability							
+52	dur%	1	Increase Maximum Durability #%	13	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_maxdurability_percent							
+53	regen	1	Replenish Life +#	1	74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	hpregen							
+54	thorns	1	Attacker Takes Damage of #	1	78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_attackertakesdamage							
+55	swing1	1	+#% Increased Attack Speed	8	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fasterattackrate							
+56	swing2	1	+#% Increased Attack Speed	8	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fasterattackrate							
+57	swing3	1	+#% Increased Attack Speed	8	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fasterattackrate							
+58	gold%	1	#% Extra Gold from Monsters	1	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_goldbonus							
+59	mag%	1	#% Better Chance of Getting Magic Items	1	80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_magicbonus							
+60	knock	1	Knockback	1	81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0	item_knockback							
+61	regen-stam	1	Heal Stamina Plus #%	1	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	staminarecoverybonus							
+62	regen-mana	1	Regenerate Mana #%	1	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	manarecoverybonus							
+63	stam	1	+# Maximum Stamina	1	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	maxstamina							
+64	time	1		1	82	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Currently Not Used	0	item_timeduration							
+65	manasteal	1	#% Mana stolen per hit	1	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	manadrainmindam							
+66	lifesteal	1	#% Life stolen per hit	1	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	lifedrainmindam							
+67	ama	1	+# to Amazon Skill Levels	21	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+68	pal	1	+# to Paladin Skill Levels	21	83	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+69	nec	1	+# to Necromancer Skill Levels	21	83	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+70	sor	1	+# to Sorceress Skill Levels	21	83	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+71	bar	1	+#  to Barbarian Skill Levels	21	83	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+72	herb	1		1	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Currently Not Used	0	item_doubleherbduration							
+73	light	1	+# to Light Radius	1	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_lightradius							
+74	color	1		1	90	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Currently Not Used	0	item_lightcolor							
+75	ease	1	Requirements -#%	1	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_req_percent							
+76	move1	1	+#% Faster Run/Walk	8	96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastermovevelocity							
+77	move2	1	+#% Faster Run/Walk	8	96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastermovevelocity							
+78	move3	1	+#% Faster Run/Walk	8	96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastermovevelocity							
+79	balance1	1	+#% Faster Hit Recovery	8	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastergethitrate							
+80	balance2	1	+#% Faster Hit Recovery	8	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastergethitrate							
+81	balance3	1	+#% Faster Hit Recovery	8	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastergethitrate							
+82	block1	1	+#% Faster Block Rate	8	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fasterblockrate							
+83	block2	1	+#% Faster Block Rate	8	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fasterblockrate							
+84	block3	1	+#% Faster Block Rate	8	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fasterblockrate							
+85	cast1	1	+#% Faster Cast Rate	8	105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastercastrate							
+86	cast2	1	+#% Faster Cast Rate	8	105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastercastrate							
+87	cast3	1	+#% Faster Cast Rate	8	105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_fastercastrate							
+88	res-pois-len	1	Poison Length Reduced by #%	1	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_poisonlengthresist							
+89	dmg	1	Damage +#	1	111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_normaldamage							
+90	howl	1	Hit Causes Monster to Flee #%	1	112	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %/128	Max %/128		0	item_howl							
+91	stupidity	1	Hit Blinds Target +#	1	113	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_stupidity							
+92	ignore-ac	1	Ignore Target's Defense	1	115	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0	item_ignoretargetac							
+93	reduce-ac	1	-#% Target Defense	1	116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_fractionaltargetac							
+94	noheal	1	Prevent Monster Heal	1	117	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0	item_preventheal							
+95	half-freeze	1	Half Freeze Duration	1	118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0	item_halffreezeduration							
+96	att%	1	#% Bonus to Attack Rating	1	119	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_tohit_percent							
+97	dmg-ac	1	-# to Monster Defense Per Hit	1	120	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_damagetargetac							
+98	dmg-demon	1	+#% Damage to Demons	1	121	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_demondamage_percent							
+99	dmg-undead	1	+#% Damage to Undead	1	122	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_undeaddamage_percent							
+100	att-demon	1	+# to Attack Rating against Demons	1	123	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_demon_tohit							
+101	att-undead	1	+# to Attack Rating against Undead	1	124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_undead_tohit							
+102	throw	1		1	125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	Currently Not Used	0	item_throwable							
+103	fireskill	1	+# to Fire Skills	21	126	0	1	1	399	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_elemskill	item_elemskillfire						
+104	allskills	1	+# to All Skills	1	127	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_allskills							
+105	light-thorns	1	Attacker Takes Lightning Damage of #	1	128	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_attackertakeslightdamage							
+106	freeze	1	Freezes Target +#	1	134	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_freeze							
+107	openwounds	1	#% Chance of Open Wounds	1	135	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_openwounds							
+108	crush	1	#% Chance of Crushing Blow	1	136	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_crushingblow							
+109	kick	1	+# Kick Damage	1	137	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_kickdamage							
+110	mana-kill	1	+# to Mana after each Kill	1	138	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_manaafterkill							
+111	demon-heal	1	+# Life after each Demon Kill	1	139	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_healafterdemonkill							
+112	bloody	1		1	140	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Visuals Only	0	item_extrablood							
+113	deadly	1	#% Deadly Strike	1	141	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_deadlystrike							
+114	slow	1	Slows Target by #%	1	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_slow							
+115	nofreeze	1	Cannot Be Frozen	1	153	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0	item_cannotbefrozen							
+116	stamdrain	1	#% Slower Stamina Drain	1	154	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_staminadrainpct							
+117	reanimate	1	Reanimate As: [Returned]	24	155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	monstats.txt hcIdx	Min %	Max %		0	item_reanimate							
+118	pierce	1	Piercing Attack	1	156	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce							
+119	magicarrow	1	Fires Magic Arrows	1	157	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_magicarrow							
+120	explosivearrow	1	Fires Explosive Arrows or Bolts	1	158	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_explosivearrow							
+121	dru	1	+# to Druid Skill Levels	21	83	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+122	ass	1	+# to Assassin Skill Levels	21	83	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_addclassskills							
+123	skill	1	+# to [Skill] ([Class] only)	22	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	Min #	Max #		0	item_singleskill							
+124	skilltab	1	+# to [Class Skill Tab] Skills	10	188	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Class Skill Tab ID	Min #	Max #	[Class Skill Tab ID] = (Amazon = 0-2, Sorceress = 3-5, Necromancer = 6-8, Paladin = 9-11, Barbarian = 12-14, Druid = 15-17,  Assassin = 18-20)	0	item_addskill_tab							
+125	aura	1	Level # [Skill] Aura When Equipped	22	151	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	Min #	Max #		0	item_aura							
+126	att-skill	1	#% Chance to cast level # [Skill] on attack	11	195	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	% Chance (If 0, then default to 5)	Skill Level		0	item_skillonattack							
+127	hit-skill	1	#% Chance to cast level # [Skill] on striking	11	198	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	% Chance (If 0, then default to 5)	Skill Level		0	item_skillonhit							
+128	gethit-skill	1	#% Chance to cast level # [Skill] when struck	11	201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	% Chance (If 0, then default to 5)	Skill Level		0	item_skillongethit							
+129	sock	1	Socketed (#)	14	194	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_numsockets							
+130	dmg-fire	1	Adds #-# Fire Damage	15	48	0	0	16	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	firemindam	firemaxdam						
+131	dmg-ltng	1	Adds #-# Lightning Damage	15	50	0	0	16	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	lightmindam	lightmaxdam						
+132	dmg-mag	1	Adds #-# Magic Damage	15	52	0	0	16	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	magicmindam	magicmaxdam						
+133	dmg-cold	1	Adds #-# Cold Damage	15	54	0	0	16	55	0	0	17	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0	coldmindam	coldmaxdam	coldlength					
+134	dmg-pois	1	Adds #-# Poison Damage Over # Seconds	15	57	0	0	16	58	0	0	17	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0	poisonmindam	poisonmaxdam	poisonlength					
+135	dmg-throw	1		15	159	0	0	16	160	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Currently Not Used	0	item_throw_mindamage	item_throw_maxdamage						
+136	dmg-norm	1	Adds #-# Damage	15	21	0	0	16	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	mindamage	maxdamage						
+137	ac/lvl	1	+# Defense (Based on Character Level)	17	214	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ac/lvl (8ths)				0	item_armor_perlevel							
+138	ac%/lvl	1	+#% Enhanced Defense (Based on Character Level)	17	215	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_armorpercent_perlevel							
+139	hp/lvl	1	+# to Life (Based on Character Level)	17	216	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_hp_perlevel							
+140	mana/lvl	1	+# to Mana (Based on Character Level)	17	217	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_mana_perlevel							
+141	dmg/lvl	1	+# to Maximum Damage (Based on Character Level)	17	218	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_maxdamage_perlevel							
+142	dmg%/lvl	1	+#% Enhanced Maximum Damage (Based on Character Level)	17	219	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_maxdamage_percent_perlevel							
+143	str/lvl	1	+# to Strength (Based on Character Level)	17	220	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_strength_perlevel							
+144	dex/lvl	1	+# to Dexterity (Based on Character Level)	17	221	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_dexterity_perlevel							
+145	enr/lvl	1	+# to Energy (Based on Character Level)	17	222	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_energy_perlevel							
+146	vit/lvl	1	+# to Vitality (Based on Character Level)	17	223	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_vitality_perlevel							
+147	att/lvl	1	+# to Attack Rating (Based on Character Level)	17	224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/2 per Level				0	item_tohit_perlevel							
+148	att%/lvl	1	#% Bonus to Attack Rating (Based on Character Level)	17	225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/2 per Level				0	item_tohitpercent_perlevel							
+149	dmg-cold/lvl	1	+# to Maximum Cold Damage (Based on Character Level)	17	226	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_cold_damagemax_perlevel							
+150	dmg-fire/lvl	1	+# to Maximum Fire Damage (Based on Character Level)	17	227	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_fire_damagemax_perlevel							
+151	dmg-ltng/lvl	1	+# to Maximum Lightning Damage (Based on Character Level)	17	228	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_ltng_damagemax_perlevel							
+152	dmg-pois/lvl	1	+# to Maximum Poison Damage (Based on Character Level)	17	229	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_pois_damagemax_perlevel							
+153	res-cold/lvl	1	Cold Resist +#% (Based on Character Level)	17	230	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_resist_cold_perlevel							
+154	res-fire/lvl	1	Fire Resist +#% (Based on Character Level)	17	231	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_resist_fire_perlevel							
+155	res-ltng/lvl	1	Lightning Resist +#% (Based on Character Level)	17	232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_resist_ltng_perlevel							
+156	res-pois/lvl	1	Poison Resist +#% (Based on Character Level)	17	233	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_resist_pois_perlevel							
+157	abs-cold/lvl	1	Absorbs Cold Damage (Based on Character Level)	17	234	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_absorb_cold_perlevel							
+158	abs-fire/lvl	1	Absorbs Fire Damage (Based on Character Level)	17	235	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_absorb_fire_perlevel							
+159	abs-ltng/lvl	1	Absorbs Lightning Damage (Based on Character Level)	17	236	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_absorb_ltng_perlevel							
+160	abs-pois/lvl	1	Absorbs Poison Damage (Based on Character Level)	17	237	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_absorb_pois_perlevel							
+161	thorns/lvl	1	Attacker Takes Damage of # (Based on Character Level)	17	238	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_thorns_perlevel							
+162	gold%/lvl	1	#% Extra Gold from Monsters (Based on Character Level)	17	239	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_find_gold_perlevel							
+163	mag%/lvl	1	#% Better Chance of Getting Magic Items (Based on Character Level)	17	240	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_find_magic_perlevel							
+164	regen-stam/lvl	1	Heal Stamina Plus #% (Based on Character Level)	17	241	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_regenstamina_perlevel							
+165	stam/lvl	1	+# Maximum Stamina (Based on Character Level)	17	242	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_stamina_perlevel							
+166	dmg-dem/lvl	1	+#% Damage to Demons (Based on Character Level)	17	243	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_damage_demon_perlevel							
+167	dmg-und/lvl	1	+#% Damage to Undead (Based on Character Level)	17	244	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_damage_undead_perlevel							
+168	att-dem/lvl	1	+# to Attack Rating against Demons (Based on Character Level)	17	245	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/2 per Level				0	item_tohit_demon_perlevel							
+169	att-und/lvl	1	+# to Attack Rating against Undead (Based on Character Level)	17	246	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/2 per Level				0	item_tohit_undead_perlevel							
+170	crush/lvl	1	#% Chance of Crushing Blow (Based on Character Level)	17	247	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_crushingblow_perlevel							
+171	wounds/lvl	1	#% Chance of Open Wounds (Based on Character Level)	17	248	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_openwounds_perlevel							
+172	kick/lvl	1	+# Kick Damage (Based on Character Level)	17	249	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level			Currently Not Used	0	item_kick_damage_perlevel							
+173	deadly/lvl	1	#% Deadly Strike (Based on Character Level)	17	250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#/8 per Level				0	item_deadlystrike_perlevel							
+174	rep-dur	1	Repairs 1 durability in # seconds	17	252	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Repair Speed			Repair 1 Durability every 100/[Repair Speed] seconds	0	item_replenish_durability							
+175	rep-quant	1	Replenishes quantity	17	253	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Repair Speed			Replenish 1 Quantity every 100/[Repair Speed] seconds	0	item_replenish_quantity							
+176	stack	1	Increased Stack Size	1	254	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_extra_stack							
+177	ac/time	1	+# Defense (Increases near [Day/Dusk/Night/Dawn])	18	268	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_armor_bytime							
+178	ac%/time	1	+#% Enhanced Defense (Increases near [Day/Dusk/Night/Dawn])	18	269	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_armorpercent_bytime							
+179	hp/time	1	+# to Life (Increases near [Day/Dusk/Night/Dawn])	18	270	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_hp_bytime							
+180	mana/time	1	+# to Mana (Increases near [Day/Dusk/Night/Dawn])	18	271	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_mana_bytime							
+181	dmg/time	1	+# to Maximum Damage (Increases near [Day/Dusk/Night/Dawn])	18	272	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_maxdamage_bytime							
+182	dmg%/time	1	+#% Enhanced Maximum Damage (Increases near [Day/Dusk/Night/Dawn])	18	273	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_maxdamage_percent_bytime							
+183	str/time	1	+# to Strength (Increases near [Day/Dusk/Night/Dawn])	18	274	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_strength_bytime							
+184	dex/time	1	+# to Dexterity (Increases near [Day/Dusk/Night/Dawn])	18	275	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_dexterity_bytime							
+185	enr/time	1	+# to Energy (Increases near [Day/Dusk/Night/Dawn])	18	276	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_energy_bytime							
+186	vit/time	1	+# to Vitality (Increases near [Day/Dusk/Night/Dawn])	18	277	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_vitality_bytime							
+187	att/time	1	+# to Attack Rating (Increases near [Day/Dusk/Night/Dawn])	18	278	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_tohit_bytime							
+188	att%/time	1	#% Bonus to Attack Rating (Increases near [Day/Dusk/Night/Dawn])	18	279	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_tohitpercent_bytime							
+189	dmg-cold/time	1	+# to Maximum Cold Damage (Increases near [Day/Dusk/Night/Dawn])	18	280	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_cold_damagemax_bytime							
+190	dmg-fire/time	1	+# to Maximum Fire Damage (Increases near [Day/Dusk/Night/Dawn])	18	281	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_fire_damagemax_bytime							
+191	dmg-ltng/time	1	+# to Maximum Lightning Damage (Increases near [Day/Dusk/Night/Dawn])	18	282	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_ltng_damagemax_bytime							
+192	dmg-pois/time	1	+# to Maximum Poison Damage (Increases near [Day/Dusk/Night/Dawn])	18	283	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_pois_damagemax_bytime							
+193	res-cold/time	1	Cold Resist +#% (Increases near [Day/Dusk/Night/Dawn])	18	284	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_resist_cold_bytime							
+194	res-fire/time	1	Fire Resist +#% (Increases near [Day/Dusk/Night/Dawn])	18	285	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_resist_fire_bytime							
+195	res-ltng/time	1	Lightning Resist +#% (Increases near [Day/Dusk/Night/Dawn])	18	286	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_resist_ltng_bytime							
+196	res-pois/time	1	Poison Resist +#% (Increases near [Day/Dusk/Night/Dawn])	18	287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_resist_pois_bytime							
+197	abs-cold/time	1	Absorbs Cold Damage (Increases near [Day/Dusk/Night/Dawn])	18	288	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_absorb_cold_bytime							
+198	abs-fire/time	1	Absorbs Fire Damage (Increases near [Day/Dusk/Night/Dawn])	18	289	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_absorb_fire_bytime							
+199	abs-ltng/time	1	Absorbs Lightning Damage (Increases near [Day/Dusk/Night/Dawn])	18	290	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_absorb_ltng_bytime							
+200	abs-pois/time	1	Absorbs Poison Damage (Increases near [Day/Dusk/Night/Dawn])	18	291	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_absorb_pois_bytime							
+201	gold%/time	1	#% Extra Gold from Monsters (Increases near [Day/Dusk/Night/Dawn])	18	292	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_find_gold_bytime							
+202	mag%/time	1	#% Better Chance of Getting Magic Items (Increases near [Day/Dusk/Night/Dawn])	18	293	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_find_magic_bytime							
+203	regen-stam/time	1	Heal Stamina Plus #% (Increases near [Day/Dusk/Night/Dawn])	18	294	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_regenstamina_bytime							
+204	stam/time	1	+# Maximum Stamina (Increases near [Day/Dusk/Night/Dawn])	18	295	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_stamina_bytime							
+205	dmg-dem/time	1	+#% Damage to Demons (Increases near [Day/Dusk/Night/Dawn])	18	296	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_damage_demon_bytime							
+206	dmg-und/time	1	+#% Damage to Undead (Increases near [Day/Dusk/Night/Dawn])	18	297	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_damage_undead_bytime							
+207	att-dem/time	1	+# to Attack Rating against Demons (Increases near [Day/Dusk/Night/Dawn])	18	298	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_tohit_demon_bytime							
+208	att-und/time	1	+# to Attack Rating against Undead (Increases near [Day/Dusk/Night/Dawn])	18	299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_tohit_undead_bytime							
+209	crush/time	1	#% Chance of Crushing Blow (Increases near [Day/Dusk/Night/Dawn])	18	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_crushingblow_bytime							
+210	wounds/time	1	#% Chance of Open Wounds (Increases near [Day/Dusk/Night/Dawn])	18	301	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_openwounds_bytime							
+211	kick/time	1	+# Kick Damage (Increases near [Day/Dusk/Night/Dawn])	18	302	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min #	Max #	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_kick_damage_bytime							
+212	deadly/time	1	#% Deadly Strike (Increases near [Day/Dusk/Night/Dawn])	18	303	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Time Period for Max value	Min %	Max %	(0=Day, 1=Dusk, 2=Night, 3=Dawn) Min value starts at opposite Time Period (Linear Increase) Currently Not Being Used	0	item_deadlystrike_bytime							
+213	pierce-fire	1	-#% to Enemy Fire Resistance	1	333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_fire_pierce							
+214	pierce-ltng	1	-#% to Enemy Lightning Resistance	1	334	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_ltng_pierce							
+215	pierce-cold	1	-#% to Enemy Cold Resistance	1	335	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_cold_pierce							
+216	pierce-pois	1	-#% to Enemy Poison Resistance	1	336	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_pois_pierce							
+217	indestruct	1	Indestructible	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0								
+218	charged	1	Level # [Skill] (#/# Charges)	19	204	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	# of Max Charges	Skill Level		0	item_charged_skill							
+219	extra-fire	1	+#% to Fire Skill Damage	1	329	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_fire_mastery							
+220	extra-ltng	1	+#% to Lightning Skill Damage	1	330	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_ltng_mastery							
+221	extra-cold	1	+#% to Cold Skill Damage	1	331	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_cold_mastery							
+222	extra-pois	1	+#% to Poison Skill Damage	1	332	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_pois_mastery							
+223	dmg-elem	1	Adds #-# Fire/Lightning/Cold Damage	15	48	0	0	16	49	0	0	15	50	0	0	16	51	0	0	15	54	0	0	16	55	0	0	17	56	0	0		Min #	Max #		0	firemindam	firemaxdam	lightmindam	lightmaxdam	coldmindam	coldmaxdam	coldlength	
+224	dmg-elem-min	1	+# to Minimum Fire/Lightning/Cold Damage	1	48	0	0	3	50	0	0	3	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Currently Not Used	0	firemindam	lightmindam	coldmindam					
+225	dmg-elem-max	1	+# to Maximum Fire/Lightning/Cold Damage	1	49	0	0	3	51	0	0	3	55	0	0	17	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Currently Not Used	0	firemaxdam	lightmaxdam	coldmaxdam	coldlength				
+226	all-stats	1	+# to all Attributes	1	0	0	0	3	1	0	0	3	2	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	strength	energy	dexterity	vitality				
+227	addxp	1	+#% to Experience Gained	1	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_addexperience							
+228	heal-kill	1	+# Life after each Kill	1	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_healafterkill							
+229	cheap	1	Reduces all Vendor Prices #%	1	87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_reducedprices							
+230	rip	1	Slain Monsters Rest in Peace	1	108	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0	item_restinpeace							
+231	att-mon%	1	#% to Attack Rating versus [Monster Type]	24	179	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	monstats.txt MonType	Min #	Max #	Currently Not Used	0	attack_vs_montype							
+232	dmg-mon%	1	#% to Damage versus [Monster Type]	24	180	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	monstats.txt MonType	Min #	Max #	Currently Not Used	0	damage_vs_montype							
+233	kill-skill	1	#% Chance to cast level # [Skill] when you Kill an Enemy	11	196	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	% Chance (If 0, then default to 5)	Skill Level		0	item_skillonkill							
+234	death-skill	1	#% Chance to cast level # [Skill] when you Die	11	197	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	% Chance (If 0, then default to 5)	Skill Level		0	item_skillondeath							
+235	levelup-skill	1	#% Chance to cast level # [Skill] when you Level-Up	11	199	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	% Chance (If 0, then default to 5)	Skill Level		0	item_skillonlevelup							
+236	skill-rand	1	+# to [Skill] ([Class] only)	12	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill Level	Min Skill ID	Max Skill ID		0	item_singleskill							
+237	fade	1		17	181	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	Visuals Only	0	fade							
+238	levelreq	1	Required Level: #	1	92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_levelreq							
+239	ethereal	1	Ethereal	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1		0								
+240	oskill	1	+# to [Skill]	22	387	0	0	24	97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Skill	Min #	Max #		0	item_nonclassskill_display	item_nonclassskill						
+241	state	1		24	98	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	State	1	1	Applies a State on the unit	0	state							
+242	randclassskill	1	+# to [Class] Skill Levels	12	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min Class ID	Max Class ID	val1 = # of Skill levels	0	item_addclassskills							
+243	str%	1		1	413	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_strength_percent							
+244	dex%	1		1	414	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_dexterity_percent							
+245	vit%	1		1	415	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_vitality_percent							
+246	enr%	1		1	416	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_energy_percent							
+247	str%/lvl	1	Strength per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_strengthpercent_perlevel							
+248	dex%/lvl	1	Dexterity per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_dexteritypercent_perlevel							
+249	enr%/lvl	1	Energy per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_energypercent_perlevel							
+250	vit%/lvl	1	Vitality per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_vitalitypercent_perlevel							
+251	thorns-blind	1	attacker gets blinded	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		min	max	armour only	0	item_attackergetsblind							
+252	thorns-flee	1	attacker runs away	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		min	max	armour only	0	item_attackerflees							
+253	fire-thorns	1		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_attackertakesfiredamage							
+254	cold-thorns	1		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_attackertakescolddamage							
+255	dmg-max/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_maxdamage_perstr							
+256	dmg-max/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_maxdamage_perdex							
+257	dmg-min/lvl	1		17	391	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_perlvl							
+258	dmg-min/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_perstr							
+259	dmg-min/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_perdex							
+260	dmg-max%/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_maxdamage_percent_perstr							
+261	dmg-max%/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_maxdamage_percent_perdex							
+262	wounds/dex	1		17	0	0	0	1	140	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_openwounds_perdex	item_extrablood						
+263	deadly/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_deadlystrike_perdex							
+264	wounds/str	1		17	0	0	0	1	140	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_openwounds_perstr	item_extrablood						
+265	deadly/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_deadlystrike_perstr							
+266	ac/str	1	armour per strength	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			armour only	0	item_armor_perstr							
+267	ac/dex	1	armour class per dex	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)	min	max	armour only	0	item_armor_perdex							
+268	att/str	1	to hit per dex	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)	min	max	weap only	0	item_tohit_perstr							
+269	att/dex	1	to hit per dex	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)	min	max	weap only	0	item_tohit_perDex							
+270	hp/vit	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_hp_pervitality							
+271	mana/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mana_perenr							
+272	cast/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fastercastrate_perenr							
+273	block/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterblockrate_perdex							
+274	move/vit	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fastermovevelocity_pervitality							
+275	swing/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterswingvelocity_perstrength							
+276	dmg-min%/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_percent_perstr							
+277	dmg-min%/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_percent_perdex							
+278	dmg-min%/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_percent_perlvl							
+279	crush/str	1	+% Chance of Crushing Blow per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_crushingblow_perstr							
+280	crush/dex	1	+% Chance of Crushing Blow per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_crushingblow_perdex							
+281	coldskill	1		21	126	0	4	1	400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_elemskill	item_elemskillcold						
+282	lightningskill	1		21	126	0	2	1	401	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_elemskill	item_elemskilllight						
+283	poisonskill	1		21	126	0	5	1	402	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_elemskill	item_elemskillpoison						
+284	magicskill	1		21	126	0	3	1	403	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_elemskill	item_elemskillmagic						
+285	ac%/str	1	AC% per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ac%/lvl (8ths)			none	0	item_armorpercent_perstr							
+286	ac%/dex	1	AC% per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ac%/lvl (8ths)			none	0	item_armorpercent_perdex							
+287	att%/str	1	Attack% per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	att%/lvl (8ths)			none	0	item_tohitpercent_perstr							
+288	att%/dex	1	Attack% per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	att%/lvl (8ths)			none	0	item_tohitpercent_perdex							
+289	swing/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterswingvelocity_perdex							
+290	swing/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterswingvelocity_perlvl							
+291	block/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterblockrate_perstr							
+292	block/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterblockrate_perlvl							
+293	move/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fastermovevelocity_perdex							
+294	move/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fastermovevelocity_perlvl							
+295	cast/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fastercastrate_perlvl							
+296	balance/vit	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterhitrecovery_pervit							
+297	balance/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterhitrecovery_perlvl							
+298	block%/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_increasedblock_perdex							
+299	block%/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_increasedblock_perlvl							
+300	addxp/lvl	1	additional xp gain	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_addexperience_perlvl							
+301	addxp/enr	1	additional xp gain	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	item_addexperience_perenr							
+302	cheap/lvl	1	reduces vendor prices	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		min	max	none	0	item_reducedprices_perlvl							
+303	pierce/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_pierce_perlvl							
+304	pierce/str	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_pierce_perstr							
+305	all-zero-display	1		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	resmax_display_all_zero							
+306	res-all-hidden	1		1	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	0	0	0	0					0	magicresist_hidden	fireresist_hidden	lightresist_hidden	coldresist_hidden	poisonresist_hidden	hiddenresist_dummy		
+307	res-all-max-hidden	1		1	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	0	0	0	0					0	maxmagicresist_hidden	maxfireresist_hidden	maxlightresist_hidden	maxcoldresist_hidden	maxpoisonresist_hidden	hiddenresist_dummy		
+308	res-all-max%	1		1	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0					0	maxmagres_percent	maxfireres_percent	maxlightres_percent	maxcoldres_percent	maxpoisres_percent			
+309	res-all/lvl	1		17	230	0	0	3	232	0	0	3	231	0	0	3	233	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_resist_cold_perlevel	item_resist_ltng_perlevel	item_resist_fire_perlevel	item_resist_pois_perlevel				
+310	slow/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_slow_perlvl							
+311	kick/str	1	Kick Damage per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_kick_damage_perstr							
+312	kick/dex	1	Kick Damage per Player Level	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)			none	0	item_kick_damage_perdex							
+313	red-dmg%/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	damageresist_perlvl							
+314	red-dmg%/vit	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	damageresist_pervit							
+315	red-mag/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	magic_damage_reduction_perlvl							
+316	red-mag/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	magic_damage_reduction_perenr							
+317	res-mag%/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	magicresist_perlvl							
+318	res-mag%/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	magicresist_perenr							
+319	stupidity/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_stupidity_perlvl							
+320	freeze/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	chance in 128	length in frames		none	0	item_freeze_perlvl							
+321	freeze/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	chance in 128	length in frames		none	0	item_freeze_perenr							
+322	res-pois-len/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_poisonlengthresist_perlvl							
+323	res-pois-len/vit	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_poisonlengthresist_pervit							
+324	res-curse/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	curse_resistance_perlvl							
+325	res-curse/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	curse_resistance_perenr							
+326	res-curse-len	1		1	0	0	0	1	109	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	curse_resistance_length	curse_resistance						
+327	mana-kill/lvl	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_manaafterkill_perlvl							
+328	mana-kill/enr	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	item_manaafterkill_perenr							
+329	balance/dex	1		17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_fasterhitrecovery_perdex							
+330	splash	1	splash	11	363	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	proc_SplashDamage	100	1		0	item_splashonhit							
+331	dmg2%	1	Adds #-# Damage	15	365	0	0	16	364	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	pl_mindamage_percent	pl_maxdamage_percent						
+332	regen2	1	Replenish Life Plus #% (Based on Character Level)	17	366	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	# per Level				0	hpregen_perlevel							
+333	Corrupted	1		1	361	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	none	0	item_corrupted							
+334	CorruptedDummy	1		1	362	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	none	0	item_corruptedDummy							
+335	healperhit	1	Life gained after each hit	1	377	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				none	0	heal_afterhit							
+336	stacked/terror-key	1	# Terror Keys	17	367	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of keys in keychain	0	stacked_terror_key							
+337	stacked/hate-key	1	# Hate Keys	17	368	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of keys in keychain	0	stacked_hate_key							
+338	stacked/destruction-key	1	# Destuction Keys	17	369	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of keys in keychain	0	stacked_destruction_key							
+339	stacked/gem/topaz	0	# Gems	17	370	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_topaz							
+340	stacked/gem/amethyst	0	# Gems	17	371	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_amethyst							
+341	stacked/gem/sapphire	0	# Gems	17	372	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_sapphire							
+342	stacked/gem/diamond	0	# Gems	17	373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_diamond							
+343	stacked/gem/emerald	0	# Gems	17	374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_emerald							
+344	stacked/gem/ruby	0	# Gems	17	376	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_ruby							
+345	stacked/gem/skull	0	# Gems	17	375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of perfect gems in storage	0	stacked_gem_skull							
+346	extra_bonespears	1	+# Bone Spear Projectiles	1	378	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	none	0	extra_bonespears							
+347	noconsume		+# to not Consume Quantity	1	205	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_noconsume							
+348	item-qty	1		17	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	quantity							
+349	charge-noconsume	1	+#% chance for finishing moves to not consume charges	1	200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_charge_noconsume							
+350	splashtwo	1	splashtwo	11	379	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	proc_SplashDamage_Two	100	1		0	item_splashonhit_two							
+351	splashthree	1	splashthree	11	380	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	proc_SplashDamage_Three	100	1		0	item_splashonhit_three							
+352	splashfour	1	splashfour	11	381	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	proc_SplashDamage_Four	100	1		0	item_splashonhit_four							
+353	extra_holybolt	1	+# Holy Bolt Projectiles	1	382	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	none	0	extra_holybolt							
+354	splashfive	1	splashfive	11	383	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	proc_SplashDamage_Five	100	1		0	item_splashonhit_five							
+355	pierce-immunity-cold	1	Monster Cold Immunity is Sundered	1	187	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce_cold_immunity							
+356	pierce-immunity-fire	1	Monster Fire Immunity is Sundered	1	189	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce_fire_immunity							
+357	pierce-immunity-light	1	Monster Lightning Immunity is Sundered	1	190	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce_light_immunity							
+358	pierce-immunity-poison	1	Monster Poison Immunity is Sundered	1	191	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce_poison_immunity							
+359	pierce-immunity-damage	1	Monster Physical Immunity is Sundered	1	192	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce_damage_immunity							
+360	pierce-immunity-magic	1	Monster Magic Immunity is Sundered	1	193	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	item_pierce_magic_immunity							
+361	prop_mon_move	1	+#% Faster Run/Walk	1	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	velocitypercent							
+362	charm-property	1	Charm Weight: #	1	384	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	charm_weight							
+363	stacked/gem	1	# Gems	17	386	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				Used to determined stack size of gems in storage	0	stacked_gem							
+364	oskill_hide	1	+# to [Skill]	22	97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #		0	item_nonclassskill							
+365	ravensetwolf	1	+ Max Ravens, - Max Wolves	1	388	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	Increased Max Ravens, decreased Max Wolves	0	ravensetwolf							
+366	ravendmg	1	+50% Increase Raven Dmg	1	390	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	1	+50% to Raven DMG	0	ravendmg							
+367	ravenhits	1	increases max raven hits	1	389	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		1	10	increases max raven hits	0	ravenhits							
+368	flat-dmg/lvl	1	+Min/Max Dmg Flat Per Level	17	391	0	0	17	218	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	(8ths)				0	item_mindamage_perlvl	item_maxdamage_perlevel						
+369	upgrade/minor	1		17	392	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	# Upgrades		0	2	Used to determine number of upgrades on certain items	0	upgrade_minor							
+370	upgrade/medium	1		17	393	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	# Upgrades		0	3	Used to determine number of upgrades on certain items	0	upgrade_medium							
+371	upgrade/major	1		17	394	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	# Upgrades		0	5	Used to determine number of upgrades on certain items	0	upgrade_major							
+372	upgrade/uber	1		17	395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	# Upgrades		0	10	Used to determine number of upgrades on certain items	0	upgrade_uber							
+373	ubertorch-property	1	Uber Charm Weight: #	1	397	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	May only carry one Torch at a time	0	torch_weight							
+374	uberstone-property	1	Uber Charm Weight: #	1	398	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min #	Max #	May only carry one Soulstone at a time	0	soulstone_weight							
+375	tab-rand	1	+# random class skill tab	12	188	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Level	min Skill #	max Skill #		0	item_addskill_tab							
+376	extra-elem	1	+# % All Elemental Damage	1	329	0	0	3	330	0	0	3	331	0	0	3	332	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min %	Max %		0	passive_fire_mastery	passive_ltng_mastery	passive_cold_mastery	passive_pois_mastery				
+377	pierce-elem	1	-# % Enemy Elemental Resistances	1	333	0	0	3	334	0	0	3	335	0	0	3	336	0	0	0	0	0	0	0	0	0	0	0	0	0	0		Min%	Max %		0	passive_fire_pierce	passive_ltng_pierce	passive_cold_pierce	passive_pois_pierce				
+378	Dye-White	1		17	404	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_White							
+379	Dye-Black	1		17	405	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Black							
+380	Dye-Blue	1		17	406	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Blue							
+381	Dye-Red	1		17	407	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Red							
+382	Dye-Green	1		17	408	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Green							
+383	Dye-Yellow	1		17	409	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Yellow							
+384	Dye-Purple	1		17	410	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Purple							
+385	Dye-Orange	1		17	411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Orange							
+386	Dye-Tracker	1		17	412	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0					0	Dye_Tracker							
+387	dmg3%	1	+#% Extra Throwing Weapon Damage	15	418	0	0	16	417	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		-100	411		0	pl_minthrowdmg_percent	pl_maxthrowdmg_percent						

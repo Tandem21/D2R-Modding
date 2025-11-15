@@ -1,0 +1,67 @@
+INDEX	Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add	code	mod1code__STR	mod2code__STR	mod2param__STR	mod3code__STR	mod3param__STR	itype1__STR	itype2__STR	itype3__STR	itype4__STR	itype5__STR	itype6__STR	itype7__STR	etype1__STR	etype2__STR	etype3__STR	etype4__STR	etype5__STR	
+1	Fletcher's	100	1	1	1		15				3	300	124	0	1	1	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Fletcher's	skilltab		0		0	armo	weap											
+2	Bowyer's	100	1	1	40		30				2	300	124	0	2	2	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Bowyer's	skilltab		0		0	armo	weap											
+3	Archer's	100	1	1	60		45				1	300	124	0	3	3	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Archer's	skilltab		0		0	armo	weap											
+4	Acrobat's	100	1	1	1		15				3	301	124	1	1	1	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Acrobat's	skilltab		0		0	armo	weap											
+5	Gymnast's	100	1	1	40		30				2	301	124	1	2	2	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Gymnast's	skilltab		0		0	armo	weap											
+6	Athlete's	100	1	1	60		45				1	301	124	1	3	3	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Athlete's	skilltab		0		0	armo	weap											
+7	Harpoonist's	100	1	1	1		15				3	302	124	2	1	1	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Harpoonist's	skilltab		0		0	armo	weap											
+8	Spearmaiden's	100	1	1	40		30				2	302	124	2	2	2	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Spearmaiden's	skilltab		0		0	armo	weap											
+9	Lancer's	100	1	1	60		45				1	302	124	2	3	3	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Lancer's	skilltab		0		0	armo	weap											
+10	of the Jackal	100	1	1	1		3				6	303	13	0	1	5	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of the Jackal	hp	0		0		0	armo	weap											
+11	of the Fox	100	1	1	11		8				5	303	13	0	6	10	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of the Fox	hp	0		0		0	armo	weap											
+12	of the Wolf	100	1	1	27		20				4	303	13	0	11	20	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of the Wolf	hp	0		0		0	armo	weap											
+13	of the Tiger	100	1	1	43		35				3	303	13	0	21	30	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of the Tiger	hp	0		0		0	armo	weap											
+14	of the Mammoth	100	1	1	59		51				2	303	13	0	31	40	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of the Mammoth	hp	0		0		0	armo	weap											
+15	of the Colossus	100	1	1	75		67				1	303	13	0	41	60	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of the Colossus	hp	0		0		0	armo	weap											
+16	Lizard's	100	1	1	3		2				4	303	11	0	1	5	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Lizard's	mana	0		0		0	armo	weap											
+17	Snake's	100	1	1	12		9				3	303	11	0	5	10	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Snake's	mana	0		0		0	armo	weap											
+18	Serpent's	100	1	1	23		16				2	303	11	0	11	20	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Serpent's	mana	0		0		0	armo	weap											
+19	Drake's	100	1	1	34		26				2	303	11	0	21	30	-1	0	0	0	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Drake's	mana	0		0		0	armo	weap											
+20	Dragon's	100	1	1	45		37				1	303	11	0	31	40	-1	0	0	0	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Dragon's	mana	0		0		0	armo	weap											
+21	Wyrm's	100	1	1	56		48				1	303	11	0	41	60	-1	0	0	0	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Wyrm's	mana	0		0		0	armo	weap											
+22	Great Wyrm's	100	1	1	67		59				1	303	11	0	61	80	-1	0	0	0	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Great Wyrm's	mana	0		0		0	armo	weap											
+23	Shimmering	100	1	1	1		3				8	304	41	0	5	10	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Shimmering	res-all	0	oskill_hide	393		0	armo	weap											
+24	Rainbow	100	1	1	18		13				7	304	41	0	8	15	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Rainbow	res-all	0	oskill_hide	393		0	armo	weap											
+25	Scintillating	100	1	1	28		21				6	304	41	0	16	30	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Scintillating	res-all	0	oskill_hide	393		0	armo	weap											
+26	Prismatic	100	1	1	39		31				5	304	41	0	25	35	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Prismatic	res-all	0	oskill_hide	393		0	armo	weap											
+27	Chromatic	100	1	1	50		42				4	304	41	0	35	45	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Chromatic	res-all	0	oskill_hide	393		0	armo	weap											
+28	Sharp	100	1	1	10		5				3	304	15	0	15	30	29	0	10	20	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Sharp	att	0	dmg%	0	oskill_hide	393	armo	weap											
+29	Fine	100	1	1	18		13				3	304	15	0	31	60	29	0	21	30	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Fine	att	0	dmg%	0	oskill_hide	393	armo	weap											
+30	Warrior's	100	1	1	30		23				2	304	15	0	61	80	29	0	31	40	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Warrior's	att	0	dmg%	0	oskill_hide	393	armo	weap											
+31	Soldier's	100	1	1	42		34				2	304	15	0	81	100	29	0	41	50	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Soldier's	att	0	dmg%	0	oskill_hide	393	armo	weap											
+32	Knight's	100	1	1	50		42				2	304	15	0	101	121	29	0	51	65	364	393	1	1	dgld	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Knight's	att	0	dmg%	0	oskill_hide	393	armo	weap											
+33	of Blight	100	1	1	1		3				3	305	222	0	1	5	216	1	5	0	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of Blight	extra-pois	0	pierce-pois	oskill_hide	393	armo	weap											
+34	of Venom	100	1	1	15		11				2	305	222	0	6	10	216	6	10	0	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of Venom	extra-pois	0	pierce-pois	oskill_hide	393	armo	weap											
+35	of Pestilence	100	1	1	25		18				2	305	222	0	11	15	216	11	15	0	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of Pestilence	extra-pois	0	pierce-pois	oskill_hide	393	armo	weap											
+36	of Anthrax	100	1	1	33		25				2	305	222	0	16	20	216	16	20	0	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	of Anthrax	extra-pois	0	pierce-pois	oskill_hide	393	armo	weap											
+37	Infinite	100	1	1	1		1				5	307	175	100	0	0	-1	0	0	0	-1	0	0	0		42	44	43	89	90	0	0	0	0	0	0	0	0	0	Infinite	rep-quant		0		0	tkni	jave	taxe	mboq	mxbq								
+38	Charm Weight: 1	100	1	1	1		1				1	309	362	0	1	1	-1	0	0	0	-1	0	0	0		13	0	0	0	0	0	0	0	0	0	0	0	0	0	Charm Weight: 1	charm-property	0		0		0	char												
+39	Charm Weight: 2	100	1	1	1		1				1	310	362	0	2	2	-1	0	0	0	-1	0	0	0		13	0	0	0	0	0	0	0	0	0	0	0	0	0	Charm Weight: 2	charm-property	0		0		0	char												
+40	Charm Weight: 3	100	1	1	1		1				1	311	362	0	3	3	-1	0	0	0	-1	0	0	0		13	0	0	0	0	0	0	0	0	0	0	0	0	0	Charm Weight: 3	charm-property	0		0		0	char												
+41	Charm Weight Active	100	1	1	1		1				1	312	364	393	1	1	-1	0	0	0	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Charm Weight Active	oskill_hide	393		0		0	armo	weap											
+42	Charm Weight Active Low Level Items	100	1	1	1		1				1	316	364	393	1	1	238	0	-6	-6	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Charm Weight Active Low Level Items	oskill_hide	393	levelreq	0		0	armo	weap											
+43	Bow 1	100	1	1	1		15				3	313	124	0	1	1	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Bow 1	skilltab	oskill_hide	393		0	armo	weap											
+44	Bow 2	100	1	1	40		30				2	313	124	0	2	2	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Bow 2	skilltab	oskill_hide	393		0	armo	weap											
+45	Bow 3	100	1	1	60		45				1	313	124	0	3	3	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Bow 3	skilltab	oskill_hide	393		0	armo	weap											
+46	Spear 1	100	1	1	1		15				3	314	124	2	1	1	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Spear 1	skilltab	oskill_hide	393		0	armo	weap											
+47	Spear 2	100	1	1	40		30				2	314	124	2	2	2	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Spear 2	skilltab	oskill_hide	393		0	armo	weap											
+48	Spear 3	100	1	1	60		45				1	314	124	2	3	3	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Spear 3	skilltab	oskill_hide	393		0	armo	weap											
+49	HP 1	100	1	1	1		3				6	315	13	0	1	5	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	HP 1	hp	0	oskill_hide	393		0	armo	weap											
+50	HP 2	100	1	1	11		8				5	315	13	0	6	10	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	HP 2	hp	0	oskill_hide	393		0	armo	weap											
+51	HP 3	100	1	1	27		20				4	315	13	0	11	20	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	HP 3	hp	0	oskill_hide	393		0	armo	weap											
+52	HP 4	100	1	1	43		35				3	315	13	0	21	30	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	HP 4	hp	0	oskill_hide	393		0	armo	weap											
+53	HP 5	100	1	1	59		51				2	315	13	0	31	40	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	HP 5	hp	0	oskill_hide	393		0	armo	weap											
+54	HP 6	100	1	1	75		67				1	315	13	0	41	60	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	HP 6	hp	0	oskill_hide	393		0	armo	weap											
+55	Mana 1	100	1	1	3		2				4	315	11	0	1	5	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 1	mana	0	oskill_hide	393		0	armo	weap											
+56	Mana 2	100	1	1	12		9				3	315	11	0	5	10	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 2	mana	0	oskill_hide	393		0	armo	weap											
+57	Mana 3	100	1	1	23		16				2	315	11	0	11	20	364	393	1	1	-1	0	0	0		50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 3	mana	0	oskill_hide	393		0	armo	weap											
+58	Mana 4	100	1	1	34		26				2	315	11	0	21	30	364	393	1	1	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 4	mana	0	oskill_hide	393		0	armo	weap											
+59	Mana 5	100	1	1	45		37				1	315	11	0	31	40	364	393	1	1	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 5	mana	0	oskill_hide	393		0	armo	weap											
+60	Mana 6	100	1	1	56		48				1	315	11	0	41	60	364	393	1	1	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 6	mana	0	oskill_hide	393		0	armo	weap											
+61	Mana 7	100	1	1	67		59				1	315	11	0	61	80	364	393	1	1	-1	0	0	0	cblu	50	45	0	0	0	0	0	0	0	0	0	0	0	0	Mana 7	mana	0	oskill_hide	393		0	armo	weap											
+62	Replinish Quant	100	1	1	1		1				5	317	175	100	0	0	364	393	1	1	-1	0	0	0		42	44	43	0	0	0	0	0	0	0	0	0	0	0	Replinish Quant	rep-quant	oskill_hide	393		0	tkni	jave	taxe										
+63	A Jav 1	100	1	1	1		15				3	318	175	100	0	0	124	2	1	1	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	A Jav 1	rep-quant	skilltab	oskill_hide	393	armo	weap											
+64	A Jav 2	100	1	1	40		30				2	318	175	100	0	0	124	2	2	2	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	A Jav 2	rep-quant	skilltab	oskill_hide	393	armo	weap											
+65	A Jav 3	100	1	1	60		45				1	318	175	100	0	0	124	2	3	3	364	393	1	1		50	45	0	0	0	0	0	0	0	0	0	0	0	0	A Jav 3	rep-quant	skilltab	oskill_hide	393	armo	weap											
+66	Replinish Quant Law Lvl	100	1	1	1		1				5	319	175	100	0	0	238	0	-6	-6	364	393	1	1		42	44	43	0	0	0	0	0	0	0	0	0	0	0	Replinish Quant Law Lvl	rep-quant	levelreq	0	oskill_hide	393	tkni	jave	taxe										
